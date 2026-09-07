@@ -146,7 +146,7 @@
       "skillsShUrl": "https://skills.sh/zhouwei713/gpt-image-2-prompting-skill/gpt-image-2-prompting",
       "license": "MIT",
       "commit": "80da4b0364833c1177c525a6f2f9ab4e44e1b8fd",
-      "installs": 71,
+      "installs": 74,
       "contentHash": "0e9471a82acff5d97df1c7e4b796825b751b61cb686c090f4d94e290f2bd3b33"
     }
   },
@@ -293,7 +293,7 @@
       "skillsShUrl": "https://skills.sh/jakubkrehel/skills/better-typography",
       "license": "MIT",
       "commit": "267330e1adfc66a718fb65fa6918c1f06d0a689e",
-      "installs": 13570,
+      "installs": 16946,
       "contentHash": "717f615910470bd2b7c662cce2af2ebd11cd887379a6ea93455c45f3c5ba378d"
     }
   },
@@ -366,7 +366,7 @@
       "skillsShUrl": "https://skills.sh/owl-listener/designer-skills/visual-hierarchy",
       "license": "MIT",
       "commit": "5d255536fd7a909d6e40b5a59d0b97e4bda3502a",
-      "installs": 1597,
+      "installs": 1784,
       "contentHash": "ac1d1d993f4ea681a09a158d65f935acc4b0ffe41fef1e358c3952c524725205"
     }
   },
@@ -439,7 +439,7 @@
       "skillsShUrl": "https://skills.sh/owl-listener/designer-skills/journey-map",
       "license": "MIT",
       "commit": "5d255536fd7a909d6e40b5a59d0b97e4bda3502a",
-      "installs": 1338,
+      "installs": 1492,
       "contentHash": "8462a826ddc0ae73cc43e7dbcfe8f9e243a37158ae9e0804b587a1b6eb85d43f"
     }
   },
@@ -512,7 +512,7 @@
       "skillsShUrl": "https://skills.sh/cuellarfr/design-skills/ux-research",
       "license": "MIT",
       "commit": "b41750affc03669988b649380756bc17fa427a09",
-      "installs": 208,
+      "installs": 221,
       "contentHash": "9cb6593e3ef597fa847955af41782305362ed52264850572873d0520afd4ad79"
     }
   },
@@ -586,7 +586,7 @@
       "skillsShUrl": "https://skills.sh/product-on-purpose/pm-skills/develop-design-rationale",
       "license": "Apache-2.0",
       "commit": "152b175181a7ccba13a46fb1bc6cbcf662ef1dc2",
-      "installs": 601,
+      "installs": 636,
       "contentHash": "853395279e4da6fc4fbbb305544be7b28f65cfb7c24f1b6d558ec07610e99f88"
     }
   },
@@ -661,7 +661,7 @@
       "skillsShUrl": "https://skills.sh/kylezantos/design-motion-principles/design-motion-principles",
       "license": "MIT",
       "commit": "7803a7ccd656281447cf11b9fcc228163bc2e896",
-      "installs": 8654,
+      "installs": 8989,
       "contentHash": "599f42dbf011df38f3fcaf1497533af447d91cf97443b92439455af103c25b2e"
     }
   },
@@ -734,7 +734,7 @@
       "skillsShUrl": "https://skills.sh/iart-ai/motion-design-skills/beat-sync-editing",
       "license": "MIT",
       "commit": "3110f145d92bfbb0d3da88940de6c50225b79bf7",
-      "installs": 558,
+      "installs": 678,
       "contentHash": "92118cd6a5821974aa084a9838f263b46ee65fa1f48aaded8e676861f8c2de28"
     }
   },
@@ -822,7 +822,7 @@
       "skillsShUrl": "https://skills.sh/wuyoscar/gpt-image2-skill/gpt-image",
       "license": "MIT",
       "commit": "e80dc77e5ae5e1725c95b4acea08e61f5e0fe552",
-      "installs": 405,
+      "installs": 431,
       "contentHash": "28336b6a46ff30e5ecc6cabe3f5e1220e396c61826f3717a73f1677f45274f5d"
     }
   },
@@ -909,7 +909,7 @@
       "skillsShUrl": "https://skills.sh/agentara/skills/video-poster-design",
       "license": "MIT",
       "commit": "fbf6496604ff393c8919911ef9596cc2bfaf59b1",
-      "installs": 218,
+      "installs": 224,
       "contentHash": "4441cdbac4128fb00d8201fa9086e7eb100685e7b5dbc992de6d094947ce8370"
     }
   },
@@ -1079,7 +1079,7 @@
       "skillsShUrl": "https://skills.sh/owl-listener/designer-skills/critique-visual-hierarchy",
       "license": "MIT",
       "commit": "5d255536fd7a909d6e40b5a59d0b97e4bda3502a",
-      "installs": 1080,
+      "installs": 1269,
       "contentHash": "e9c210156b5cd6c049922c0ca2ab65dbed96bc3c2d2bfaa0b4b1ea47c89ec4b1"
     }
   },
@@ -1151,7 +1151,7 @@
       "skillsShUrl": "https://skills.sh/dembrandt/dembrandt-skills/visual-emphasis-and-hierarchy",
       "license": "MIT",
       "commit": "ac691f5dfb407f12fcd6b269f2287a870e985bee",
-      "installs": 591,
+      "installs": 622,
       "contentHash": "2b66d5e81ed9bdc45898b6e8973d96fc9605cea993b77c27f73f157c3d0b7dca"
     }
   },
@@ -1221,7 +1221,7 @@
       "skillsShUrl": "https://skills.sh/sanky369/vibe-building-skills/visual-hierarchy-refactoring",
       "license": "MIT",
       "commit": "12f8a09907ed7d0948187a2f377ca0c7d301c11a",
-      "installs": 71,
+      "installs": 76,
       "contentHash": "8105a7d1f2b8873c41ff9320a89f8f142a60396c2bd2b74ba2c8515bdf76a316"
     }
   },
@@ -1361,7 +1361,7 @@
       "skillsShUrl": "https://skills.sh/sanky369/vibe-building-skills/typography-system",
       "license": "MIT",
       "commit": "12f8a09907ed7d0948187a2f377ca0c7d301c11a",
-      "installs": 237,
+      "installs": 248,
       "contentHash": "16da1639f75d7a9e60883e6857b4690c791bdc4d8e126735757828d47d12bed7"
     }
   },
@@ -1436,7 +1436,7 @@
       "skillsShUrl": "https://skills.sh/onewave-ai/claude-skills/typography-scale-builder",
       "license": "MIT",
       "commit": "bc8971997b170edaad9d73218b285f27a456138c",
-      "installs": 38,
+      "installs": 47,
       "contentHash": "c2921f2b9b81e618f269981eb3df56fed68e7d2f5a0f21efc953327a7e7b7937"
     }
   },
@@ -1508,7 +1508,7 @@
       "skillsShUrl": "https://skills.sh/podo/design-agent-skills/baseline-ui",
       "license": "MIT",
       "commit": "1f1e31426f0433cc5787588f6f9c82c505e7fde8",
-      "installs": 82,
+      "installs": 93,
       "contentHash": "5ae6402839baef03103dc2bcf645ce805b9e4e2734d3848d954073545c12aad7"
     }
   },
@@ -1656,7 +1656,7 @@
       "skillsShUrl": "https://skills.sh/owl-listener/inclusive-design-skills/flexible-typography",
       "license": "MIT",
       "commit": "cf9d1b2175bce35b3beaaabb7f4116c1123fabc1",
-      "installs": 53,
+      "installs": 57,
       "contentHash": "60ed6308b9434bcb50cbe4c4bad17cb6efa8841b14dbbcfb52ba35bd630374fc"
     }
   },
@@ -1868,7 +1868,7 @@
       "skillsShUrl": "https://skills.sh/dylantarre/animation-principles/ux-researcher",
       "license": "MIT",
       "commit": "747c656abe3b3b155552acb24efa2234aa8027fb",
-      "installs": 410,
+      "installs": 421,
       "contentHash": "2c7978c19c69b1e90bf8bafb62bf5eb8f52667ded3935add102331db53f3ba8c"
     }
   },
@@ -1940,7 +1940,7 @@
       "skillsShUrl": "https://skills.sh/vasilyu1983/ai-agents-public/software-ux-research",
       "license": "MIT",
       "commit": "4aa2d12c219bad9d9d23b82ad3f94939e415f86e",
-      "installs": 190,
+      "installs": 192,
       "contentHash": "87da31a633bdbddd3ac6710540f77c58011f9fd7b644e09114967e97ab92d526"
     }
   },
@@ -2012,7 +2012,7 @@
       "skillsShUrl": "https://skills.sh/hueyexe/frontend-agent-skills/ux-research-discovery-testing",
       "license": "MIT",
       "commit": "2841c079dd8a9c634882227194dc42e25227710d",
-      "installs": 133,
+      "installs": 158,
       "contentHash": "1bf930dd07530bc1d500d9b9f7f22781f2db8dd44a8a9e4df7ace1c2a6c0055d"
     }
   },
@@ -2228,7 +2228,7 @@
       "skillsShUrl": "https://skills.sh/phuryn/pm-skills/customer-journey-map",
       "license": "MIT",
       "commit": "a372bee16dc2275e26078ca70a2eb7614ea316f7",
-      "installs": 2431,
+      "installs": 2540,
       "contentHash": "656c0e16318b3b24870065a8eabb8a116b72e47c167472836ce76ea97ec5c75e"
     }
   },
@@ -2298,7 +2298,7 @@
       "skillsShUrl": "https://skills.sh/product-on-purpose/pm-skills/discover-journey-map",
       "license": "Apache-2.0",
       "commit": "e27476a75847bc323848f4e3e5f143892fb65a25",
-      "installs": 485,
+      "installs": 519,
       "contentHash": "9795a404438f6fc93975a2528b4c4f4bde9a66a60911d05fa9b673c3510b778d"
     }
   },
@@ -2373,7 +2373,7 @@
       "skillsShUrl": "https://skills.sh/onewave-ai/claude-skills/customer-journey-mapper",
       "license": "MIT",
       "commit": "d82d20ff6d8e44befaa6a777cf037adcf0a5ddd9",
-      "installs": 185,
+      "installs": 195,
       "contentHash": "a359cbfc127d442fbabb339741cc21048d3405066bbfd31b0f4d6c2add036d36"
     }
   },
@@ -2445,7 +2445,7 @@
       "skillsShUrl": "https://skills.sh/thatrebeccarae/claude-marketing/customer-journey-mapping",
       "license": "MIT",
       "commit": "c11e1a164633bee84bc320dd81fb5b17dc962cab",
-      "installs": 73,
+      "installs": 79,
       "contentHash": "1e05f6e2cc211ba8dffea1d28c4bb53d513a8b50005fdfc5b80f33ccb3386d88"
     }
   },
@@ -2729,7 +2729,7 @@
       "skillsShUrl": "https://skills.sh/owl-listener/designer-skills/design-rationale",
       "license": "MIT",
       "commit": "5d255536fd7a909d6e40b5a59d0b97e4bda3502a",
-      "installs": 1316,
+      "installs": 1468,
       "contentHash": "d451c85c38687c5f7289c42fd6a09e9ac6e43671468b9a313017f1959d7c76f0"
     }
   },
@@ -2799,7 +2799,7 @@
       "skillsShUrl": "https://skills.sh/phuryn/pm-skills/positioning-ideas",
       "license": "MIT",
       "commit": "a372bee16dc2275e26078ca70a2eb7614ea316f7",
-      "installs": 2361,
+      "installs": 2464,
       "contentHash": "8864f284e66c8bb106c46dc5e51656a47ae4792e39091eb3a49f63cde00c3850"
     }
   },
@@ -2871,7 +2871,7 @@
       "skillsShUrl": "https://skills.sh/dylantarre/animation-principles/motion-designer",
       "license": "MIT",
       "commit": "747c656abe3b3b155552acb24efa2234aa8027fb",
-      "installs": 1343,
+      "installs": 1376,
       "contentHash": "54d02d2ca5eb8b66db76c869cb7828b726f1b19452a88d2815febbecddf193df"
     }
   },
@@ -2941,7 +2941,7 @@
       "skillsShUrl": "https://skills.sh/athevon/genjutsu/motion-principles",
       "license": "MIT",
       "commit": "a41ae8b04334e7edce6c4289d9068aa65cf5a24e",
-      "installs": 829,
+      "installs": 914,
       "contentHash": "e186d6beca74ce90008d7a96d06c4ba79e4dd4de2a315e7d1614d53a1a6931d7"
     }
   },
@@ -3011,7 +3011,7 @@
       "skillsShUrl": "https://skills.sh/dylantarre/animation-principles/framer-motion",
       "license": "MIT",
       "commit": "747c656abe3b3b155552acb24efa2234aa8027fb",
-      "installs": 1516,
+      "installs": 1537,
       "contentHash": "8428007eea0cd4f1bf9564e51ef11dfb398184fd67fd8caaedc885866e42fed1"
     }
   },
@@ -3081,7 +3081,7 @@
       "skillsShUrl": "https://skills.sh/dylantarre/animation-principles/web-motion-design",
       "license": "MIT",
       "commit": "747c656abe3b3b155552acb24efa2234aa8027fb",
-      "installs": 1027,
+      "installs": 1091,
       "contentHash": "5fd447db3456a1f986850d9cc6caba0c9c800e8161f57faede53c91fa458b194"
     }
   },
@@ -3151,7 +3151,7 @@
       "skillsShUrl": "https://skills.sh/dylantarre/animation-principles/motion-one",
       "license": "MIT",
       "commit": "747c656abe3b3b155552acb24efa2234aa8027fb",
-      "installs": 428,
+      "installs": 440,
       "contentHash": "8b757b58d69ca7b416a050ce41f801216098fe6321c867791290926c329efc8b"
     }
   },
@@ -3221,7 +3221,7 @@
       "skillsShUrl": "https://skills.sh/iart-ai/motion-design-skills/animation-principles",
       "license": "MIT",
       "commit": "3110f145d92bfbb0d3da88940de6c50225b79bf7",
-      "installs": 557,
+      "installs": 678,
       "contentHash": "21637766f8ae115f427ab086ec903106b3dfa5eac7fdf05d9926e4b557bff892"
     }
   },
@@ -3363,7 +3363,7 @@
       "skillsShUrl": "https://skills.sh/dylantarre/animation-principles/universal-fallback",
       "license": "MIT",
       "commit": "747c656abe3b3b155552acb24efa2234aa8027fb",
-      "installs": 368,
+      "installs": 378,
       "contentHash": "070aebc737f5e398bc64906aa732d908853a84b1cf0c4510c0ed0744f42337bd"
     }
   },
@@ -3435,7 +3435,7 @@
       "skillsShUrl": "https://skills.sh/podo/design-agent-skills/motion-design-skill",
       "license": "MIT",
       "commit": "0fb9f04aa8ecd655c461c9ce90e340c241447978",
-      "installs": 77,
+      "installs": 87,
       "contentHash": "ad9e1f30b0cd81bd8883a14f5aeb6aa081074a8c01b15526eac1bfa8dc284ef2"
     }
   },
@@ -3645,7 +3645,7 @@
       "skillsShUrl": "https://skills.sh/devcxl/mattpocock-skills-zh/writing-beats",
       "license": "MIT",
       "commit": "967d5fb0238c2b0f9a02dbf4723de96c12e5dab1",
-      "installs": 23,
+      "installs": 24,
       "contentHash": "50a52d4c3e8f24acce980ee480279183de1281310ea2411ecb46219b2e33fb3e"
     }
   },
@@ -3789,7 +3789,7 @@
       "skillsShUrl": "https://skills.sh/touge1618/touge-spoken-storyboard/touge-spoken-storyboard",
       "license": "Apache-2.0",
       "commit": "e93db9d7a57a57701c07462cd1f5c58284406dd5",
-      "installs": 15,
+      "installs": 17,
       "contentHash": "342c79a7b15b28988814f7a522522f8f968d974a47777a39d2a8ed6b5790ebbe"
     }
   },
@@ -3935,7 +3935,7 @@
       "skillsShUrl": "https://skills.sh/wddxh/shortvideodirector/storyboarder-storyboard",
       "license": "MIT",
       "commit": "12ec6a4ca5566ce74bf14bccd0fea0ec6851123f",
-      "installs": 4,
+      "installs": 7,
       "contentHash": "92189bbb7025cfd813ec452d6f9df7ea1c229e2ce9bfca880d82bfb492804b08"
     }
   },
@@ -4007,7 +4007,7 @@
       "skillsShUrl": "https://skills.sh/wddxh/shortvideodirector/storyboarder-fix-storyboard",
       "license": "MIT",
       "commit": "12ec6a4ca5566ce74bf14bccd0fea0ec6851123f",
-      "installs": 4,
+      "installs": 6,
       "contentHash": "cc27673b26d2ed5305ee3fe28ac290e0ecfde3f42b1ff67154d8df06005b56cc"
     }
   },
@@ -4077,7 +4077,7 @@
       "skillsShUrl": "https://skills.sh/scibly-dev/skills/storyboard",
       "license": "MIT",
       "commit": "bbafe9e621997e916faa186482a0dcfe63f9314b",
-      "installs": 5,
+      "installs": 6,
       "contentHash": "de7184a98f0aeb836708846b79fe8f4ba32c9074e409e6d0f51527e75381ac3e"
     }
   },
@@ -4153,6 +4153,364 @@
       "commit": "6141af0172f64d5c15bc95f75df7401ddd256c1d",
       "installs": 43,
       "contentHash": "537766f0c70e85a021853a93bcb96bd4c0662ac4c8052c58854a69f2761d2949"
+    }
+  },
+  {
+    "id": "gpt-image-slide-prompt",
+    "slug": "gpt-image-slide-prompt",
+    "status": "active",
+    "category": "visual",
+    "categoryLabel": "视觉设计",
+    "title": {
+      "zhCN": "gpt-image-slide-prompt",
+      "sourceEN": "gpt-image-slide-prompt",
+      "aliases": [
+        "GPT IMAGE SLIDE PROMPT — WRITE PAGE-BY-PAGE GENERATION PROMPTS",
+        "Primary objective",
+        "Most important rule",
+        "Inputs and their roles"
+      ]
+    },
+    "summary": {
+      "zhCN": "这个 Skill 用于：Page-level GPT image slide prompting skill. Converts DESIGN.md and slide_plan.json into detailed slide-generation prompts in JSON while preserving theme, body-slide consistency, and layout discipline.",
+      "sourceEN": "Page-level GPT image slide prompting skill. Converts DESIGN.md and slide_plan.json into detailed slide-generation prompts in JSON while preserving theme, body-slide consistency, and layout discipline."
+    },
+    "content": {
+      "sourceEN": "# GPT IMAGE SLIDE PROMPT — WRITE PAGE-BY-PAGE GENERATION PROMPTS\n\nYou are a slide prompt engineer. Your job is to convert:\n\n- extracted `DESIGN.md`\n- approved `slide_plan.json`\n- user files / content evidence\n\ninto highly structured, page-by-page prompts for generating PPT slides or slide images.\n\nThis skill comes after planning.\nDo not redesign the deck from scratch.\nDo not reorder the story unless the plan is clearly broken.\n\n## Primary objective\n\nWrite one prompt per slide that is:\n\n- faithful to `DESIGN.md`\n- faithful to the slide plan\n- explicit enough for generation\n- consistent across body slides\n- specific about layout, hierarchy, and content placement\n- explicit about header / body / footer zoning\n- explicit about icon usage and infographic / diagram composition when relevant\n- robust against generic slide output\n\n## Most important rule\n\nKeep the **body slide layout and design theme consistent across the deck**.\n\nThat means:\n- repeated slide families should feel like members of the same system\n- color, type hierarchy, spacing, chart grammar, and callout style must remain stable\n- only vary layout when the slide role genuinely changes\n- title page, body pages, and end page should each follow a controlled family logic\n- icon systems, infographic cards, and diagram connectors must stay stylistically consistent across related slides\n\nDo not make every slide visually different just because you can.\n\n## Inputs and their roles\n\n- `DESIGN.md` = visual law\n- `slide_plan.json` = narrative law\n- user files = factual evidence and raw content\n- your inference = gap-filling only\n\nIf these conflict:\n1. preserve factual correctness\n2. preserve the approved narrative flow\n3. preserve the extracted design system\n4. only then optimize phrasing\n\n## Prompt-writing method\n\nFor each slide:\n\n1. read the planned role and core message\n2. select the correct layout family from `DESIGN.md`\n3. map the content into a clear slide hierarchy\n4. specify what belongs in the header, body, and footer zones\n5. specify what belongs in the title, body, chart, callout, caption, icon group, card system, diagram flow, or footer\n5. enforce the recurring body-slide rules\n6. include explicit exclusions so the generator avoids clutter\n\n## Tightening rules\n\nYou must write prompts that are difficult to misread as generic slide-template instructions.\n\n- Do not write vague instructions like “make it modern” or “use a clean layout” without specifying the actual structure.\n- Do not let generators improvise the core composition. Name the dominant content system explicitly.\n- Do not allow title blocks to become narrow 5-6 line walls unless that is specifically required by the reference.\n- Do not permit random badges, floating icons, or empty decorative shapes.\n- Do not let every slide become a four-card template unless the plan explicitly calls for it.\n- If a slide is table-led, say so directly and specify where the table sits and how dense it can be.\n- If a slide is chart-led, state the chart family, what is primary, what is secondary, and what annotations are allowed.\n- If a slide is icon-led or diagram-led, specify the semantic role of the icons and connectors so they do not become decorative filler.\n- If a slide belongs to a report-like deck, preserve report discipline: restrained headers, analytical body, low-noise footers, and evidence-first visuals.\n\n## Required output format\n\nReturn valid JSON only, using this structure:\n\n```json\n{\n  \"deck_prompt_meta\": {\n    \"design_system_name\": \"\",\n    \"global_theme_summary\": \"\",\n    \"global_consistency_rules\": [],\n    \"body_slide_system\": \"\",\n    \"json_version\": \"1.0\"\n  },\n  \"slides\": [\n    {\n      \"slide_number\": 1,\n      \"slide_role\": \"\",\n      \"page_family\": \"title|body|end|appendix\",\n      \"slide_title\": \"\",\n      \"layout_family\": \"\",\n      \"prompt\": {\n        \"objective\": \"\",\n        \"narrative_function\": \"\",\n        \"visual_intent\": \"\",\n        \"content_blocks\": [\n          {\n            \"block_type\": \"title|subtitle|summary|bullets|chart|table|callout|quote|timeline|comparison|image|footer_note|source_note|icon_group|metric_cards|infographic|diagram_flow\",\n            \"purpose\": \"\",\n            \"content_instruction\": \"\",\n            \"placement_instruction\": \"\",\n            \"style_instruction\": \"\"\n          }\n        ],\n        \"layout_instructions\": {\n          \"structure\": \"\",\n          \"header_body_footer\": {\n            \"header\": \"\",\n            \"body\": \"\",\n            \"footer\": \"\"\n          },\n          \"reading_order\": [],\n          \"alignment\": \"\",\n          \"spacing\": \"\",\n          \"density\": \"\",\n          \"body_slide_consistency\": \"\"\n        },\n        \"design_constraints\": {\n          \"palette_rules\": [],\n          \"typography_rules\": [],\n          \"component_rules\": [],\n          \"chart_rules\": [],\n          \"table_rules\": [],\n          \"icon_rules\": [],\n          \"infographic_rules\": [],\n          \"diagram_rules\": [],\n          \"imagery_rules\": [],\n          \"anti_patterns_to_avoid\": []\n        },\n        \"content_constraints\": {\n          \"must_include\": [],\n          \"must_not_include\": [],\n          \"evidence_to_use\": [],\n          \"evidence_to_avoid\": []\n        },\n        \"generator_notes\": {\n          \"ppt_generation_note\": \"\",\n          \"image_generation_note\": \"\",\n          \"fallback_if_content_is_sparse\": \"\"\n        }\n      }\n    }\n  ]\n}\n```\n\n## Slide prompt quality bar\n\nEach page prompt must answer these questions clearly:\n\n- what this slide is trying to achieve\n- what the audience should notice first\n- how the content should be arranged\n- what should be emphasized visually\n- what must remain consistent with the rest of the deck\n- what should be excluded to prevent generic slide clutter\n- how header, body, and footer are organized\n- whether icons, infographic cards, or diagram flows are used and why\n\n## Body-slide discipline\n\nFor slides 2 through N-1, default to a limited family of reusable body-slide layouts defined in `DESIGN.md`, such as:\n- insight + evidence\n- 2-column argument + proof\n- single hero chart + annotation rail\n- comparison matrix\n- process / timeline\n\nOnly deviate if the slide role strongly demands it.\n\nFor title pages and end pages:\n- explicitly preserve their own family logic rather than treating them like generic body slides\n- define what belongs in header, body, and footer zones even if one zone is sparse by design\n\n## Anti-generic slide rules\n\nIn every page prompt, explicitly suppress:\n- random icon spam\n- decorative shapes not present in `DESIGN.md`\n- overcrowded bullet dumps\n- inconsistent chart styling\n- inconsistent icon style or icon size hierarchy\n- infographic cards that look unrelated to the deck system\n- diagram arrows/connectors that feel like default template artifacts\n- title hierarchy drift\n- template-like “one title + four equal boxes” unless planned\n- visual novelty that breaks body-slide consistency\n- fake analyst charts with made-up legends or decorative numbers\n- table dumps with no hierarchy or unusably tiny text\n\n## When source material is dense\n\nDo not paste raw text into prompts.\nInstead:\n- compress content into claims\n- map evidence to the right visual block\n- choose one visual center of gravity per slide\n- decide whether the visual center should be chart-led, card-led, icon-led, or diagram-led\n- push overflow material into appendix candidates if needed\n\n## Final validation\n\nBefore returning JSON, verify:\n\n1. every slide prompt matches a slide in the plan\n2. numbering is sequential and complete\n3. body-slide consistency rules are repeated where needed\n4. the deck still reflects the extracted `DESIGN.md`\n5. page prompts are detailed enough to generate slides without guessing the whole layout\n6. title page, body pages, and end page each preserve their intended flow\n7. header / body / footer placement is explicit\n8. icon / infographic / diagram usage is explicit where relevant\n9. table / chart usage is explicit where relevant",
+      "zhCN": "# GPT IMAGE SLIDE PROMPT — WRITE PAGE-BY-PAGE GENERATION PROMPTS\n\nYou are a slide prompt engineer. Your job is to convert:\n\n- extracted `DESIGN.md`\n- approved `slide_plan.json`\n- user files / content evidence\n\ninto highly structured, page-by-page prompts for generating PPT slides or slide images.\n\nThis skill comes after planning.\nDo not redesign the deck from scratch.\nDo not reorder the story unless the plan is clearly broken.\n\n## Primary objective\n\nWrite one prompt per slide that is:\n\n- faithful to `DESIGN.md`\n- faithful to the slide plan\n- explicit enough for generation\n- consistent across body slides\n- specific about layout, hierarchy, and content placement\n- explicit about header / body / footer zoning\n- explicit about icon usage and infographic / diagram composition when relevant\n- robust against generic slide output\n\n## Most important rule\n\nKeep the **body slide layout and design theme consistent across the deck**.\n\nThat means:\n- repeated slide families should feel like members of the same system\n- color, type hierarchy, spacing, chart grammar, and callout style must remain stable\n- only vary layout when the slide role genuinely changes\n- title page, body pages, and end page should each follow a controlled family logic\n- icon systems, infographic cards, and diagram connectors must stay stylistically consistent across related slides\n\nDo not make every slide visually different just because you can.\n\n## Inputs and their roles\n\n- `DESIGN.md` = visual law\n- `slide_plan.json` = narrative law\n- user files = factual evidence and raw content\n- your inference = gap-filling only\n\nIf these conflict:\n1. preserve factual correctness\n2. preserve the approved narrative flow\n3. preserve the extracted design system\n4. only then optimize phrasing\n\n## Prompt-writing method\n\nFor each slide:\n\n1. read the planned role and core message\n2. select the correct layout family from `DESIGN.md`\n3. map the content into a clear slide hierarchy\n4. specify what belongs in the header, body, and footer zones\n5. specify what belongs in the title, body, chart, callout, caption, icon group, card system, diagram flow, or footer\n5. enforce the recurring body-slide rules\n6. include explicit exclusions so the generator avoids clutter\n\n## Tightening rules\n\nYou must write prompts that are difficult to misread as generic slide-template instructions.\n\n- Do not write vague instructions like “make it modern” or “use a clean layout” without specifying the actual structure.\n- Do not let generators improvise the core composition. Name the dominant content system explicitly.\n- Do not allow title blocks to become narrow 5-6 line walls unless that is specifically required by the reference.\n- Do not permit random badges, floating icons, or empty decorative shapes.\n- Do not let every slide become a four-card template unless the plan explicitly calls for it.\n- If a slide is table-led, say so directly and specify where the table sits and how dense it can be.\n- If a slide is chart-led, state the chart family, what is primary, what is secondary, and what annotations are allowed.\n- If a slide is icon-led or diagram-led, specify the semantic role of the icons and connectors so they do not become decorative filler.\n- If a slide belongs to a report-like deck, preserve report discipline: restrained headers, analytical body, low-noise footers, and evidence-first visuals.\n\n## Required output format\n\nReturn valid JSON only, using this structure:\n\n```json\n{\n  \"deck_prompt_meta\": {\n    \"design_system_name\": \"\",\n    \"global_theme_summary\": \"\",\n    \"global_consistency_rules\": [],\n    \"body_slide_system\": \"\",\n    \"json_version\": \"1.0\"\n  },\n  \"slides\": [\n    {\n      \"slide_number\": 1,\n      \"slide_role\": \"\",\n      \"page_family\": \"title|body|end|appendix\",\n      \"slide_title\": \"\",\n      \"layout_family\": \"\",\n      \"prompt\": {\n        \"objective\": \"\",\n        \"narrative_function\": \"\",\n        \"visual_intent\": \"\",\n        \"content_blocks\": [\n          {\n            \"block_type\": \"title|subtitle|summary|bullets|chart|table|callout|quote|timeline|comparison|image|footer_note|source_note|icon_group|metric_cards|infographic|diagram_flow\",\n            \"purpose\": \"\",\n            \"content_instruction\": \"\",\n            \"placement_instruction\": \"\",\n            \"style_instruction\": \"\"\n          }\n        ],\n        \"layout_instructions\": {\n          \"structure\": \"\",\n          \"header_body_footer\": {\n            \"header\": \"\",\n            \"body\": \"\",\n            \"footer\": \"\"\n          },\n          \"reading_order\": [],\n          \"alignment\": \"\",\n          \"spacing\": \"\",\n          \"density\": \"\",\n          \"body_slide_consistency\": \"\"\n        },\n        \"design_constraints\": {\n          \"palette_rules\": [],\n          \"typography_rules\": [],\n          \"component_rules\": [],\n          \"chart_rules\": [],\n          \"table_rules\": [],\n          \"icon_rules\": [],\n          \"infographic_rules\": [],\n          \"diagram_rules\": [],\n          \"imagery_rules\": [],\n          \"anti_patterns_to_avoid\": []\n        },\n        \"content_constraints\": {\n          \"must_include\": [],\n          \"must_not_include\": [],\n          \"evidence_to_use\": [],\n          \"evidence_to_avoid\": []\n        },\n        \"generator_notes\": {\n          \"ppt_generation_note\": \"\",\n          \"image_generation_note\": \"\",\n          \"fallback_if_content_is_sparse\": \"\"\n        }\n      }\n    }\n  ]\n}\n```\n\n## Slide prompt quality bar\n\nEach page prompt must answer these questions clearly:\n\n- what this slide is trying to achieve\n- what the audience should notice first\n- how the content should be arranged\n- what should be emphasized visually\n- what must remain consistent with the rest of the deck\n- what should be excluded to prevent generic slide clutter\n- how header, body, and footer are organized\n- whether icons, infographic cards, or diagram flows are used and why\n\n## Body-slide discipline\n\nFor slides 2 through N-1, default to a limited family of reusable body-slide layouts defined in `DESIGN.md`, such as:\n- insight + evidence\n- 2-column argument + proof\n- single hero chart + annotation rail\n- comparison matrix\n- process / timeline\n\nOnly deviate if the slide role strongly demands it.\n\nFor title pages and end pages:\n- explicitly preserve their own family logic rather than treating them like generic body slides\n- define what belongs in header, body, and footer zones even if one zone is sparse by design\n\n## Anti-generic slide rules\n\nIn every page prompt, explicitly suppress:\n- random icon spam\n- decorative shapes not present in `DESIGN.md`\n- overcrowded bullet dumps\n- inconsistent chart styling\n- inconsistent icon style or icon size hierarchy\n- infographic cards that look unrelated to the deck system\n- diagram arrows/connectors that feel like default template artifacts\n- title hierarchy drift\n- template-like “one title + four equal boxes” unless planned\n- visual novelty that breaks body-slide consistency\n- fake analyst charts with made-up legends or decorative numbers\n- table dumps with no hierarchy or unusably tiny text\n\n## When source material is dense\n\nDo not paste raw text into prompts.\nInstead:\n- compress content into claims\n- map evidence to the right visual block\n- choose one visual center of gravity per slide\n- decide whether the visual center should be chart-led, card-led, icon-led, or diagram-led\n- push overflow material into appendix candidates if needed\n\n## Final validation\n\nBefore returning JSON, verify:\n\n1. every slide prompt matches a slide in the plan\n2. numbering is sequential and complete\n3. body-slide consistency rules are repeated where needed\n4. the deck still reflects the extracted `DESIGN.md`\n5. page prompts are detailed enough to generate slides without guessing the whole layout\n6. title page, body pages, and end page each preserve their intended flow\n7. header / body / footer placement is explicit\n8. icon / infographic / diagram usage is explicit where relevant\n9. table / chart usage is explicit where relevant"
+    },
+    "whenToUse": [
+      "需要应用这个 Skill 的方法时",
+      "希望把方法转换为可复用案例时"
+    ],
+    "workflow": [
+      "理解用户目标",
+      "按 Skill 方法完成任务",
+      "检查并交付结果"
+    ],
+    "outputs": [
+      "结构化方法说明",
+      "可复制的案例 Prompt"
+    ],
+    "dependencies": [],
+    "riskNotes": [],
+    "cases": [
+      {
+        "id": "gpt-image-slide-prompt-gpt-image-slide-prompt-1",
+        "title": "gpt-image-slide-prompt 案例 1",
+        "summary": "使用原 Skill 的核心工作流解决一个具体问题。",
+        "input": "描述你的目标、对象和限制条件。",
+        "prompt": "请使用 gpt-image-slide-prompt 的方法完成这个任务，并展示关键步骤与最终结果。",
+        "output": "结构化结果与下一步建议",
+        "executionMode": "structured"
+      },
+      {
+        "id": "gpt-image-slide-prompt-gpt-image-slide-prompt-2",
+        "title": "gpt-image-slide-prompt 案例 2",
+        "summary": "使用原 Skill 的核心工作流解决一个具体问题。",
+        "input": "描述你的目标、对象和限制条件。",
+        "prompt": "请使用 gpt-image-slide-prompt 的方法完成这个任务，并展示关键步骤与最终结果。",
+        "output": "结构化结果与下一步建议",
+        "executionMode": "structured"
+      }
+    ],
+    "source": {
+      "repository": "humantonylee/future-slide",
+      "skillPath": "skills/gpt-image-slide-prompt/SKILL.md",
+      "githubUrl": "https://github.com/humantonylee/future-slide",
+      "skillsShUrl": "https://skills.sh/humantonylee/future-slide/gpt-image-slide-prompt",
+      "license": "Apache-2.0",
+      "commit": "d9c4ff6f7bddd4fd1c9a03467923df6e0c167a1c",
+      "installs": 184,
+      "contentHash": "160014353e9e069c18cbc5c63acf5058fad28816d69e896d44d01627324a5047"
+    }
+  },
+  {
+    "id": "gpt-image-prompts",
+    "slug": "gpt-image-prompts",
+    "status": "active",
+    "category": "visual",
+    "categoryLabel": "视觉设计",
+    "title": {
+      "zhCN": "gpt-image-prompts",
+      "sourceEN": "gpt-image-prompts",
+      "aliases": [
+        "GPT Image Prompt Generator",
+        "Output",
+        "Model defaults and constraints",
+        "Golden rules"
+      ]
+    },
+    "summary": {
+      "zhCN": "这个 Skill 用于：Turn a visual idea into a production-ready prompt and API settings for OpenAI GPT Image models (gpt-image-2).",
+      "sourceEN": "Turn a visual idea into a production-ready prompt and API settings for OpenAI GPT Image models (gpt-image-2)."
+    },
+    "content": {
+      "sourceEN": "# GPT Image Prompt Generator\n\nGenerate prompts for OpenAI GPT Image models, with `gpt-image-2` as the default target. Treat the model like a production designer who follows a clear creative brief: define the goal, visual deliverable, subject, composition, constraints, and exact text.\n\nPrimary reference: OpenAI's GPT Image Generation Models Prompting Guide: <https://developers.openai.com/cookbook/examples/multimodal/image-gen-models-prompting-guide>\n\n## Output\n\nUnless the user asks for another format, return:\n\n1. **Ready-to-use prompt** in a fenced code block.\n2. **Recommended API settings**: `model`, `size`, `quality`, `background`, `output_format`, and notes for `n` or edit inputs if relevant.\n3. **Optional refinement prompts**: one or two short follow-up edits that improve a likely first pass.\n\nIf critical details are missing, ask only the minimum clarifying questions needed. Otherwise, make tasteful assumptions and state them briefly.\n\n## Model defaults and constraints\n\n- **Default model:** `gpt-image-2`.\n- **Quality:** use `low` for fast drafts, thumbnails, and broad exploration; use `medium` for most production prompts; use `high` for dense text, small labels, infographics, slide/chart outputs, close-up portraits, identity-sensitive edits, and final assets.\n- **Size:** use a concrete size when the output format is known; otherwise use `auto`.\n  - Common sizes: `1024x1024`, `1536x1024`, `1024x1536`, `2048x2048`, `2048x1152`, `3840x2160`, `2160x3840`.\n  - `gpt-image-2` size constraints: both edges multiples of 16px; max edge ≤ 3840px; long:short ratio ≤ 3:1; total pixels from 655,360 to 8,294,400.\n  - Outputs above `2560x1440` are more variable/experimental; prefer 2K or below for reliability unless the user needs 4K.\n- **Background:** `gpt-image-2` does **not** support transparent backgrounds. Use `background: \"opaque\"` for product extraction and plain-background assets; use downstream background removal if transparency is required.\n- **Input fidelity:** omit `input_fidelity` for `gpt-image-2`; it processes inputs at high fidelity by default.\n- **Output format:** default `png`; choose `jpeg` for lower latency/photo workflows; choose `webp` for compressed web assets.\n- **Variations:** use `n` when the user wants multiple directions, logos, thumbnails, or ad concepts.\n\n## Golden rules\n\n1. **Write a creative brief, not tag soup.** Natural language and labeled sections are better than keyword piles.\n2. **Lead with purpose.** Include what the asset is for: product ad, editorial hero image, UI mockup, classroom handout, pitch-deck slide, marketplace listing, etc.\n3. **Use a stable prompt order.** Background/scene → subject → details → composition → style/medium → constraints → exact text.\n4. **Name the visual medium explicitly.** Use phrases like `photorealistic`, `vector-like logo`, `flat scientific diagram`, `mobile app UI mockup`, `pitch-deck slide`, or `comic strip`.\n5. **Specify composition.** Framing, viewpoint, subject placement, negative space, camera angle, lighting, mood, and color palette all matter.\n6. **Preserve invariants in edits.** Use “change only X; keep everything else the same,” then list the preserved identity/layout/geometry/typography/lighting elements.\n7. **Quote exact text.** Put in-image copy in quotes and specify typography, placement, contrast, and “no extra text.” For hard spellings, spell words letter by letter.\n8. **Iterate surgically.** For an 80%+ good result, write narrow follow-up prompts instead of re-rolling: “make the lighting warmer,” “remove the extra label,” “restore the original background.”\n\n## Prompt structure template\n\nUse labeled sections for complex or production prompts:\n\n```text\nCreate [DELIVERABLE] for [PURPOSE/AUDIENCE].\n\nScene / background:\n[Environment, era, mood, context, world details]\n\nSubject:\n[Main subject with concrete attributes, materials, identity cues, pose/action]\n\nComposition:\n[Framing, viewpoint, camera angle, placement, negative space, layout hierarchy]\n\nStyle / medium:\n[Photorealistic / editorial / vector / 3D render / UI / diagram / comic, color palette, lighting]\n\nText, if any:\nRender exactly: \"...\"\n[Typography, size, placement, contrast]\n\nConstraints:\n[No extra text, no watermark, no unrelated logos, preserve X, avoid Y]\n```\n\nFor simple requests, a polished paragraph is enough. For production work, labeled sections are easier to debug and reuse.\n\n## Capability patterns\n\nFor guidance specific to the deliverable — photorealism, people and pose, text and infographics, ads, logos, UI mockups, slides and charts, product shots, edits and localization, multi-image compositing, comics — load [`PATTERNS.md`](PATTERNS.md) and apply the sections that match the request.",
+      "zhCN": "# GPT Image Prompt Generator\n\nGenerate prompts for OpenAI GPT Image models, with `gpt-image-2` as the default target. Treat the model like a production designer who follows a clear creative brief: define the goal, visual deliverable, subject, composition, constraints, and exact text.\n\nPrimary reference: OpenAI's GPT Image Generation Models Prompting Guide: <https://developers.openai.com/cookbook/examples/multimodal/image-gen-models-prompting-guide>\n\n## Output\n\nUnless the user asks for another format, return:\n\n1. **Ready-to-use prompt** in a fenced code block.\n2. **Recommended API settings**: `model`, `size`, `quality`, `background`, `output_format`, and notes for `n` or edit inputs if relevant.\n3. **Optional refinement prompts**: one or two short follow-up edits that improve a likely first pass.\n\nIf critical details are missing, ask only the minimum clarifying questions needed. Otherwise, make tasteful assumptions and state them briefly.\n\n## Model defaults and constraints\n\n- **Default model:** `gpt-image-2`.\n- **Quality:** use `low` for fast drafts, thumbnails, and broad exploration; use `medium` for most production prompts; use `high` for dense text, small labels, infographics, slide/chart outputs, close-up portraits, identity-sensitive edits, and final assets.\n- **Size:** use a concrete size when the output format is known; otherwise use `auto`.\n  - Common sizes: `1024x1024`, `1536x1024`, `1024x1536`, `2048x2048`, `2048x1152`, `3840x2160`, `2160x3840`.\n  - `gpt-image-2` size constraints: both edges multiples of 16px; max edge ≤ 3840px; long:short ratio ≤ 3:1; total pixels from 655,360 to 8,294,400.\n  - Outputs above `2560x1440` are more variable/experimental; prefer 2K or below for reliability unless the user needs 4K.\n- **Background:** `gpt-image-2` does **not** support transparent backgrounds. Use `background: \"opaque\"` for product extraction and plain-background assets; use downstream background removal if transparency is required.\n- **Input fidelity:** omit `input_fidelity` for `gpt-image-2`; it processes inputs at high fidelity by default.\n- **Output format:** default `png`; choose `jpeg` for lower latency/photo workflows; choose `webp` for compressed web assets.\n- **Variations:** use `n` when the user wants multiple directions, logos, thumbnails, or ad concepts.\n\n## Golden rules\n\n1. **Write a creative brief, not tag soup.** Natural language and labeled sections are better than keyword piles.\n2. **Lead with purpose.** Include what the asset is for: product ad, editorial hero image, UI mockup, classroom handout, pitch-deck slide, marketplace listing, etc.\n3. **Use a stable prompt order.** Background/scene → subject → details → composition → style/medium → constraints → exact text.\n4. **Name the visual medium explicitly.** Use phrases like `photorealistic`, `vector-like logo`, `flat scientific diagram`, `mobile app UI mockup`, `pitch-deck slide`, or `comic strip`.\n5. **Specify composition.** Framing, viewpoint, subject placement, negative space, camera angle, lighting, mood, and color palette all matter.\n6. **Preserve invariants in edits.** Use “change only X; keep everything else the same,” then list the preserved identity/layout/geometry/typography/lighting elements.\n7. **Quote exact text.** Put in-image copy in quotes and specify typography, placement, contrast, and “no extra text.” For hard spellings, spell words letter by letter.\n8. **Iterate surgically.** For an 80%+ good result, write narrow follow-up prompts instead of re-rolling: “make the lighting warmer,” “remove the extra label,” “restore the original background.”\n\n## Prompt structure template\n\nUse labeled sections for complex or production prompts:\n\n```text\nCreate [DELIVERABLE] for [PURPOSE/AUDIENCE].\n\nScene / background:\n[Environment, era, mood, context, world details]\n\nSubject:\n[Main subject with concrete attributes, materials, identity cues, pose/action]\n\nComposition:\n[Framing, viewpoint, camera angle, placement, negative space, layout hierarchy]\n\nStyle / medium:\n[Photorealistic / editorial / vector / 3D render / UI / diagram / comic, color palette, lighting]\n\nText, if any:\nRender exactly: \"...\"\n[Typography, size, placement, contrast]\n\nConstraints:\n[No extra text, no watermark, no unrelated logos, preserve X, avoid Y]\n```\n\nFor simple requests, a polished paragraph is enough. For production work, labeled sections are easier to debug and reuse.\n\n## Capability patterns\n\nFor guidance specific to the deliverable — photorealism, people and pose, text and infographics, ads, logos, UI mockups, slides and charts, product shots, edits and localization, multi-image compositing, comics — load [`PATTERNS.md`](PATTERNS.md) and apply the sections that match the request."
+    },
+    "whenToUse": [
+      "需要应用这个 Skill 的方法时",
+      "希望把方法转换为可复用案例时"
+    ],
+    "workflow": [
+      "理解用户目标",
+      "按 Skill 方法完成任务",
+      "检查并交付结果"
+    ],
+    "outputs": [
+      "结构化方法说明",
+      "可复制的案例 Prompt"
+    ],
+    "dependencies": [],
+    "riskNotes": [],
+    "cases": [
+      {
+        "id": "gpt-image-prompts-gpt-image-prompts-1",
+        "title": "gpt-image-prompts 案例 1",
+        "summary": "使用原 Skill 的核心工作流解决一个具体问题。",
+        "input": "描述你的目标、对象和限制条件。",
+        "prompt": "请使用 gpt-image-prompts 的方法完成这个任务，并展示关键步骤与最终结果。",
+        "output": "结构化结果与下一步建议",
+        "executionMode": "structured"
+      },
+      {
+        "id": "gpt-image-prompts-gpt-image-prompts-2",
+        "title": "gpt-image-prompts 案例 2",
+        "summary": "使用原 Skill 的核心工作流解决一个具体问题。",
+        "input": "描述你的目标、对象和限制条件。",
+        "prompt": "请使用 gpt-image-prompts 的方法完成这个任务，并展示关键步骤与最终结果。",
+        "output": "结构化结果与下一步建议",
+        "executionMode": "structured"
+      }
+    ],
+    "source": {
+      "repository": "scottwater/skills",
+      "skillPath": "skills/gpt-image-prompts/SKILL.md",
+      "githubUrl": "https://github.com/scottwater/skills",
+      "skillsShUrl": "https://skills.sh/scottwater/skills/gpt-image-prompts",
+      "license": "MIT",
+      "commit": "42dd897d26cdbaa69039c358326a61efff6ce116",
+      "installs": 24,
+      "contentHash": "a3d9604b362a23e01c78c5c9552cdf22a799772d34d6c0d1821cb590e3411744"
+    }
+  },
+  {
+    "id": "decision",
+    "slug": "decision",
+    "status": "active",
+    "category": "visual",
+    "categoryLabel": "视觉设计",
+    "title": {
+      "zhCN": "decision",
+      "sourceEN": "decision",
+      "aliases": [
+        "Decision",
+        "Always",
+        "When the user asks why",
+        "When a new decision is being made"
+      ]
+    },
+    "summary": {
+      "zhCN": "这个 Skill 用于：Recover or preserve consequential UX and architecture rationale. Use when a designer asks why something was designed a certain way, whether a choice deserves an ADR/design decision record, or wants to capture context, evidence, alternatives, rationale, consequences, and status without documenting trivial changes.",
+      "sourceEN": "Recover or preserve consequential UX and architecture rationale. Use when a designer asks why something was designed a certain way, whether a choice deserves an ADR/design decision record, or wants to capture context, evidence, alternatives, rationale, consequences, and status without documenting trivial changes."
+    },
+    "content": {
+      "sourceEN": "# Decision\n\nHelp future designers and engineers understand **why**, without creating documentation theater.\n\n## Always\n\n- **Context** — inspect what is already known before asking the user to repeat it. Use `.ux/INTENT.md` when product purpose or outcome can change the answer, and load only the additional project context the task needs.\n- **User** — ground the work in the people affected, their goal, task, context, and available evidence. Do not invent user needs, behaviors, or personas.\n- **Evidence** — keep known, inferred, assumed, unknown, and conflicted information distinct when the difference matters.\n- **System** — prefer established product language, components, patterns, and rules before inventing new ones.\n- **Clear** — lead with the useful point, use the minimum structure needed, and remove generic AI filler.\n- **Trust** — never invent evidence, requirements, rationale, implementation status, or compliance.\n- **Outcome** — for substantial multi-step work, keep intent active, use a small `.ux/STATE.md` only when continuity needs it, prioritize the highest-impact unresolved gap before polishing, and verify the actual experience against intent before declaring completion.\n\nDo not recite these rules to the user unless one of them materially affects the answer.\n\nDo not introduce research questions, personas, or discovery work when the user and task are already clear or the missing information would not materially change the work.\n\n## When the user asks why\n\nSearch available decision records, research, requirements, issue/PR history, design-system documentation, implementation history, and the smallest relevant `.ux/` context.\n\nSeparate:\n\n- documented rationale;\n- rationale strongly supported by artifacts;\n- plausible inference;\n- missing or conflicting rationale.\n\nCurrent behavior proves what exists, not why it was chosen. Never invent a neat historical explanation just because one sounds plausible.\n\n## When a new decision is being made\n\nA durable record is useful when a choice:\n\n- introduces or changes a shared interaction or system pattern;\n- has meaningful accessibility, technical, policy, privacy, or operational consequences;\n- rejects an obvious alternative for a non-obvious reason;\n- affects multiple teams or journeys;\n- is expensive to reverse;\n- is likely to be questioned later.\n\nRoutine layout, copy, and styling changes usually do not need a decision record.\n\n## Check intent impact\n\nAfter a consequential decision, check whether it explicitly changes why the product exists, the intended outcome, primary people affected, scope, non-goals, material constraints, or definition of success.\n\nIf it does, `INTENT.md` should change with it. Preserve the evidence or decision that caused the change. Do not rewrite intent merely because implementation changed, and do not infer a strategy shift from code alone.\n\n## Use the team's system\n\nIf the project has ADR, RFC, design-decision, or documentation conventions, use them. Do not introduce a competing format.\n\nIf none exists, keep it lightweight:\n\n```text\nDecision\nStatus\nContext and evidence\nOptions considered\nDecision and rationale\nConsequences\nOpen questions\nRelated artifacts\n```\n\nPreserve what was actually known at decision time. Do not rewrite assumptions as evidence after the fact.\n\n## Output\n\nAnswer a \"why\" question directly when that is all the user needs. Create or recommend a durable record only when the decision is consequential enough to justify it.\n\nIf the decision materially changes product intent, say so explicitly and include the intent update in the work when the user is asking you to preserve the decision in project context.\n\n## Contrast example\n\nBad:\n> Create an ADR documenting why the primary button was moved below the form.\n\nGood:\n> This does not need a durable decision record. It is a local layout change with no shared pattern, architectural consequence, or non-obvious tradeoff. The design or PR history is enough.\n\nWhy: the good response preserves decision records for choices future teams are likely to question or need to understand.\n\n## Examples\n\n- \"Why was this designed this way?\"\n- \"Does this deserve an ADR?\"\n- \"Record why we extended the existing component instead of creating a new one.\"",
+      "zhCN": "# Decision\n\nHelp future designers and engineers understand **why**, without creating documentation theater.\n\n## Always\n\n- **Context** — inspect what is already known before asking the user to repeat it. Use `.ux/INTENT.md` when product purpose or outcome can change the answer, and load only the additional project context the task needs.\n- **User** — ground the work in the people affected, their goal, task, context, and available evidence. Do not invent user needs, behaviors, or personas.\n- **Evidence** — keep known, inferred, assumed, unknown, and conflicted information distinct when the difference matters.\n- **System** — prefer established product language, components, patterns, and rules before inventing new ones.\n- **Clear** — lead with the useful point, use the minimum structure needed, and remove generic AI filler.\n- **Trust** — never invent evidence, requirements, rationale, implementation status, or compliance.\n- **Outcome** — for substantial multi-step work, keep intent active, use a small `.ux/STATE.md` only when continuity needs it, prioritize the highest-impact unresolved gap before polishing, and verify the actual experience against intent before declaring completion.\n\nDo not recite these rules to the user unless one of them materially affects the answer.\n\nDo not introduce research questions, personas, or discovery work when the user and task are already clear or the missing information would not materially change the work.\n\n## When the user asks why\n\nSearch available decision records, research, requirements, issue/PR history, design-system documentation, implementation history, and the smallest relevant `.ux/` context.\n\nSeparate:\n\n- documented rationale;\n- rationale strongly supported by artifacts;\n- plausible inference;\n- missing or conflicting rationale.\n\nCurrent behavior proves what exists, not why it was chosen. Never invent a neat historical explanation just because one sounds plausible.\n\n## When a new decision is being made\n\nA durable record is useful when a choice:\n\n- introduces or changes a shared interaction or system pattern;\n- has meaningful accessibility, technical, policy, privacy, or operational consequences;\n- rejects an obvious alternative for a non-obvious reason;\n- affects multiple teams or journeys;\n- is expensive to reverse;\n- is likely to be questioned later.\n\nRoutine layout, copy, and styling changes usually do not need a decision record.\n\n## Check intent impact\n\nAfter a consequential decision, check whether it explicitly changes why the product exists, the intended outcome, primary people affected, scope, non-goals, material constraints, or definition of success.\n\nIf it does, `INTENT.md` should change with it. Preserve the evidence or decision that caused the change. Do not rewrite intent merely because implementation changed, and do not infer a strategy shift from code alone.\n\n## Use the team's system\n\nIf the project has ADR, RFC, design-decision, or documentation conventions, use them. Do not introduce a competing format.\n\nIf none exists, keep it lightweight:\n\n```text\nDecision\nStatus\nContext and evidence\nOptions considered\nDecision and rationale\nConsequences\nOpen questions\nRelated artifacts\n```\n\nPreserve what was actually known at decision time. Do not rewrite assumptions as evidence after the fact.\n\n## Output\n\nAnswer a \"why\" question directly when that is all the user needs. Create or recommend a durable record only when the decision is consequential enough to justify it.\n\nIf the decision materially changes product intent, say so explicitly and include the intent update in the work when the user is asking you to preserve the decision in project context.\n\n## Contrast example\n\nBad:\n> Create an ADR documenting why the primary button was moved below the form.\n\nGood:\n> This does not need a durable decision record. It is a local layout change with no shared pattern, architectural consequence, or non-obvious tradeoff. The design or PR history is enough.\n\nWhy: the good response preserves decision records for choices future teams are likely to question or need to understand.\n\n## Examples\n\n- \"Why was this designed this way?\"\n- \"Does this deserve an ADR?\"\n- \"Record why we extended the existing component instead of creating a new one.\""
+    },
+    "whenToUse": [
+      "需要应用这个 Skill 的方法时",
+      "希望把方法转换为可复用案例时"
+    ],
+    "workflow": [
+      "理解用户目标",
+      "按 Skill 方法完成任务",
+      "检查并交付结果"
+    ],
+    "outputs": [
+      "结构化方法说明",
+      "可复制的案例 Prompt"
+    ],
+    "dependencies": [],
+    "riskNotes": [],
+    "cases": [
+      {
+        "id": "decision-decision-1",
+        "title": "decision 案例 1",
+        "summary": "使用原 Skill 的核心工作流解决一个具体问题。",
+        "input": "描述你的目标、对象和限制条件。",
+        "prompt": "请使用 decision 的方法完成这个任务，并展示关键步骤与最终结果。",
+        "output": "结构化结果与下一步建议",
+        "executionMode": "structured"
+      },
+      {
+        "id": "decision-decision-2",
+        "title": "decision 案例 2",
+        "summary": "使用原 Skill 的核心工作流解决一个具体问题。",
+        "input": "描述你的目标、对象和限制条件。",
+        "prompt": "请使用 decision 的方法完成这个任务，并展示关键步骤与最终结果。",
+        "output": "结构化结果与下一步建议",
+        "executionMode": "structured"
+      }
+    ],
+    "source": {
+      "repository": "tranz007/ux-skills",
+      "skillPath": "skills/decision/SKILL.md",
+      "githubUrl": "https://github.com/Tranz007/ux-skills",
+      "skillsShUrl": "https://skills.sh/tranz007/ux-skills/decision",
+      "license": "MIT",
+      "commit": "241732b34822114260f9aa2e59fb775d9bb7dc94",
+      "installs": 28,
+      "contentHash": "32690af8977d37ecfc00b0b9ed59a0857053fad00cb8228dcafb20f5b0fc6ea5"
+    }
+  },
+  {
+    "id": "make-tsx",
+    "slug": "make-tsx",
+    "status": "active",
+    "category": "visual",
+    "categoryLabel": "视觉设计",
+    "title": {
+      "zhCN": "make-tsx",
+      "sourceEN": "make-tsx",
+      "aliases": [
+        "make-tsx — build the visual beats over the master",
+        "Inputs (read these first, every session)",
+        "Workflow",
+        "timeline.json (the compositing map)"
+      ]
+    },
+    "summary": {
+      "zhCN": "这个 Skill 用于：Step 2 of the AI Video Editor pipeline — build the visual beats (Remotion TSX shots) over a project's master cut and bake a composited preview. Use when the user wants to add/edit overlays or full-screen animation segments, \"make a shot / beat\", implement an edit plan or a v2 update, retime a beat to the narration, re-render shots, or re-bake the video-N preview in this repo. Covers reading the plan + edited-transcript + brand + reusable kit, authoring shots library-first, syncing reveals to word times, updating timeline.json (cutaway vs overlay), rendering, verifying by screenshot, and baking with tools/bake.py. Defers raw TSX authoring rules to vidtsx-2d-generator and the cut itself to clean-cut.",
+      "sourceEN": "Step 2 of the AI Video Editor pipeline — build the visual beats (Remotion TSX shots) over a project's master cut and bake a composited preview. Use when the user wants to add/edit overlays or full-screen animation segments, \"make a shot / beat\", implement an edit plan or a v2 update, retime a beat to the narration, re-render shots, or re-bake the video-N preview in this repo. Covers reading the plan + edited-transcript + brand + reusable kit, authoring shots library-first, syncing reveals to word times, updating timeline.json (cutaway vs overlay), rendering, verifying by screenshot, and baking with tools/bake.py. Defers raw TSX authoring rules to vidtsx-2d-generator and the cut itself to clean-cut."
+    },
+    "content": {
+      "sourceEN": "# make-tsx — build the visual beats over the master\n\nStep 2 of the pipeline: take an approved master cut and its timing spine and produce the animated beats — UI/browser mockups, full-screen statements, diagrams, image reveals — then composite them over the master into a preview. Work **collaboratively and beat-by-beat**; the user gives notes per beat.\n\nThis is the project orchestration. For the low-level rules of writing a single crash-free Remotion file (frame-based only, monotonic `interpolate`, `Easing.bezier`, no `useState`/`useEffect`, import gotchas), use the **`vidtsx-2d-generator`** skill — shots here follow those rules.\n\n## Inputs (read these first, every session)\n\n- **The plan** — `videos/video-N/work/edit-plan.md` (or a change list like `v2-update-plan.md`). The source of truth for what to build. If there's a change list from a review, that overrides; apply it, don't re-litigate settled beats.\n- **`videos/video-N/work/timeline.json`** — maps each shot → its span on the master + `type`. You edit this. (Schema below.)\n- **`videos/video-N/work/edited-transcript.json`** — word-level times in master timeline (ms). **Everything syncs to these.**\n- **`brand.md`** — colors/fonts/motion/delivery tokens. Every shot reads the brand so all videos feel like one channel.\n- **`remotion/src/lib/kit.tsx`** (+ `lib/vscode.tsx`, `lib/browser.tsx`) — the reusable component library; `src/brand.ts`, `src/fonts.ts`; existing shots in `remotion/src/shots/video-N/`.\n\n## Workflow\n\n1. **Read** the plan + timeline + transcript + brand + kit. Pull the exact word times for each cue you must hit (grep `edited-transcript.json` for the phrase → start/end ms → local frame = `(cue_s − shot.master_in_s) × fps`).\n2. **Ask only what's genuinely open** at the start (a small batch), then build. Don't re-ask settled decisions.\n3. **Library-first.** Reuse a kit component before writing UI from scratch. If you build something reusable (a window chrome, a browser frame, a card slot), put it in `lib/` so later shots and videos get it. Promote good patterns back into the library.\n4. **Author / edit the shot** as a vidtsx-format `.tsx` in `remotion/src/shots/video-N/` (auto-registered by `scripts/gen-registry.mjs`). One shot per file. Follow the brand tokens and the principles below.\n5. **Sync to the words** (see principles). Time each sub-element's entrance to its transcript cue; never show a thing before it's said or after the point has passed.\n6. **Update `timeline.json`** — add/replace/retime the beat's span and `type`. Leave a clear note when a slot is a placeholder (e.g. a pending screen recording).\n7. **Render + VERIFY BY SCREENSHOT** (never skip): `cd remotion && node scripts/render-all.mjs --scale=1 <ShotIds>` (opaque → `out/<id>.mp4`, transparent overlays → `.mov`). Validate with a still first (`--still`); for word-synced reveals/scrolls, render the clip and pull a frame at **each cue** (`ffmpeg -ss <t> -i out/<id>.mp4 -frames:v 1 f.jpg`) — one 60% still is not enough.\n8. **Bake the preview**: `python tools/bake.py` (reads timeline.json → `videos/video-N/output/video-N-preview.mp4`, 1080p30). `--end SECONDS` to bake a prefix while iterating.\n9. **Spot-check composited frames** from the baked mp4 at the changed beats (the shot over the real master), not just the isolated shot.\n\n## timeline.json (the compositing map)\n\n```jsonc\n{\n  \"master\": \"videos/video-1/reference/master.mp4\", \"master_fps\": 60,\n  \"remotion_out\": \"remotion/out\",\n  \"shots\": [\n    { \"id\": \"CreditsStat\", \"type\": \"cutaway\", \"master_in_s\": 170.0, \"master_out_s\": 179.0, \"cue\": \"...\" }\n  ],\n  \"preview\": { \"end_s\": 329.6, \"out\": \"videos/video-1/output/video-1-preview.mp4\", \"width\": 1920, \"height\": 1080, \"fps\": 30 }\n}\n```\n\n- **`type: \"cutaway\"`** — the shot's `.mp4` REPLACES the master video for `[master_in_s, master_out_s]`. Master **audio always continues** underneath.\n- **`type: \"overlay\"`** — a transparent shot (ProRes 4444 `.mov`, `transparent: true` in its compositionConfig) is composited OVER the master for that span. For small persistent CTAs/badges in the top/bottom band.\n- `bake.py` splits `[0, end]` at every shot boundary, renders each segment (cutaway from the shot, overlay = master+alpha, else master pass-through), concats, and muxes master audio 0..end. Frame-accurate; a shot's file must exist in `remotion/out/` first.\n- Design shots at 1920×1080; render-all `--scale=2` → 4K for final. Preview bakes 1080p30; final delivery is 4K60.\n\n## Principles (the house style — apply them)\n\n- **Sync to the words (P1).** Reveal sub-elements on their narration cue, timed from `edited-transcript.json`. \"Show everything then hold\" is a smell.\n- **Don't pre-empt (P2).** Never put on screen a thing mentioned *later* (don't show \"skill\" before the skill is introduced; don't show example tiles before \"more examples\").\n- **Real service info → real page (P3).** Facts about a service (limits, pricing) → a TSX clone of that service's actual web page (browser chrome + URL bar + scroll) with the exact line highlighted. Screenshot the real page first (Playwright / website-screenshot), then clone it.\n- **Config/setup → real UI (P4).** Keys, dashboards, `.env`, skill folders → the actual VS Code / dashboard UI, not an abstract graphic.\n- **Real results in the real editor (P5).** A generated result is shown opened inside the real editor (image in a pane next to the chat), not floating on a brand card.\n- **Full-screen vs overlay.** Concept beats = full-screen cutaways (cut away from the talking head). Overlays only for small persistent CTAs/badges in the top/bottom band; never cover the center-framed talking head.\n- **Real UI realism.** UI clones match the real product (Claude Code = dark + coral, real logos), not the indigo brand. Brand indigo is for overlays/full-screen beats.\n- **Recording vs TSX.** TSX when you want controlled highlight/scroll/zoom; a real screen recording only when the point is genuine PROOF (real output, real speed). Leave a clearly-noted placeholder slot for recordings the user will provide.\n- On-screen text follows the brand voice — **no em-dashes** (the site copy avoids them; keep it out of overlays too).\n\nThose are the full principle set. When a video's plan calls for a revision pass, record what changed\nand why in `videos/<project>/work/v2-update-plan.md` so the next pass inherits the reasoning.\n\n## Tooling quick reference\n\n- Register shots: `node remotion/scripts/gen-registry.mjs` (auto-runs discovery; needed after adding a file).\n- Render: `node remotion/scripts/render-all.mjs [--still] [--scale=1|2] <ShotIds...>`.\n- Bake: `python tools/bake.py [timeline.json] [--end S] [--keep]`.\n- Scratch renders/frames go in the scratchpad, not the project.\n\nDone = the changed beats render, you have **looked at** stills/frames at each cue, the preview is re-baked, and composited frames are spot-checked. Update the plan/timeline and any relevant memory when the pass is complete.",
+      "zhCN": "# make-tsx — build the visual beats over the master\n\nStep 2 of the pipeline: take an approved master cut and its timing spine and produce the animated beats — UI/browser mockups, full-screen statements, diagrams, image reveals — then composite them over the master into a preview. Work **collaboratively and beat-by-beat**; the user gives notes per beat.\n\nThis is the project orchestration. For the low-level rules of writing a single crash-free Remotion file (frame-based only, monotonic `interpolate`, `Easing.bezier`, no `useState`/`useEffect`, import gotchas), use the **`vidtsx-2d-generator`** skill — shots here follow those rules.\n\n## Inputs (read these first, every session)\n\n- **The plan** — `videos/video-N/work/edit-plan.md` (or a change list like `v2-update-plan.md`). The source of truth for what to build. If there's a change list from a review, that overrides; apply it, don't re-litigate settled beats.\n- **`videos/video-N/work/timeline.json`** — maps each shot → its span on the master + `type`. You edit this. (Schema below.)\n- **`videos/video-N/work/edited-transcript.json`** — word-level times in master timeline (ms). **Everything syncs to these.**\n- **`brand.md`** — colors/fonts/motion/delivery tokens. Every shot reads the brand so all videos feel like one channel.\n- **`remotion/src/lib/kit.tsx`** (+ `lib/vscode.tsx`, `lib/browser.tsx`) — the reusable component library; `src/brand.ts`, `src/fonts.ts`; existing shots in `remotion/src/shots/video-N/`.\n\n## Workflow\n\n1. **Read** the plan + timeline + transcript + brand + kit. Pull the exact word times for each cue you must hit (grep `edited-transcript.json` for the phrase → start/end ms → local frame = `(cue_s − shot.master_in_s) × fps`).\n2. **Ask only what's genuinely open** at the start (a small batch), then build. Don't re-ask settled decisions.\n3. **Library-first.** Reuse a kit component before writing UI from scratch. If you build something reusable (a window chrome, a browser frame, a card slot), put it in `lib/` so later shots and videos get it. Promote good patterns back into the library.\n4. **Author / edit the shot** as a vidtsx-format `.tsx` in `remotion/src/shots/video-N/` (auto-registered by `scripts/gen-registry.mjs`). One shot per file. Follow the brand tokens and the principles below.\n5. **Sync to the words** (see principles). Time each sub-element's entrance to its transcript cue; never show a thing before it's said or after the point has passed.\n6. **Update `timeline.json`** — add/replace/retime the beat's span and `type`. Leave a clear note when a slot is a placeholder (e.g. a pending screen recording).\n7. **Render + VERIFY BY SCREENSHOT** (never skip): `cd remotion && node scripts/render-all.mjs --scale=1 <ShotIds>` (opaque → `out/<id>.mp4`, transparent overlays → `.mov`). Validate with a still first (`--still`); for word-synced reveals/scrolls, render the clip and pull a frame at **each cue** (`ffmpeg -ss <t> -i out/<id>.mp4 -frames:v 1 f.jpg`) — one 60% still is not enough.\n8. **Bake the preview**: `python tools/bake.py` (reads timeline.json → `videos/video-N/output/video-N-preview.mp4`, 1080p30). `--end SECONDS` to bake a prefix while iterating.\n9. **Spot-check composited frames** from the baked mp4 at the changed beats (the shot over the real master), not just the isolated shot.\n\n## timeline.json (the compositing map)\n\n```jsonc\n{\n  \"master\": \"videos/video-1/reference/master.mp4\", \"master_fps\": 60,\n  \"remotion_out\": \"remotion/out\",\n  \"shots\": [\n    { \"id\": \"CreditsStat\", \"type\": \"cutaway\", \"master_in_s\": 170.0, \"master_out_s\": 179.0, \"cue\": \"...\" }\n  ],\n  \"preview\": { \"end_s\": 329.6, \"out\": \"videos/video-1/output/video-1-preview.mp4\", \"width\": 1920, \"height\": 1080, \"fps\": 30 }\n}\n```\n\n- **`type: \"cutaway\"`** — the shot's `.mp4` REPLACES the master video for `[master_in_s, master_out_s]`. Master **audio always continues** underneath.\n- **`type: \"overlay\"`** — a transparent shot (ProRes 4444 `.mov`, `transparent: true` in its compositionConfig) is composited OVER the master for that span. For small persistent CTAs/badges in the top/bottom band.\n- `bake.py` splits `[0, end]` at every shot boundary, renders each segment (cutaway from the shot, overlay = master+alpha, else master pass-through), concats, and muxes master audio 0..end. Frame-accurate; a shot's file must exist in `remotion/out/` first.\n- Design shots at 1920×1080; render-all `--scale=2` → 4K for final. Preview bakes 1080p30; final delivery is 4K60.\n\n## Principles (the house style — apply them)\n\n- **Sync to the words (P1).** Reveal sub-elements on their narration cue, timed from `edited-transcript.json`. \"Show everything then hold\" is a smell.\n- **Don't pre-empt (P2).** Never put on screen a thing mentioned *later* (don't show \"skill\" before the skill is introduced; don't show example tiles before \"more examples\").\n- **Real service info → real page (P3).** Facts about a service (limits, pricing) → a TSX clone of that service's actual web page (browser chrome + URL bar + scroll) with the exact line highlighted. Screenshot the real page first (Playwright / website-screenshot), then clone it.\n- **Config/setup → real UI (P4).** Keys, dashboards, `.env`, skill folders → the actual VS Code / dashboard UI, not an abstract graphic.\n- **Real results in the real editor (P5).** A generated result is shown opened inside the real editor (image in a pane next to the chat), not floating on a brand card.\n- **Full-screen vs overlay.** Concept beats = full-screen cutaways (cut away from the talking head). Overlays only for small persistent CTAs/badges in the top/bottom band; never cover the center-framed talking head.\n- **Real UI realism.** UI clones match the real product (Claude Code = dark + coral, real logos), not the indigo brand. Brand indigo is for overlays/full-screen beats.\n- **Recording vs TSX.** TSX when you want controlled highlight/scroll/zoom; a real screen recording only when the point is genuine PROOF (real output, real speed). Leave a clearly-noted placeholder slot for recordings the user will provide.\n- On-screen text follows the brand voice — **no em-dashes** (the site copy avoids them; keep it out of overlays too).\n\nThose are the full principle set. When a video's plan calls for a revision pass, record what changed\nand why in `videos/<project>/work/v2-update-plan.md` so the next pass inherits the reasoning.\n\n## Tooling quick reference\n\n- Register shots: `node remotion/scripts/gen-registry.mjs` (auto-runs discovery; needed after adding a file).\n- Render: `node remotion/scripts/render-all.mjs [--still] [--scale=1|2] <ShotIds...>`.\n- Bake: `python tools/bake.py [timeline.json] [--end S] [--keep]`.\n- Scratch renders/frames go in the scratchpad, not the project.\n\nDone = the changed beats render, you have **looked at** stills/frames at each cue, the preview is re-baked, and composited frames are spot-checked. Update the plan/timeline and any relevant memory when the pass is complete."
+    },
+    "whenToUse": [
+      "需要应用这个 Skill 的方法时",
+      "希望把方法转换为可复用案例时"
+    ],
+    "workflow": [
+      "R：ead** the plan + timeline + transcript + brand + kit. Pull the exact word times for each cue you must hit (grep `edited-transcript.json` for the phrase → start/end ms → local frame = `(cue_s − shot.master_in_s) × fps`).",
+      "A：sk only what's genuinely open** at the start (a small batch), then build. Don't re-ask settled decisions.",
+      "L：ibrary-first.** Reuse a kit component before writing UI from scratch. If you build something reusable (a window chrome, a browser frame, a card slot), put it in `lib/` so later shots and videos get it. Promote good patterns back into the library.",
+      "A：uthor / edit the shot** as a vidtsx-format `.tsx` in `remotion/src/shots/video-N/` (auto-registered by `scripts/gen-registry.mjs`). One shot per file. Follow the brand tokens and the principles below.",
+      "S：ync to the words** (see principles). Time each sub-element's entrance to its transcript cue; never show a thing before it's said or after the point has passed.",
+      "U：pdate `timeline.json`** — add/replace/retime the beat's span and `type`. Leave a clear note when a slot is a placeholder (e.g. a pending screen recording).",
+      "R：ender + VERIFY BY SCREENSHOT** (never skip): `cd remotion && node scripts/render-all.mjs --scale=1 <ShotIds>` (opaque → `out/<id>.mp4`, transparent overlays → `.mov`). Validate with a still first (`--still`); for word-synced reveals/scrolls, render the clip and pull a frame at **each cue** (`ffmpeg -ss <t> -i out/<id>.mp4 -frames:v 1 f.jpg`) — one 60% still is not enough."
+    ],
+    "outputs": [
+      "结构化方法说明",
+      "可复制的案例 Prompt"
+    ],
+    "dependencies": [],
+    "riskNotes": [
+      "原 Skill 可能涉及账号、密钥或付费服务；站内案例不会继承这些依赖。"
+    ],
+    "cases": [
+      {
+        "id": "make-tsx-make-tsx-1",
+        "title": "make-tsx 案例 1",
+        "summary": "使用原 Skill 的核心工作流解决一个具体问题。",
+        "input": "描述你的目标、对象和限制条件。",
+        "prompt": "请使用 make-tsx 的方法完成这个任务，并展示关键步骤与最终结果。",
+        "output": "结构化结果与下一步建议",
+        "executionMode": "structured"
+      },
+      {
+        "id": "make-tsx-make-tsx-2",
+        "title": "make-tsx 案例 2",
+        "summary": "使用原 Skill 的核心工作流解决一个具体问题。",
+        "input": "描述你的目标、对象和限制条件。",
+        "prompt": "请使用 make-tsx 的方法完成这个任务，并展示关键步骤与最终结果。",
+        "output": "结构化结果与下一步建议",
+        "executionMode": "structured"
+      }
+    ],
+    "source": {
+      "repository": "hassancs91/claude-youtube-editor",
+      "skillPath": ".claude/skills/make-tsx/SKILL.md",
+      "githubUrl": "https://github.com/hassancs91/claude-youtube-editor",
+      "skillsShUrl": "https://skills.sh/hassancs91/claude-youtube-editor/make-tsx",
+      "license": "MIT",
+      "commit": "a8abff811d73cc85e1ecfe2e7308f64e0e234609",
+      "installs": 6,
+      "contentHash": "08cdec2da2e681c7805dea129e855ca46310e6140f655c9299e070de058e6ef7"
+    }
+  },
+  {
+    "id": "to-storyboard",
+    "slug": "to-storyboard",
+    "status": "active",
+    "category": "visual",
+    "categoryLabel": "视觉设计",
+    "title": {
+      "zhCN": "to-storyboard",
+      "sourceEN": "to-storyboard",
+      "aliases": [
+        "To storyboard",
+        "Process"
+      ]
+    },
+    "summary": {
+      "zhCN": "这个 Skill 用于：Use when approved video scenes need to be translated into shots, key frames, compositions, camera moves, transitions, and timing estimates before production.",
+      "sourceEN": "Use when approved video scenes need to be translated into shots, key frames, compositions, camera moves, transitions, and timing estimates before production."
+    },
+    "content": {
+      "sourceEN": "# To storyboard\n\nTurn `SCENES.md` and `NARRATION.md` into HyperFrames `STORYBOARD.md`. Scenes define events; the storyboard defines how the viewer sees them.\n\n## Process\n\n1. Load `/hyperframes-core`, then read its current `references/storyboard-format.md`. That canonical contract is authoritative for `STORYBOARD.md`.\n2. Choose the HyperFrames frame boundary:\n   - start a new frame for a hard edit, independent transition, new visual world, materially different media source, or independently buildable unit;\n   - keep continuous camera movement and shared object state in one frame, describing its internal shot moments.\n3. Treat each HyperFrames frame as one buildable block. Within its narrative body, write an ordered `Shot moments` list at changes in viewpoint, shot scale, subject action, or information focus. Each moment declares:\n   - moment ID and approximate offset;\n   - initial state → action → final state;\n   - camera and attention path;\n   - narration anchors, or `silent`;\n   - handoff to the next moment or frame.\n4. Use canonical metadata wherever the current contract already carries the meaning. Put only missing workflow data in extras prefixed `boring_`, such as `boring_scene_id`.\n5. Use the scene's world, hero, event, continuity, rhythm, and feasibility as constraints. Preserve the cognitive job from `BEATS.md`.\n6. Treat canonical HyperFrames fields as authoritative. A `boring_*` extra supplements the contract; it never restates a canonical field.\n7. Audit the sequence: every narration anchor is covered by one or more shot moments, intentionally silent moments carry no anchor, frame boundaries follow the rules above, the action is legible without reading the narration, and estimated duration accommodates both speech and action.\n\nThe storyboard is complete when every frame is an independently buildable block, its shot moments fully describe the scene event, and every transition connects actual end and start states. HyperFrames owns sketching and storyboard review after handoff.",
+      "zhCN": "# To storyboard\n\nTurn `SCENES.md` and `NARRATION.md` into HyperFrames `STORYBOARD.md`. Scenes define events; the storyboard defines how the viewer sees them.\n\n## Process\n\n1. Load `/hyperframes-core`, then read its current `references/storyboard-format.md`. That canonical contract is authoritative for `STORYBOARD.md`.\n2. Choose the HyperFrames frame boundary:\n   - start a new frame for a hard edit, independent transition, new visual world, materially different media source, or independently buildable unit;\n   - keep continuous camera movement and shared object state in one frame, describing its internal shot moments.\n3. Treat each HyperFrames frame as one buildable block. Within its narrative body, write an ordered `Shot moments` list at changes in viewpoint, shot scale, subject action, or information focus. Each moment declares:\n   - moment ID and approximate offset;\n   - initial state → action → final state;\n   - camera and attention path;\n   - narration anchors, or `silent`;\n   - handoff to the next moment or frame.\n4. Use canonical metadata wherever the current contract already carries the meaning. Put only missing workflow data in extras prefixed `boring_`, such as `boring_scene_id`.\n5. Use the scene's world, hero, event, continuity, rhythm, and feasibility as constraints. Preserve the cognitive job from `BEATS.md`.\n6. Treat canonical HyperFrames fields as authoritative. A `boring_*` extra supplements the contract; it never restates a canonical field.\n7. Audit the sequence: every narration anchor is covered by one or more shot moments, intentionally silent moments carry no anchor, frame boundaries follow the rules above, the action is legible without reading the narration, and estimated duration accommodates both speech and action.\n\nThe storyboard is complete when every frame is an independently buildable block, its shot moments fully describe the scene event, and every transition connects actual end and start states. HyperFrames owns sketching and storyboard review after handoff."
+    },
+    "whenToUse": [
+      "需要应用这个 Skill 的方法时",
+      "希望把方法转换为可复用案例时"
+    ],
+    "workflow": [
+      "Load `/hyperframes-core`, then read its current `references/storyboard-format.md`. That canonical contract is authoritative for `STORYBOARD.md`.",
+      "Choose the HyperFrames frame boundary:",
+      "- start a new frame for a hard edit, independent transition, new visual world, materially different media source, or independently buildable unit;",
+      "- keep continuous camera movement and shared object state in one frame, describing its internal shot moments.",
+      "Treat each HyperFrames frame as one buildable block. Within its narrative body, write an ordered `Shot moments` list at changes in viewpoint, shot scale, subject action, or information focus. Each moment declares:",
+      "- moment ID and approximate offset;",
+      "- initial state → action → final state;"
+    ],
+    "outputs": [
+      "结构化方法说明",
+      "可复制的案例 Prompt"
+    ],
+    "dependencies": [],
+    "riskNotes": [],
+    "cases": [
+      {
+        "id": "to-storyboard-to-storyboard-1",
+        "title": "to-storyboard 案例 1",
+        "summary": "使用原 Skill 的核心工作流解决一个具体问题。",
+        "input": "描述你的目标、对象和限制条件。",
+        "prompt": "请使用 to-storyboard 的方法完成这个任务，并展示关键步骤与最终结果。",
+        "output": "结构化结果与下一步建议",
+        "executionMode": "structured"
+      },
+      {
+        "id": "to-storyboard-to-storyboard-2",
+        "title": "to-storyboard 案例 2",
+        "summary": "使用原 Skill 的核心工作流解决一个具体问题。",
+        "input": "描述你的目标、对象和限制条件。",
+        "prompt": "请使用 to-storyboard 的方法完成这个任务，并展示关键步骤与最终结果。",
+        "output": "结构化结果与下一步建议",
+        "executionMode": "structured"
+      }
+    ],
+    "source": {
+      "repository": "sugarforever/boring-video-studio",
+      "skillPath": "skills/to-storyboard/SKILL.md",
+      "githubUrl": "https://github.com/sugarforever/boring-video-studio",
+      "skillsShUrl": "https://skills.sh/sugarforever/boring-video-studio/to-storyboard",
+      "license": "MIT",
+      "commit": "39626f49f09d2cac2fda46fe30069034dfd93ec3",
+      "installs": 11,
+      "contentHash": "a66d7b346eb6166b550d0d1d2441fcd02d7e6ccc97d651e5b34adaf715d1df70"
     }
   }
 ]

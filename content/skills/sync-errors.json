@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "source": "antjanus/skillbox@typography",
+    "message": "SKILL.md changed or content missing but AI_GATEWAY_API_KEY is unavailable for Chinese re-enrichment"
+  },
+  {
+    "source": "lilia-luo/poster-design-skill@poster-design-skill",
+    "message": "Missing a recognized source license"
+  }
+]

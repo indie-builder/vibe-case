@@ -75,6 +75,7 @@
     "jacksontai2007/gpt-image-2-prompting-skill/gpt-image-2-prompting",
     "joeseesun/qiaomu-mondo-poster-design/qiaomu-mondo-poster-design",
     "kimmywork/skills/rationale",
+    "lilia-luo/poster-design-skill/poster-design-skill",
     "magentosh/superpowers/gpt-image",
     "minimax-ai/minimax-h3/3d-animation-short-generator",
     "nexu-io/open-design/html-ppt-zhangzara-bold-poster",
@@ -426,6 +427,36 @@
       "skillId": "alterlab-vcd-motion-graphics",
       "skillPath": "skills/vcd/alterlab-vcd-motion-graphics/SKILL.md",
       "skillsShUrl": "https://skills.sh/alterlab-ieu/alterlab-fc-skills/alterlab-vcd-motion-graphics"
+    },
+    {
+      "repository": "humantonylee/future-slide",
+      "skillId": "gpt-image-slide-prompt",
+      "skillPath": "skills/gpt-image-slide-prompt/SKILL.md",
+      "skillsShUrl": "https://skills.sh/humantonylee/future-slide/gpt-image-slide-prompt"
+    },
+    {
+      "repository": "scottwater/skills",
+      "skillId": "gpt-image-prompts",
+      "skillPath": "skills/gpt-image-prompts/SKILL.md",
+      "skillsShUrl": "https://skills.sh/scottwater/skills/gpt-image-prompts"
+    },
+    {
+      "repository": "tranz007/ux-skills",
+      "skillId": "decision",
+      "skillPath": "skills/decision/SKILL.md",
+      "skillsShUrl": "https://skills.sh/tranz007/ux-skills/decision"
+    },
+    {
+      "repository": "hassancs91/claude-youtube-editor",
+      "skillId": "make-tsx",
+      "skillPath": ".claude/skills/make-tsx/SKILL.md",
+      "skillsShUrl": "https://skills.sh/hassancs91/claude-youtube-editor/make-tsx"
+    },
+    {
+      "repository": "sugarforever/boring-video-studio",
+      "skillId": "to-storyboard",
+      "skillPath": "skills/to-storyboard/SKILL.md",
+      "skillsShUrl": "https://skills.sh/sugarforever/boring-video-studio/to-storyboard"
     }
   ]
 }
