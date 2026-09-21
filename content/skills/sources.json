@@ -58,6 +58,7 @@
   "excludedSources": [
     "affaan-m/ecc/taste",
     "arnavpuri/designskills/poster-design",
+    "athevon/genjutsu/motion-principles",
     "bencium/bencium-marketplace/ui-typography",
     "buyaka/product-manager-skills/storyboard",
     "citypaul/.dotfiles/storyboard",
@@ -82,6 +83,8 @@
     "nexu-io/open-design/image-poster",
     "nexu-io/open-design/magazine-poster",
     "openclaudia/openclaudia-skills/generate-image",
+    "rayesh-company/agent-skills/writing-beats-rpm",
+    "reason-machines/design-skills/qiaomu-mondo-poster-design",
     "skills-101/superpowers/gpt-image",
     "whetspretz/design-sprinter/storyboarder"
   ],
@@ -321,12 +324,6 @@
       "skillsShUrl": "https://skills.sh/dylantarre/animation-principles/motion-designer"
     },
     {
-      "repository": "athevon/genjutsu",
-      "skillId": "motion-principles",
-      "skillPath": "skills/_jutsu/motion-principles/SKILL.md",
-      "skillsShUrl": "https://skills.sh/athevon/genjutsu/motion-principles"
-    },
-    {
       "repository": "dylantarre/animation-principles",
       "skillId": "framer-motion",
       "skillPath": "skills/09-by-tool-framework/framer-motion/SKILL.md",
@@ -457,6 +454,30 @@
       "skillId": "to-storyboard",
       "skillPath": "skills/to-storyboard/SKILL.md",
       "skillsShUrl": "https://skills.sh/sugarforever/boring-video-studio/to-storyboard"
+    },
+    {
+      "repository": "samber/developer-relations-skills",
+      "skillId": "developer-journey-map",
+      "skillPath": "skills/developer-journey-map/SKILL.md",
+      "skillsShUrl": "https://skills.sh/samber/developer-relations-skills/developer-journey-map"
+    },
+    {
+      "repository": "yonatangross/orchestkit",
+      "skillId": "animation-motion-design",
+      "skillPath": "plugins/ork/skills/animation-motion-design/SKILL.md",
+      "skillsShUrl": "https://skills.sh/yonatangross/orchestkit/animation-motion-design"
+    },
+    {
+      "repository": "robjsliwa/skills",
+      "skillId": "beat-grill",
+      "skillPath": "skills/gamedev/beat-grill/SKILL.md",
+      "skillsShUrl": "https://skills.sh/robjsliwa/skills/beat-grill"
+    },
+    {
+      "repository": "ziadabdelkarim/beat-synced-edit",
+      "skillId": "beat-sync-edit",
+      "skillPath": ".claude/skills/beat-sync-edit/SKILL.md",
+      "skillsShUrl": "https://skills.sh/ziadabdelkarim/beat-synced-edit/beat-sync-edit"
     }
   ]
 }

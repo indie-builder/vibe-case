@@ -1,10 +1,34 @@
 [
   {
+    "source": "wuyoscar/gpt-image2-skill@gpt-image",
+    "message": "SKILL.md changed or content missing but AI_GATEWAY_API_KEY is unavailable for Chinese re-enrichment"
+  },
+  {
+    "source": "dembrandt/dembrandt-skills@visual-emphasis-and-hierarchy",
+    "message": "SKILL.md changed or content missing but AI_GATEWAY_API_KEY is unavailable for Chinese re-enrichment"
+  },
+  {
     "source": "antjanus/skillbox@typography",
     "message": "SKILL.md changed or content missing but AI_GATEWAY_API_KEY is unavailable for Chinese re-enrichment"
   },
   {
-    "source": "lilia-luo/poster-design-skill@poster-design-skill",
+    "source": "athevon/genjutsu@motion-principles",
+    "message": "Missing a recognized source license"
+  },
+  {
+    "source": "wddxh/shortvideodirector@storyboarder-storyboard",
+    "message": "SKILL.md changed or content missing but AI_GATEWAY_API_KEY is unavailable for Chinese re-enrichment"
+  },
+  {
+    "source": "wddxh/shortvideodirector@storyboarder-fix-storyboard",
+    "message": "SKILL.md changed or content missing but AI_GATEWAY_API_KEY is unavailable for Chinese re-enrichment"
+  },
+  {
+    "source": "reason-machines/design-skills@qiaomu-mondo-poster-design",
+    "message": "Missing a recognized source license"
+  },
+  {
+    "source": "rayesh-company/agent-skills@writing-beats-rpm",
     "message": "Missing a recognized source license"
   }
 ]

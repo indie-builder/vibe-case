@@ -146,7 +146,7 @@
       "skillsShUrl": "https://skills.sh/zhouwei713/gpt-image-2-prompting-skill/gpt-image-2-prompting",
       "license": "MIT",
       "commit": "80da4b0364833c1177c525a6f2f9ab4e44e1b8fd",
-      "installs": 74,
+      "installs": 81,
       "contentHash": "0e9471a82acff5d97df1c7e4b796825b751b61cb686c090f4d94e290f2bd3b33"
     }
   },
@@ -293,7 +293,7 @@
       "skillsShUrl": "https://skills.sh/jakubkrehel/skills/better-typography",
       "license": "MIT",
       "commit": "267330e1adfc66a718fb65fa6918c1f06d0a689e",
-      "installs": 16946,
+      "installs": 22085,
       "contentHash": "717f615910470bd2b7c662cce2af2ebd11cd887379a6ea93455c45f3c5ba378d"
     }
   },
@@ -366,7 +366,7 @@
       "skillsShUrl": "https://skills.sh/owl-listener/designer-skills/visual-hierarchy",
       "license": "MIT",
       "commit": "5d255536fd7a909d6e40b5a59d0b97e4bda3502a",
-      "installs": 1784,
+      "installs": 2046,
       "contentHash": "ac1d1d993f4ea681a09a158d65f935acc4b0ffe41fef1e358c3952c524725205"
     }
   },
@@ -439,7 +439,7 @@
       "skillsShUrl": "https://skills.sh/owl-listener/designer-skills/journey-map",
       "license": "MIT",
       "commit": "5d255536fd7a909d6e40b5a59d0b97e4bda3502a",
-      "installs": 1492,
+      "installs": 1697,
       "contentHash": "8462a826ddc0ae73cc43e7dbcfe8f9e243a37158ae9e0804b587a1b6eb85d43f"
     }
   },
@@ -512,7 +512,7 @@
       "skillsShUrl": "https://skills.sh/cuellarfr/design-skills/ux-research",
       "license": "MIT",
       "commit": "b41750affc03669988b649380756bc17fa427a09",
-      "installs": 221,
+      "installs": 247,
       "contentHash": "9cb6593e3ef597fa847955af41782305362ed52264850572873d0520afd4ad79"
     }
   },
@@ -586,7 +586,7 @@
       "skillsShUrl": "https://skills.sh/product-on-purpose/pm-skills/develop-design-rationale",
       "license": "Apache-2.0",
       "commit": "152b175181a7ccba13a46fb1bc6cbcf662ef1dc2",
-      "installs": 636,
+      "installs": 679,
       "contentHash": "853395279e4da6fc4fbbb305544be7b28f65cfb7c24f1b6d558ec07610e99f88"
     }
   },
@@ -661,7 +661,7 @@
       "skillsShUrl": "https://skills.sh/kylezantos/design-motion-principles/design-motion-principles",
       "license": "MIT",
       "commit": "7803a7ccd656281447cf11b9fcc228163bc2e896",
-      "installs": 8989,
+      "installs": 9764,
       "contentHash": "599f42dbf011df38f3fcaf1497533af447d91cf97443b92439455af103c25b2e"
     }
   },
@@ -734,7 +734,7 @@
       "skillsShUrl": "https://skills.sh/iart-ai/motion-design-skills/beat-sync-editing",
       "license": "MIT",
       "commit": "3110f145d92bfbb0d3da88940de6c50225b79bf7",
-      "installs": 678,
+      "installs": 942,
       "contentHash": "92118cd6a5821974aa084a9838f263b46ee65fa1f48aaded8e676861f8c2de28"
     }
   },
@@ -909,7 +909,7 @@
       "skillsShUrl": "https://skills.sh/agentara/skills/video-poster-design",
       "license": "MIT",
       "commit": "fbf6496604ff393c8919911ef9596cc2bfaf59b1",
-      "installs": 224,
+      "installs": 238,
       "contentHash": "4441cdbac4128fb00d8201fa9086e7eb100685e7b5dbc992de6d094947ce8370"
     }
   },
@@ -996,7 +996,7 @@
       "skillsShUrl": "https://skills.sh/alterlab-ieu/alterlab-fc-skills/alterlab-vcd-poster-designer",
       "license": "MIT",
       "commit": "6141af0172f64d5c15bc95f75df7401ddd256c1d",
-      "installs": 47,
+      "installs": 51,
       "contentHash": "b332194a2c92848ed20e4042912d55ff9708ae37ce23dc82fb4452c66bc22e6f"
     }
   },
@@ -1079,7 +1079,7 @@
       "skillsShUrl": "https://skills.sh/owl-listener/designer-skills/critique-visual-hierarchy",
       "license": "MIT",
       "commit": "5d255536fd7a909d6e40b5a59d0b97e4bda3502a",
-      "installs": 1269,
+      "installs": 1528,
       "contentHash": "e9c210156b5cd6c049922c0ca2ab65dbed96bc3c2d2bfaa0b4b1ea47c89ec4b1"
     }
   },
@@ -1221,7 +1221,7 @@
       "skillsShUrl": "https://skills.sh/sanky369/vibe-building-skills/visual-hierarchy-refactoring",
       "license": "MIT",
       "commit": "12f8a09907ed7d0948187a2f377ca0c7d301c11a",
-      "installs": 76,
+      "installs": 81,
       "contentHash": "8105a7d1f2b8873c41ff9320a89f8f142a60396c2bd2b74ba2c8515bdf76a316"
     }
   },
@@ -1361,7 +1361,7 @@
       "skillsShUrl": "https://skills.sh/sanky369/vibe-building-skills/typography-system",
       "license": "MIT",
       "commit": "12f8a09907ed7d0948187a2f377ca0c7d301c11a",
-      "installs": 248,
+      "installs": 252,
       "contentHash": "16da1639f75d7a9e60883e6857b4690c791bdc4d8e126735757828d47d12bed7"
     }
   },
@@ -1436,7 +1436,7 @@
       "skillsShUrl": "https://skills.sh/onewave-ai/claude-skills/typography-scale-builder",
       "license": "MIT",
       "commit": "bc8971997b170edaad9d73218b285f27a456138c",
-      "installs": 47,
+      "installs": 64,
       "contentHash": "c2921f2b9b81e618f269981eb3df56fed68e7d2f5a0f21efc953327a7e7b7937"
     }
   },
@@ -1508,7 +1508,7 @@
       "skillsShUrl": "https://skills.sh/podo/design-agent-skills/baseline-ui",
       "license": "MIT",
       "commit": "1f1e31426f0433cc5787588f6f9c82c505e7fde8",
-      "installs": 93,
+      "installs": 122,
       "contentHash": "5ae6402839baef03103dc2bcf645ce805b9e4e2734d3848d954073545c12aad7"
     }
   },
@@ -1584,7 +1584,7 @@
       "skillsShUrl": "https://skills.sh/dhananjaym182/ai-ui-design-skills/saas-ui-ux-designer-skill-typography-flex",
       "license": "MIT",
       "commit": "f6996798ff9dac420f43da7ad42fa074c62da555",
-      "installs": 21,
+      "installs": 24,
       "contentHash": "c9b601941b8b2efe6771c71769da887c5074ec019d48496bb013aa8859b26fd3"
     }
   },
@@ -1656,7 +1656,7 @@
       "skillsShUrl": "https://skills.sh/owl-listener/inclusive-design-skills/flexible-typography",
       "license": "MIT",
       "commit": "cf9d1b2175bce35b3beaaabb7f4116c1123fabc1",
-      "installs": 57,
+      "installs": 64,
       "contentHash": "60ed6308b9434bcb50cbe4c4bad17cb6efa8841b14dbbcfb52ba35bd630374fc"
     }
   },
@@ -1868,7 +1868,7 @@
       "skillsShUrl": "https://skills.sh/dylantarre/animation-principles/ux-researcher",
       "license": "MIT",
       "commit": "747c656abe3b3b155552acb24efa2234aa8027fb",
-      "installs": 421,
+      "installs": 443,
       "contentHash": "2c7978c19c69b1e90bf8bafb62bf5eb8f52667ded3935add102331db53f3ba8c"
     }
   },
@@ -1940,7 +1940,7 @@
       "skillsShUrl": "https://skills.sh/vasilyu1983/ai-agents-public/software-ux-research",
       "license": "MIT",
       "commit": "4aa2d12c219bad9d9d23b82ad3f94939e415f86e",
-      "installs": 192,
+      "installs": 201,
       "contentHash": "87da31a633bdbddd3ac6710540f77c58011f9fd7b644e09114967e97ab92d526"
     }
   },
@@ -2012,7 +2012,7 @@
       "skillsShUrl": "https://skills.sh/hueyexe/frontend-agent-skills/ux-research-discovery-testing",
       "license": "MIT",
       "commit": "2841c079dd8a9c634882227194dc42e25227710d",
-      "installs": 158,
+      "installs": 251,
       "contentHash": "1bf930dd07530bc1d500d9b9f7f22781f2db8dd44a8a9e4df7ace1c2a6c0055d"
     }
   },
@@ -2154,7 +2154,7 @@
       "skillsShUrl": "https://skills.sh/mohitagw15856/pm-claude-skills/ux-research-plan",
       "license": "MIT",
       "commit": "b87d8d4e0de6607f25c894189d37ce2b4b48ec4b",
-      "installs": 53,
+      "installs": 54,
       "contentHash": "eeda85d1a29fd6e00ccc6a5074ccce448f31671e7113ff6b56c384a7cf004d74"
     }
   },
@@ -2228,7 +2228,7 @@
       "skillsShUrl": "https://skills.sh/phuryn/pm-skills/customer-journey-map",
       "license": "MIT",
       "commit": "a372bee16dc2275e26078ca70a2eb7614ea316f7",
-      "installs": 2540,
+      "installs": 2753,
       "contentHash": "656c0e16318b3b24870065a8eabb8a116b72e47c167472836ce76ea97ec5c75e"
     }
   },
@@ -2298,7 +2298,7 @@
       "skillsShUrl": "https://skills.sh/product-on-purpose/pm-skills/discover-journey-map",
       "license": "Apache-2.0",
       "commit": "e27476a75847bc323848f4e3e5f143892fb65a25",
-      "installs": 519,
+      "installs": 562,
       "contentHash": "9795a404438f6fc93975a2528b4c4f4bde9a66a60911d05fa9b673c3510b778d"
     }
   },
@@ -2373,7 +2373,7 @@
       "skillsShUrl": "https://skills.sh/onewave-ai/claude-skills/customer-journey-mapper",
       "license": "MIT",
       "commit": "d82d20ff6d8e44befaa6a777cf037adcf0a5ddd9",
-      "installs": 195,
+      "installs": 214,
       "contentHash": "a359cbfc127d442fbabb339741cc21048d3405066bbfd31b0f4d6c2add036d36"
     }
   },
@@ -2445,7 +2445,7 @@
       "skillsShUrl": "https://skills.sh/thatrebeccarae/claude-marketing/customer-journey-mapping",
       "license": "MIT",
       "commit": "c11e1a164633bee84bc320dd81fb5b17dc962cab",
-      "installs": 79,
+      "installs": 90,
       "contentHash": "1e05f6e2cc211ba8dffea1d28c4bb53d513a8b50005fdfc5b80f33ccb3386d88"
     }
   },
@@ -2517,7 +2517,7 @@
       "skillsShUrl": "https://skills.sh/gtmagents/gtm-agents/patient-journey-mapping",
       "license": "Apache-2.0",
       "commit": "8c446bff6b506c8fed719e6b5d89d65afa7c5f7b",
-      "installs": 70,
+      "installs": 71,
       "contentHash": "1ab19f3b8a4d84df95ac16c3a5760191a75d8e682b6bd3d41015f6d076e1fa64"
     }
   },
@@ -2659,7 +2659,7 @@
       "skillsShUrl": "https://skills.sh/gtmagents/gtm-agents/journey-mapping",
       "license": "Apache-2.0",
       "commit": "8c446bff6b506c8fed719e6b5d89d65afa7c5f7b",
-      "installs": 65,
+      "installs": 66,
       "contentHash": "939c80a7419908182d97680ede1c133c75e0e9723f60835da9e61ee633b94e95"
     }
   },
@@ -2729,7 +2729,7 @@
       "skillsShUrl": "https://skills.sh/owl-listener/designer-skills/design-rationale",
       "license": "MIT",
       "commit": "5d255536fd7a909d6e40b5a59d0b97e4bda3502a",
-      "installs": 1468,
+      "installs": 1661,
       "contentHash": "d451c85c38687c5f7289c42fd6a09e9ac6e43671468b9a313017f1959d7c76f0"
     }
   },
@@ -2799,7 +2799,7 @@
       "skillsShUrl": "https://skills.sh/phuryn/pm-skills/positioning-ideas",
       "license": "MIT",
       "commit": "a372bee16dc2275e26078ca70a2eb7614ea316f7",
-      "installs": 2464,
+      "installs": 2642,
       "contentHash": "8864f284e66c8bb106c46dc5e51656a47ae4792e39091eb3a49f63cde00c3850"
     }
   },
@@ -2871,7 +2871,7 @@
       "skillsShUrl": "https://skills.sh/dylantarre/animation-principles/motion-designer",
       "license": "MIT",
       "commit": "747c656abe3b3b155552acb24efa2234aa8027fb",
-      "installs": 1376,
+      "installs": 1430,
       "contentHash": "54d02d2ca5eb8b66db76c869cb7828b726f1b19452a88d2815febbecddf193df"
     }
   },
@@ -3081,7 +3081,7 @@
       "skillsShUrl": "https://skills.sh/dylantarre/animation-principles/web-motion-design",
       "license": "MIT",
       "commit": "747c656abe3b3b155552acb24efa2234aa8027fb",
-      "installs": 1091,
+      "installs": 1196,
       "contentHash": "5fd447db3456a1f986850d9cc6caba0c9c800e8161f57faede53c91fa458b194"
     }
   },
@@ -3221,7 +3221,7 @@
       "skillsShUrl": "https://skills.sh/iart-ai/motion-design-skills/animation-principles",
       "license": "MIT",
       "commit": "3110f145d92bfbb0d3da88940de6c50225b79bf7",
-      "installs": 678,
+      "installs": 959,
       "contentHash": "21637766f8ae115f427ab086ec903106b3dfa5eac7fdf05d9926e4b557bff892"
     }
   },
@@ -3363,7 +3363,7 @@
       "skillsShUrl": "https://skills.sh/dylantarre/animation-principles/universal-fallback",
       "license": "MIT",
       "commit": "747c656abe3b3b155552acb24efa2234aa8027fb",
-      "installs": 378,
+      "installs": 398,
       "contentHash": "070aebc737f5e398bc64906aa732d908853a84b1cf0c4510c0ed0744f42337bd"
     }
   },
@@ -3435,7 +3435,7 @@
       "skillsShUrl": "https://skills.sh/podo/design-agent-skills/motion-design-skill",
       "license": "MIT",
       "commit": "0fb9f04aa8ecd655c461c9ce90e340c241447978",
-      "installs": 87,
+      "installs": 117,
       "contentHash": "ad9e1f30b0cd81bd8883a14f5aeb6aa081074a8c01b15526eac1bfa8dc284ef2"
     }
   },
@@ -3645,7 +3645,7 @@
       "skillsShUrl": "https://skills.sh/devcxl/mattpocock-skills-zh/writing-beats",
       "license": "MIT",
       "commit": "967d5fb0238c2b0f9a02dbf4723de96c12e5dab1",
-      "installs": 24,
+      "installs": 29,
       "contentHash": "50a52d4c3e8f24acce980ee480279183de1281310ea2411ecb46219b2e33fb3e"
     }
   },
@@ -3715,7 +3715,7 @@
       "skillsShUrl": "https://skills.sh/vstorm-co/content-skills/content-video",
       "license": "MIT",
       "commit": "63f01b2f4df0482c4ddee2b59e4612d84cba36e7",
-      "installs": 41,
+      "installs": 43,
       "contentHash": "21802f641ea80058340b35c68af0dfb62eedd87c91546a73ea1e970c720c00f7"
     }
   },
@@ -3789,7 +3789,7 @@
       "skillsShUrl": "https://skills.sh/touge1618/touge-spoken-storyboard/touge-spoken-storyboard",
       "license": "Apache-2.0",
       "commit": "e93db9d7a57a57701c07462cd1f5c58284406dd5",
-      "installs": 17,
+      "installs": 23,
       "contentHash": "342c79a7b15b28988814f7a522522f8f968d974a47777a39d2a8ed6b5790ebbe"
     }
   },
@@ -4291,7 +4291,7 @@
       "skillsShUrl": "https://skills.sh/scottwater/skills/gpt-image-prompts",
       "license": "MIT",
       "commit": "42dd897d26cdbaa69039c358326a61efff6ce116",
-      "installs": 24,
+      "installs": 39,
       "contentHash": "a3d9604b362a23e01c78c5c9552cdf22a799772d34d6c0d1821cb590e3411744"
     }
   },
@@ -4361,7 +4361,7 @@
       "skillsShUrl": "https://skills.sh/tranz007/ux-skills/decision",
       "license": "MIT",
       "commit": "241732b34822114260f9aa2e59fb775d9bb7dc94",
-      "installs": 28,
+      "installs": 39,
       "contentHash": "32690af8977d37ecfc00b0b9ed59a0857053fad00cb8228dcafb20f5b0fc6ea5"
     }
   },
@@ -4509,8 +4509,298 @@
       "skillsShUrl": "https://skills.sh/sugarforever/boring-video-studio/to-storyboard",
       "license": "MIT",
       "commit": "39626f49f09d2cac2fda46fe30069034dfd93ec3",
-      "installs": 11,
+      "installs": 20,
       "contentHash": "a66d7b346eb6166b550d0d1d2441fcd02d7e6ccc97d651e5b34adaf715d1df70"
+    }
+  },
+  {
+    "id": "developer-journey-map",
+    "slug": "developer-journey-map",
+    "status": "active",
+    "category": "visual",
+    "categoryLabel": "视觉设计",
+    "title": {
+      "zhCN": "developer-journey-map",
+      "sourceEN": "developer-journey-map",
+      "aliases": [
+        "Developer Journey Map",
+        "What you can cite, and what you cannot",
+        "Invocation examples",
+        "Interview"
+      ]
+    },
+    "summary": {
+      "zhCN": "这个 Skill 用于：Maps the developer journey for one audience segment - discovery, trial, adoption, contribution, advocacy - as a stage-by-stage table where each stage carries an exit event, a named owner, cited friction evidence and one signal, and names the single leak worth fixing next. Use whenever someone asks what their developer journey looks like, wants a developer adoption funnel or journey map, asks why developers try the product but never reach production, where adoption drops off, who owns each step of developer experience, or how developers become contributors - even if they only say \"we lose people somewhere\". Not the metrics framework - use samber/developer-relations-skills@devrel-metrics.",
+      "sourceEN": "Maps the developer journey for one audience segment - discovery, trial, adoption, contribution, advocacy - as a stage-by-stage table where each stage carries an exit event, a named owner, cited friction evidence and one signal, and names the single leak worth fixing next. Use whenever someone asks what their developer journey looks like, wants a developer adoption funnel or journey map, asks why developers try the product but never reach production, where adoption drops off, who owns each step of developer experience, or how developers become contributors - even if they only say \"we lose people somewhere\". Not the metrics framework - use samber/developer-relations-skills@devrel-metrics."
+    },
+    "content": {
+      "sourceEN": "# Developer Journey Map\n\nYou are a developer relations strategist mapping how a developer travels from never having heard of a technology to depending on it - and sometimes to speaking for it. Produce the map and the leak diagnosis. Do not fix the stages.\n\nThe output is a **developer journey map**: one table, one row per stage, plus a short diagnosis naming the one stage to work on next. It is a decision artefact, not a poster, and every row must answer:\n\n- what observable event proves a developer left this stage\n- who is accountable for that rate\n- which single number tracks it\n\nTwo facts about developer audiences shape the whole exercise:\n\n- Most of the journey happens unobserved: developers read docs, skim the repo, run a container and ask a colleague long before any account exists, so the early stages are inferred, not measured.\n- Most stages are owned outside DevRel, by docs, product, support, engineering or community, so a map with one owner in every row is a map nobody else agreed to.\n\n## What you can cite, and what you cannot\n\nThis field settled its vocabulary and never settled its numbers. Revell published his six-stage model in 2016 and closed by promising per-stage measurement in a future guide that never followed.\n\nThe rates in circulation are single-company anecdotes with incompatible stage definitions, so a \"normal\" discovery-to-production rate for a developer product is not a thing anyone can quote. So every rate in the map comes from the product's own data, and the only honest comparison is against the same map's previous version.\n\nThat leaves two kinds of number in this skill. Keep them visibly apart when you talk to the user:\n\n- **Sourced.** Cite it with its source, e.g. \"Revell's 2016 model\", \"Plausible's August 2021 measurement\".\n- **This skill's own default.** The 5-7 stage band, the interview counts, the 60% signal-coverage gate, the one-leak rule, the 90-day re-read. Label each as \"a working default, move it if your data argues otherwise\".\n\n[references/published-findings.md](./references/published-findings.md) holds the full split: sourced claims with their sources, this skill's self-set baselines, and the figures to refuse outright. Read it before quoting any number.\n\n## Invocation examples\n\n| The user says                                                             | What you do                                                                                                                            |\n| ------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |\n| \"Map the developer journey for our API product\"                           | Full run, steps 1-7. Interview first - you cannot pick a stage model without the end state and the segment.                            |\n| \"Developers try it and never reach production. Where are we losing them?\" | Full run, but lead with step 2: the answer is an evidence question, and the map is what makes it answerable.                           |\n| \"Who owns each step of our developer experience?\"                         | Full run with the owner column as the headline output; expect the finding to be that nobody owns two of the stages.                    |\n| \"Refresh last quarter's journey map\"                                      | Skip step 1 - keep the previous stage model unless it broke - and go straight to step 2, then diff the signals against the old values. |\n| \"Which of these five stages should we fix first?\"                         | Steps 2 and 6 only, on the stage list they already have. Do not re-cut their model.                                                    |\n\nDecline and route two kinds of request:\n\n- \"Rewrite our quickstart so it converts better\" - a one-stage fix does not need a seven-stage artefact. Route to the quickstart skill named at the end of this file.\n- \"Build our developer metrics framework\", \"which segment should we target?\" - upstream or downstream of the map, not part of it. Route to the metrics and segmentation skills named there too.\n\nThe deliverable is always a single markdown document with seven headings, shown in step 7:\n\n- one table\n- one buyer lane\n- three named moments\n- one leak\n- one handoff\n- one gap list\n\n## Interview\n\nAsk one question at a time and offer options where you can. Stop once you can name the segment, the desired end state and the evidence available. Confirm the rest while drafting.\n\n1. What is the product, and what does a developer physically do with it: call an API, install a library, deploy infrastructure, extend a platform, contribute to a repository?\n2. Which single audience segment is this map for? One map per segment - a hobbyist's path and an enterprise platform team's path are different journeys, not different columns.\n3. What is the end state you care about this horizon: production usage, paid conversion, merged contributions, public advocacy, or standardisation across an organisation?\n4. In a purchase, is the developer the buyer, an influencer, or neither? Who signs, and at which point do they appear?\n5. Is the product self-serve, sales-assisted, free and open source, or a mix?\n6. What evidence exists already: analytics, signup source questions, support tickets, community threads, user interviews, a prior friction log?\n7. Which parts of the path can you actually observe today, and where does your visibility start?\n8. Who owns each surface a developer touches: website, docs, quickstart, SDK, dashboard, support, community, repository?\n9. What is the hypothesis you already hold about where developers drop off, and what made you believe it?\n10. Is this a first map, or a refresh of one that exists? If a refresh, what changed since?\n11. By when must the map be decided, and what is waiting on it: a planning cycle, an instrumentation request, a reorg, nothing fixed?\n12. Do you want a one-off diagnosis of where you are leaking now, or a map you re-run and diff every quarter?\n13. What is your effort ceiling: reading data you already hold, or recruiting interviewees and asking another team for new instrumentation? And what already depends on the current stage names: dashboards, goals, another team's funnel?\n\nThose three set the ranking in step 1, so ask them before naming any model:\n\n- A near date deletes the models whose stage boundaries you cannot see in data you already hold.\n- A compounding mandate promotes a published model over the unsourced default, because only a published vocabulary stays comparable across re-runs and across teams.\n- A low effort ceiling caps the map at boundaries already instrumented and sends the rest to the Gaps section instead of blocking the map.\n\nIf your harness has persistent memory, store the chosen segment, the stage model, the exit events and the current signal values there. The map's whole value comes from being re-run against its own previous version, which is impossible if next quarter starts from a blank page.\n\n## Step 1 - Choose the stage model, do not invent one\n\nSay you are in brainstorming mode and do not draft rows yet.\n\nTwo passes, in this order: delete first, then rank what survives.\n\n- **Delete.** The end state named in interview question 3 picks the tail of the model, so every model whose terminal stage is not that end state comes off the menu entirely - record which ones and why in the map's Scope section. Standardisation, revenue, production usage, contribution and advocacy are different terminal stages, and a map carrying three tails has no priority order. A refresh deletes everything except the previous model, unless that model actually broke: comparability against your own history outranks a better-fitting vocabulary.\n- **Rank.** Rank the survivors, and say the ranking out loud. Effort here is the evidence you must gather before a stage boundary can be counted at all, plus the coordination and the reversibility. A stage list is what every downstream column and every dashboard gets built on, so re-cutting it invalidates the evidence already assigned.\n\n- effort: Revell six-stage > AAARRRP > OSS contributor funnel > API five-stage arc > unsourced default\n- efficiency: API five-stage arc > OSS contributor funnel > AAARRRP > Revell six-stage > unsourced default\n\nThere is deliberately no value line. A model's value is entirely how well its terminal stage matches the funded end state, so the same model is the best choice for one team and worthless to the next. Any fixed value order here would be false precision, and the deletion pass above already does that work.\n\nIn orders of magnitude:\n\n- The API five-stage arc's boundaries - first call, integration, production - usually already sit in product telemetry: an hour to a week of reading.\n- The OSS contributor funnel costs about a week, since the repository holds first PR, review latency and return, though recruiting people who abandoned is slow.\n- AAARRRP costs a week to a quarter, mostly coordination rather than research: its stages have to be reconciled with a company-wide funnel other teams own.\n- Revell six-stage costs a quarter, because the standardisation boundary needs account rollup and buyer-side interviews almost nobody already has.\n\nNote where the cheapest option lands: the unsourced default costs near-zero and still ranks last on efficiency, because it buys no comparability with the field's vocabulary or with any other team's funnel - cheap and efficient are not the same ordering.\n\nThe efficiency order starves Revell six-stage, the only model with an explicit standardisation stage. Promote it anyway when the funded question _is_ why teams adopt but the organisation never standardises, or when a renewal depends on becoming an org-wide default - then the account rollup it forces is the point, not the cost.\n\nTreat both lines as a default, not a law; they move with what a given team already instruments. Re-rank against that:\n\n- an existing company-wide AARRR funnel collapses AAARRRP's coordination cost and promotes it to first\n- account rollup already built for sales removes most of Revell's cost\n- a product with no telemetry before signup demotes the API arc, since its early boundaries are exactly the unobservable ones\n\nOffer **two or three candidate stage models** drawn from [references/stage-models.md](./references/stage-models.md), in efficiency order, each with what it makes visible, what it hides, and what its boundaries will cost you to observe. Recommend one and say why. Let the user choose before any row gets written.\n\nGuidance that decides the rest:\n\n- Prefer five to seven stages - this skill's default band, not a standard. Fewer hides the leak inside a stage; more produces stages nobody can name an exit event for.\n- Split a stage only when it has two distinct exit events with different owners - \"evaluation\" splits cleanly when reading docs and running a local trial are owned by different teams.\n- Keep the model's published stage names when you use a published model, so the map stays comparable with the field's vocabulary and with the program strategy that pins goals to it.\n\n## Step 2 - Collect evidence before filling any row\n\nA map assembled from opinion documents the team's beliefs, not the developer's path. Gather evidence first, cheapest source first, and tag each finding with the stage it belongs to.\n\n1. **Walk the path yourself** and keep a friction log (Google's DevRel practice; protocol in the reference below): one realistic scenario, a running record of what you searched, clicked, pasted and felt, with green/yellow/red marks. It is the only source that catches drop-offs nobody ever reports.\n2. **Mine what developers already wrote** - support tickets, issues, community questions, docs searches that returned nothing. Cluster them by stage; the biggest cluster is a friction candidate, not yet a conclusion.\n3. **Interview five to eight developers who completed the journey**, and - harder to recruit, worth more - three who abandoned it. Both counts are this skill's defaults; the 5-8 matches common usability-panel sizes, not a journey-mapping standard.\n4. **Read the funnel data that already exists** before asking for new instrumentation.\n\nCheck what each surface can physically report before promising a signal. Three corrections move a developer map's numbers more than anything else:\n\n- **Analytics blocking.** Plausible measured 58% of a tech audience blocking a third-party analytics script (82.3% on Linux, 88.3% on Firefox), in an August 2021 measurement on one site carrying Hacker News and Reddit traffic, read against Plausible's own proxied script. That makes it a single-site measurement by an interested vendor, but the only public one. Absolute traffic numbers on developer surfaces are therefore wrong by a factor that varies page by page; only ratios inside one source survive.\n- **Retention windows.** Repository traffic endpoints keep 14 days, npm downloads 18 months, PyPI series 180 days (GitHub REST Metrics/Traffic and pypistats docs). Snapshot any signal drawn from them from the day it is defined; expired data cannot be backfilled.\n- **Referrer loss.** Aggregators, chat clients, privacy browsers, and AI assistants strip referrers - roughly 70% of AI-assistant traffic arrives with none, a newsletter estimate (Demand Curve #331), not a study. A large \"direct\" bucket is the normal case, not an instrumentation bug.\n\n[references/evidence-and-signals.md](./references/evidence-and-signals.md) lists what to look for per stage, the candidate signals, which team usually owns each surface, the friction-log and exit-interview protocols, and the full per-surface instrumentation reality.\n\n## Step 3 - Fill one row per stage\n\nEach row carries eight fields. The three in bold are what separate this from a generic journey map; a row missing any of them is not finished.\n\n| Field             | What goes in it                                                                                                                              |\n| ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |\n| Stage             | the name from the chosen model                                                                                                               |\n| Developer's job   | what the person is trying to accomplish, in their words, not the vendor's funnel language                                                    |\n| Entry trigger     | the observable event that starts the stage                                                                                                   |\n| **Exit event**    | the single observable event proving they moved on - first successful API call, first deploy to production, first merged PR, first talk given |\n| Touchpoints       | the surfaces involved: docs page, repo, CLI output, dashboard, community thread, support ticket                                              |\n| **Owner**         | one person or team accountable for this stage's exit rate                                                                                    |\n| Friction evidence | a cited observation with its source, never a hypothesis; write \"no evidence yet\" when there is none                                          |\n| **Signal**        | one metric with its data source and its current value, or `not instrumented`                                                                 |\n\nKeep out two columns generic journey maps carry:\n\n- Emotion scores get invented at developer volumes and crowd out the accountable columns.\n- Opportunity lists written in the same pass turn the map into a backlog before anyone knows which stage leaks.\n\nMark every stage whose numbers are inferred rather than measured - with the blocking and referrer loss from step 2, the early stages almost always are. An honest `inferred` label protects the map's later conclusions; a confident fake number destroys them.\n\n## Step 4 - Add the buyer lane, or say there isn't one\n\n- **B2B, developer is not the buyer.** Add a second, shorter lane for the economic buyer - security review, legal and licensing, procurement, budget approval - joining at commitment or standardisation. It gets its own exit events (security questionnaire cleared, contract signed) and its own owner, usually outside DevRel entirely. The developer's lane continues in parallel: a champion who cannot arm an approver stalls at a stage the developer lane cannot show.\n- **Roll usage up to accounts before reading this lane.** The developer lane counts people; the buyer lane counts organisations. Group signups by email domain, workspace or licence first - forty signups from one company look like forty leads until you do.\n- **Read three signal families, in increasing order of buying intent:**\n  - **Depth** - production use, sustained volume, wired into CI.\n  - **Spread** - a second and third developer in the same account.\n  - **Boundary contact** - someone opened an SSO or RBAC page, asked a compliance question, hit a seat limit, requested a security questionnaire.\n\n  Boundary contact is rarest, strongest, and the cleanest exit event the lane can have - instrument it first.\n\n- **Individual adoption or B2C-style self-serve.** The two lanes collapse; the developer decides and pays, or nothing is paid at all. State this explicitly on the map rather than leaving an empty buyer lane, so a later reader knows it was decided, not forgotten.\n- **Open source with no purchase.** There is no buyer lane, but there is often an adoption-approval step inside the user's own company (license compatibility, dependency policy). Model it as friction in the adoption stage, not as a lane.\n\nEverything else in the map works the same for both - the stage model, evidence gathering, exit events and leak diagnosis do not change with the business model.\n\n## Step 5 - Name the three ",
+      "zhCN": "# Developer Journey Map\n\nYou are a developer relations strategist mapping how a developer travels from never having heard of a technology to depending on it - and sometimes to speaking for it. Produce the map and the leak diagnosis. Do not fix the stages.\n\nThe output is a **developer journey map**: one table, one row per stage, plus a short diagnosis naming the one stage to work on next. It is a decision artefact, not a poster, and every row must answer:\n\n- what observable event proves a developer left this stage\n- who is accountable for that rate\n- which single number tracks it\n\nTwo facts about developer audiences shape the whole exercise:\n\n- Most of the journey happens unobserved: developers read docs, skim the repo, run a container and ask a colleague long before any account exists, so the early stages are inferred, not measured.\n- Most stages are owned outside DevRel, by docs, product, support, engineering or community, so a map with one owner in every row is a map nobody else agreed to.\n\n## What you can cite, and what you cannot\n\nThis field settled its vocabulary and never settled its numbers. Revell published his six-stage model in 2016 and closed by promising per-stage measurement in a future guide that never followed.\n\nThe rates in circulation are single-company anecdotes with incompatible stage definitions, so a \"normal\" discovery-to-production rate for a developer product is not a thing anyone can quote. So every rate in the map comes from the product's own data, and the only honest comparison is against the same map's previous version.\n\nThat leaves two kinds of number in this skill. Keep them visibly apart when you talk to the user:\n\n- **Sourced.** Cite it with its source, e.g. \"Revell's 2016 model\", \"Plausible's August 2021 measurement\".\n- **This skill's own default.** The 5-7 stage band, the interview counts, the 60% signal-coverage gate, the one-leak rule, the 90-day re-read. Label each as \"a working default, move it if your data argues otherwise\".\n\n[references/published-findings.md](./references/published-findings.md) holds the full split: sourced claims with their sources, this skill's self-set baselines, and the figures to refuse outright. Read it before quoting any number.\n\n## Invocation examples\n\n| The user says                                                             | What you do                                                                                                                            |\n| ------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |\n| \"Map the developer journey for our API product\"                           | Full run, steps 1-7. Interview first - you cannot pick a stage model without the end state and the segment.                            |\n| \"Developers try it and never reach production. Where are we losing them?\" | Full run, but lead with step 2: the answer is an evidence question, and the map is what makes it answerable.                           |\n| \"Who owns each step of our developer experience?\"                         | Full run with the owner column as the headline output; expect the finding to be that nobody owns two of the stages.                    |\n| \"Refresh last quarter's journey map\"                                      | Skip step 1 - keep the previous stage model unless it broke - and go straight to step 2, then diff the signals against the old values. |\n| \"Which of these five stages should we fix first?\"                         | Steps 2 and 6 only, on the stage list they already have. Do not re-cut their model.                                                    |\n\nDecline and route two kinds of request:\n\n- \"Rewrite our quickstart so it converts better\" - a one-stage fix does not need a seven-stage artefact. Route to the quickstart skill named at the end of this file.\n- \"Build our developer metrics framework\", \"which segment should we target?\" - upstream or downstream of the map, not part of it. Route to the metrics and segmentation skills named there too.\n\nThe deliverable is always a single markdown document with seven headings, shown in step 7:\n\n- one table\n- one buyer lane\n- three named moments\n- one leak\n- one handoff\n- one gap list\n\n## Interview\n\nAsk one question at a time and offer options where you can. Stop once you can name the segment, the desired end state and the evidence available. Confirm the rest while drafting.\n\n1. What is the product, and what does a developer physically do with it: call an API, install a library, deploy infrastructure, extend a platform, contribute to a repository?\n2. Which single audience segment is this map for? One map per segment - a hobbyist's path and an enterprise platform team's path are different journeys, not different columns.\n3. What is the end state you care about this horizon: production usage, paid conversion, merged contributions, public advocacy, or standardisation across an organisation?\n4. In a purchase, is the developer the buyer, an influencer, or neither? Who signs, and at which point do they appear?\n5. Is the product self-serve, sales-assisted, free and open source, or a mix?\n6. What evidence exists already: analytics, signup source questions, support tickets, community threads, user interviews, a prior friction log?\n7. Which parts of the path can you actually observe today, and where does your visibility start?\n8. Who owns each surface a developer touches: website, docs, quickstart, SDK, dashboard, support, community, repository?\n9. What is the hypothesis you already hold about where developers drop off, and what made you believe it?\n10. Is this a first map, or a refresh of one that exists? If a refresh, what changed since?\n11. By when must the map be decided, and what is waiting on it: a planning cycle, an instrumentation request, a reorg, nothing fixed?\n12. Do you want a one-off diagnosis of where you are leaking now, or a map you re-run and diff every quarter?\n13. What is your effort ceiling: reading data you already hold, or recruiting interviewees and asking another team for new instrumentation? And what already depends on the current stage names: dashboards, goals, another team's funnel?\n\nThose three set the ranking in step 1, so ask them before naming any model:\n\n- A near date deletes the models whose stage boundaries you cannot see in data you already hold.\n- A compounding mandate promotes a published model over the unsourced default, because only a published vocabulary stays comparable across re-runs and across teams.\n- A low effort ceiling caps the map at boundaries already instrumented and sends the rest to the Gaps section instead of blocking the map.\n\nIf your harness has persistent memory, store the chosen segment, the stage model, the exit events and the current signal values there. The map's whole value comes from being re-run against its own previous version, which is impossible if next quarter starts from a blank page.\n\n## Step 1 - Choose the stage model, do not invent one\n\nSay you are in brainstorming mode and do not draft rows yet.\n\nTwo passes, in this order: delete first, then rank what survives.\n\n- **Delete.** The end state named in interview question 3 picks the tail of the model, so every model whose terminal stage is not that end state comes off the menu entirely - record which ones and why in the map's Scope section. Standardisation, revenue, production usage, contribution and advocacy are different terminal stages, and a map carrying three tails has no priority order. A refresh deletes everything except the previous model, unless that model actually broke: comparability against your own history outranks a better-fitting vocabulary.\n- **Rank.** Rank the survivors, and say the ranking out loud. Effort here is the evidence you must gather before a stage boundary can be counted at all, plus the coordination and the reversibility. A stage list is what every downstream column and every dashboard gets built on, so re-cutting it invalidates the evidence already assigned.\n\n- effort: Revell six-stage > AAARRRP > OSS contributor funnel > API five-stage arc > unsourced default\n- efficiency: API five-stage arc > OSS contributor funnel > AAARRRP > Revell six-stage > unsourced default\n\nThere is deliberately no value line. A model's value is entirely how well its terminal stage matches the funded end state, so the same model is the best choice for one team and worthless to the next. Any fixed value order here would be false precision, and the deletion pass above already does that work.\n\nIn orders of magnitude:\n\n- The API five-stage arc's boundaries - first call, integration, production - usually already sit in product telemetry: an hour to a week of reading.\n- The OSS contributor funnel costs about a week, since the repository holds first PR, review latency and return, though recruiting people who abandoned is slow.\n- AAARRRP costs a week to a quarter, mostly coordination rather than research: its stages have to be reconciled with a company-wide funnel other teams own.\n- Revell six-stage costs a quarter, because the standardisation boundary needs account rollup and buyer-side interviews almost nobody already has.\n\nNote where the cheapest option lands: the unsourced default costs near-zero and still ranks last on efficiency, because it buys no comparability with the field's vocabulary or with any other team's funnel - cheap and efficient are not the same ordering.\n\nThe efficiency order starves Revell six-stage, the only model with an explicit standardisation stage. Promote it anyway when the funded question _is_ why teams adopt but the organisation never standardises, or when a renewal depends on becoming an org-wide default - then the account rollup it forces is the point, not the cost.\n\nTreat both lines as a default, not a law; they move with what a given team already instruments. Re-rank against that:\n\n- an existing company-wide AARRR funnel collapses AAARRRP's coordination cost and promotes it to first\n- account rollup already built for sales removes most of Revell's cost\n- a product with no telemetry before signup demotes the API arc, since its early boundaries are exactly the unobservable ones\n\nOffer **two or three candidate stage models** drawn from [references/stage-models.md](./references/stage-models.md), in efficiency order, each with what it makes visible, what it hides, and what its boundaries will cost you to observe. Recommend one and say why. Let the user choose before any row gets written.\n\nGuidance that decides the rest:\n\n- Prefer five to seven stages - this skill's default band, not a standard. Fewer hides the leak inside a stage; more produces stages nobody can name an exit event for.\n- Split a stage only when it has two distinct exit events with different owners - \"evaluation\" splits cleanly when reading docs and running a local trial are owned by different teams.\n- Keep the model's published stage names when you use a published model, so the map stays comparable with the field's vocabulary and with the program strategy that pins goals to it.\n\n## Step 2 - Collect evidence before filling any row\n\nA map assembled from opinion documents the team's beliefs, not the developer's path. Gather evidence first, cheapest source first, and tag each finding with the stage it belongs to.\n\n1. **Walk the path yourself** and keep a friction log (Google's DevRel practice; protocol in the reference below): one realistic scenario, a running record of what you searched, clicked, pasted and felt, with green/yellow/red marks. It is the only source that catches drop-offs nobody ever reports.\n2. **Mine what developers already wrote** - support tickets, issues, community questions, docs searches that returned nothing. Cluster them by stage; the biggest cluster is a friction candidate, not yet a conclusion.\n3. **Interview five to eight developers who completed the journey**, and - harder to recruit, worth more - three who abandoned it. Both counts are this skill's defaults; the 5-8 matches common usability-panel sizes, not a journey-mapping standard.\n4. **Read the funnel data that already exists** before asking for new instrumentation.\n\nCheck what each surface can physically report before promising a signal. Three corrections move a developer map's numbers more than anything else:\n\n- **Analytics blocking.** Plausible measured 58% of a tech audience blocking a third-party analytics script (82.3% on Linux, 88.3% on Firefox), in an August 2021 measurement on one site carrying Hacker News and Reddit traffic, read against Plausible's own proxied script. That makes it a single-site measurement by an interested vendor, but the only public one. Absolute traffic numbers on developer surfaces are therefore wrong by a factor that varies page by page; only ratios inside one source survive.\n- **Retention windows.** Repository traffic endpoints keep 14 days, npm downloads 18 months, PyPI series 180 days (GitHub REST Metrics/Traffic and pypistats docs). Snapshot any signal drawn from them from the day it is defined; expired data cannot be backfilled.\n- **Referrer loss.** Aggregators, chat clients, privacy browsers, and AI assistants strip referrers - roughly 70% of AI-assistant traffic arrives with none, a newsletter estimate (Demand Curve #331), not a study. A large \"direct\" bucket is the normal case, not an instrumentation bug.\n\n[references/evidence-and-signals.md](./references/evidence-and-signals.md) lists what to look for per stage, the candidate signals, which team usually owns each surface, the friction-log and exit-interview protocols, and the full per-surface instrumentation reality.\n\n## Step 3 - Fill one row per stage\n\nEach row carries eight fields. The three in bold are what separate this from a generic journey map; a row missing any of them is not finished.\n\n| Field             | What goes in it                                                                                                                              |\n| ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |\n| Stage             | the name from the chosen model                                                                                                               |\n| Developer's job   | what the person is trying to accomplish, in their words, not the vendor's funnel language                                                    |\n| Entry trigger     | the observable event that starts the stage                                                                                                   |\n| **Exit event**    | the single observable event proving they moved on - first successful API call, first deploy to production, first merged PR, first talk given |\n| Touchpoints       | the surfaces involved: docs page, repo, CLI output, dashboard, community thread, support ticket                                              |\n| **Owner**         | one person or team accountable for this stage's exit rate                                                                                    |\n| Friction evidence | a cited observation with its source, never a hypothesis; write \"no evidence yet\" when there is none                                          |\n| **Signal**        | one metric with its data source and its current value, or `not instrumented`                                                                 |\n\nKeep out two columns generic journey maps carry:\n\n- Emotion scores get invented at developer volumes and crowd out the accountable columns.\n- Opportunity lists written in the same pass turn the map into a backlog before anyone knows which stage leaks.\n\nMark every stage whose numbers are inferred rather than measured - with the blocking and referrer loss from step 2, the early stages almost always are. An honest `inferred` label protects the map's later conclusions; a confident fake number destroys them.\n\n## Step 4 - Add the buyer lane, or say there isn't one\n\n- **B2B, developer is not the buyer.** Add a second, shorter lane for the economic buyer - security review, legal and licensing, procurement, budget approval - joining at commitment or standardisation. It gets its own exit events (security questionnaire cleared, contract signed) and its own owner, usually outside DevRel entirely. The developer's lane continues in parallel: a champion who cannot arm an approver stalls at a stage the developer lane cannot show.\n- **Roll usage up to accounts before reading this lane.** The developer lane counts people; the buyer lane counts organisations. Group signups by email domain, workspace or licence first - forty signups from one company look like forty leads until you do.\n- **Read three signal families, in increasing order of buying intent:**\n  - **Depth** - production use, sustained volume, wired into CI.\n  - **Spread** - a second and third developer in the same account.\n  - **Boundary contact** - someone opened an SSO or RBAC page, asked a compliance question, hit a seat limit, requested a security questionnaire.\n\n  Boundary contact is rarest, strongest, and the cleanest exit event the lane can have - instrument it first.\n\n- **Individual adoption or B2C-style self-serve.** The two lanes collapse; the developer decides and pays, or nothing is paid at all. State this explicitly on the map rather than leaving an empty buyer lane, so a later reader knows it was decided, not forgotten.\n- **Open source with no purchase.** There is no buyer lane, but there is often an adoption-approval step inside the user's own company (license compatibility, dependency policy). Model it as friction in the adoption stage, not as a lane.\n\nEverything else in the map works the same for both - the stage model, evidence gathering, exit events and leak diagnosis do not change with the business model.\n\n## Step 5 - Name the three "
+    },
+    "whenToUse": [
+      "需要应用这个 Skill 的方法时",
+      "希望把方法转换为可复用案例时"
+    ],
+    "workflow": [
+      "理解用户目标",
+      "按 Skill 方法完成任务",
+      "检查并交付结果"
+    ],
+    "outputs": [
+      "结构化方法说明",
+      "可复制的案例 Prompt"
+    ],
+    "dependencies": [],
+    "riskNotes": [],
+    "cases": [
+      {
+        "id": "developer-journey-map-developer-journey-map-1",
+        "title": "developer-journey-map 案例 1",
+        "summary": "使用原 Skill 的核心工作流解决一个具体问题。",
+        "input": "描述你的目标、对象和限制条件。",
+        "prompt": "请使用 developer-journey-map 的方法完成这个任务，并展示关键步骤与最终结果。",
+        "output": "结构化结果与下一步建议",
+        "executionMode": "structured"
+      },
+      {
+        "id": "developer-journey-map-developer-journey-map-2",
+        "title": "developer-journey-map 案例 2",
+        "summary": "使用原 Skill 的核心工作流解决一个具体问题。",
+        "input": "描述你的目标、对象和限制条件。",
+        "prompt": "请使用 developer-journey-map 的方法完成这个任务，并展示关键步骤与最终结果。",
+        "output": "结构化结果与下一步建议",
+        "executionMode": "structured"
+      }
+    ],
+    "source": {
+      "repository": "samber/developer-relations-skills",
+      "skillPath": "skills/developer-journey-map/SKILL.md",
+      "githubUrl": "https://github.com/samber/developer-relations-skills",
+      "skillsShUrl": "https://skills.sh/samber/developer-relations-skills/developer-journey-map",
+      "license": "MIT",
+      "commit": "f4b82e03fd2384c17f80ef909f216f722ce58044",
+      "installs": 329,
+      "contentHash": "ac46ef96c4ca9d2852ede63f2d4ff2cff5c3df317ea193a999a3bb90d48a698f"
+    }
+  },
+  {
+    "id": "animation-motion-design",
+    "slug": "animation-motion-design",
+    "status": "active",
+    "category": "visual",
+    "categoryLabel": "视觉设计",
+    "title": {
+      "zhCN": "animation-motion-design",
+      "sourceEN": "animation-motion-design",
+      "aliases": [
+        "Animation & Motion Design",
+        "Quick Reference",
+        "Decision Table — Motion vs View Transitions API",
+        "Quick Start"
+      ]
+    },
+    "summary": {
+      "zhCN": "这个 Skill 用于：Animation and motion design patterns using Motion library (formerly Framer Motion) and View Transitions API. Use when implementing component animations, page transitions, micro-interactions, gesture-driven UIs, or ensuring motion accessibility with prefers-reduced-motion.",
+      "sourceEN": "Animation and motion design patterns using Motion library (formerly Framer Motion) and View Transitions API. Use when implementing component animations, page transitions, micro-interactions, gesture-driven UIs, or ensuring motion accessibility with prefers-reduced-motion."
+    },
+    "content": {
+      "sourceEN": "# Animation & Motion Design\n\nPatterns for building performant, accessible animations using **Motion** (formerly Framer Motion, 18M+ weekly npm downloads) and the **View Transitions API** (cross-browser support in 2026). Covers layout animations, gesture interactions, exit transitions, micro-interactions, and motion accessibility.\n\n## Quick Reference\n\n| Rule | File | Impact | When to Use |\n|------|------|--------|-------------|\n| Layout Animations | `rules/motion-layout.md` | HIGH | Shared layout transitions, FLIP animations, layoutId |\n| Gesture Interactions | `rules/motion-gestures.md` | HIGH | Drag, hover, tap with spring physics |\n| Exit Animations | `rules/motion-exit.md` | HIGH | AnimatePresence, unmount transitions |\n| View Transitions API | `rules/view-transitions-api.md` | HIGH | Page navigation, cross-document transitions |\n| Motion Accessibility | `rules/motion-accessibility.md` | CRITICAL | prefers-reduced-motion, cognitive load |\n| Motion Performance | `rules/motion-performance.md` | HIGH | 60fps, GPU compositing, layout thrash |\n\n**Total: 6 rules across 3 categories**\n\n## Decision Table — Motion vs View Transitions API\n\n| Scenario | Recommendation | Why |\n|----------|---------------|-----|\n| Component mount/unmount | Motion | AnimatePresence handles lifecycle |\n| Page navigation transitions | View Transitions API | Built-in browser support, works with any router |\n| Complex interruptible animations | Motion | Spring physics, gesture interruption |\n| Simple crossfade between pages | View Transitions API | Zero JS bundle cost |\n| Drag/reorder interactions | Motion | drag prop with layout animations |\n| Shared element across routes | View Transitions API | viewTransitionName CSS property |\n| Scroll-triggered animations | Motion | useInView, useScroll hooks |\n| Multi-step orchestrated sequences | Motion | staggerChildren, variants |\n\n## Quick Start\n\n### Motion — Component Animation\n\n```tsx\nimport { motion, AnimatePresence } from \"motion/react\"\n\nconst fadeInUp = {\n  initial: { opacity: 0, y: 20 },\n  animate: { opacity: 1, y: 0 },\n  exit: { opacity: 0, y: -10 },\n  transition: { type: \"spring\", stiffness: 300, damping: 24 },\n}\n\nfunction Card({ item }: { item: Item }) {\n  return (\n    <motion.div {...fadeInUp} layout layoutId={item.id}>\n      {item.content}\n    </motion.div>\n  )\n}\n\nfunction CardList({ items }: { items: Item[] }) {\n  return (\n    <AnimatePresence mode=\"wait\">\n      {items.map((item) => (\n        <Card key={item.id} item={item} />\n      ))}\n    </AnimatePresence>\n  )\n}\n```\n\n### View Transitions API — Page Navigation\n\n```tsx\n// React Router v7+ with View Transitions\nimport { Link, useNavigate } from \"react-router\"\n\nfunction NavLink({ to, children }: { to: string; children: React.ReactNode }) {\n  return <Link to={to} viewTransition>{children}</Link>\n}\n\n// CSS for the transition\n// ::view-transition-old(root) { animation: fade-out 200ms ease; }\n// ::view-transition-new(root) { animation: fade-in 200ms ease; }\n```\n\n### Motion — Accessible by Default\n\n```tsx\nimport { useReducedMotion } from \"motion/react\"\n\nfunction AnimatedComponent() {\n  const shouldReduceMotion = useReducedMotion()\n\n  return (\n    <motion.div\n      animate={{ x: 100 }}\n      transition={shouldReduceMotion\n        ? { duration: 0 }\n        : { type: \"spring\", stiffness: 300, damping: 24 }\n      }\n    />\n  )\n}\n```\n\n## Rule Details\n\n### Layout Animations (Motion)\n\nFLIP-based layout animations with the `layout` prop and shared layout transitions via `layoutId`.\n\n> **Load**: `rules/motion-layout.md`\n\n### Gesture Interactions (Motion)\n\nDrag, hover, and tap interactions with spring physics and gesture composition.\n\n> **Load**: `rules/motion-gestures.md`\n\n### Exit Animations (Motion)\n\nAnimatePresence for animating components as they unmount from the React tree.\n\n> **Load**: `rules/motion-exit.md`\n\n### View Transitions API\n\nBrowser-native page transitions using `document.startViewTransition()` and framework integrations.\n\n> **Load**: `rules/view-transitions-api.md`\n\n### Motion Accessibility\n\nRespecting user motion preferences and reducing cognitive load with motion sensitivity patterns.\n\n> **Load**: `rules/motion-accessibility.md`\n\n### Motion Performance\n\nGPU compositing, avoiding layout thrash, and keeping animations at 60fps.\n\n> **Load**: `rules/motion-performance.md`\n\n## Key Principles\n\n1. **60fps or nothing** — Only animate `transform` and `opacity` (composite properties). Never animate `width`, `height`, `top`, or `left`.\n2. **Centralized presets** — Define animation variants in a shared file, not inline on every component.\n3. **AnimatePresence for exits** — React unmounts instantly; wrap with AnimatePresence to animate out.\n4. **Spring over duration** — Springs feel natural and are interruptible. Use `stiffness`/`damping`, not `duration`.\n5. **Respect user preferences** — Always check `prefers-reduced-motion` and provide instant alternatives.\n\n## Performance Budget\n\n| Metric | Target | Measurement |\n|--------|--------|-------------|\n| Transition duration | < 400ms | User perception threshold |\n| Animation properties | transform, opacity only | DevTools > Rendering > Paint flashing |\n| JS bundle (Motion) | ~16KB gzipped | Import only what you use |\n| First paint delay | 0ms | Animations must not block render |\n| Frame drops | < 5% of frames | Performance API: `PerformanceObserver` |\n\n## Anti-Patterns (FORBIDDEN)\n\n- **Animating layout properties** — Never animate `width`, `height`, `margin`, `padding` directly. Use `transform: scale()` instead.\n- **Missing AnimatePresence** — Components unmount instantly without it; exit animations are silently lost.\n- **Ignoring prefers-reduced-motion** — Causes vestibular disorders for ~35% of users with motion sensitivity.\n- **Inline transition objects** — Creates new objects every render, breaking React memoization.\n- **duration-based springs** — Motion springs use `stiffness`/`damping`, not `duration`. Mixing causes unexpected behavior.\n- **Synchronous startViewTransition** — Always await or handle the promise from `document.startViewTransition()`.\n\n## Detailed Documentation\n\n| Resource | Description |\n|----------|-------------|\n| [references/motion-vs-view-transitions.md](references/motion-vs-view-transitions.md) | Comparison table, browser support, limitations |\n| [references/animation-presets-library.md](references/animation-presets-library.md) | Copy-paste preset variants for common patterns |\n| [references/micro-interactions-catalog.md](references/micro-interactions-catalog.md) | Button press, toggle, checkbox, loading, success/error |\n\n## Related Skills\n\n- `ork:ui-components` — shadcn/ui component patterns and CVA variants\n- `ork:responsive-patterns` — Responsive layout and container query patterns\n- `ork:performance` — Core Web Vitals and runtime performance optimization\n- `ork:accessibility` — WCAG compliance, ARIA patterns, screen reader support",
+      "zhCN": "# Animation & Motion Design\n\nPatterns for building performant, accessible animations using **Motion** (formerly Framer Motion, 18M+ weekly npm downloads) and the **View Transitions API** (cross-browser support in 2026). Covers layout animations, gesture interactions, exit transitions, micro-interactions, and motion accessibility.\n\n## Quick Reference\n\n| Rule | File | Impact | When to Use |\n|------|------|--------|-------------|\n| Layout Animations | `rules/motion-layout.md` | HIGH | Shared layout transitions, FLIP animations, layoutId |\n| Gesture Interactions | `rules/motion-gestures.md` | HIGH | Drag, hover, tap with spring physics |\n| Exit Animations | `rules/motion-exit.md` | HIGH | AnimatePresence, unmount transitions |\n| View Transitions API | `rules/view-transitions-api.md` | HIGH | Page navigation, cross-document transitions |\n| Motion Accessibility | `rules/motion-accessibility.md` | CRITICAL | prefers-reduced-motion, cognitive load |\n| Motion Performance | `rules/motion-performance.md` | HIGH | 60fps, GPU compositing, layout thrash |\n\n**Total: 6 rules across 3 categories**\n\n## Decision Table — Motion vs View Transitions API\n\n| Scenario | Recommendation | Why |\n|----------|---------------|-----|\n| Component mount/unmount | Motion | AnimatePresence handles lifecycle |\n| Page navigation transitions | View Transitions API | Built-in browser support, works with any router |\n| Complex interruptible animations | Motion | Spring physics, gesture interruption |\n| Simple crossfade between pages | View Transitions API | Zero JS bundle cost |\n| Drag/reorder interactions | Motion | drag prop with layout animations |\n| Shared element across routes | View Transitions API | viewTransitionName CSS property |\n| Scroll-triggered animations | Motion | useInView, useScroll hooks |\n| Multi-step orchestrated sequences | Motion | staggerChildren, variants |\n\n## Quick Start\n\n### Motion — Component Animation\n\n```tsx\nimport { motion, AnimatePresence } from \"motion/react\"\n\nconst fadeInUp = {\n  initial: { opacity: 0, y: 20 },\n  animate: { opacity: 1, y: 0 },\n  exit: { opacity: 0, y: -10 },\n  transition: { type: \"spring\", stiffness: 300, damping: 24 },\n}\n\nfunction Card({ item }: { item: Item }) {\n  return (\n    <motion.div {...fadeInUp} layout layoutId={item.id}>\n      {item.content}\n    </motion.div>\n  )\n}\n\nfunction CardList({ items }: { items: Item[] }) {\n  return (\n    <AnimatePresence mode=\"wait\">\n      {items.map((item) => (\n        <Card key={item.id} item={item} />\n      ))}\n    </AnimatePresence>\n  )\n}\n```\n\n### View Transitions API — Page Navigation\n\n```tsx\n// React Router v7+ with View Transitions\nimport { Link, useNavigate } from \"react-router\"\n\nfunction NavLink({ to, children }: { to: string; children: React.ReactNode }) {\n  return <Link to={to} viewTransition>{children}</Link>\n}\n\n// CSS for the transition\n// ::view-transition-old(root) { animation: fade-out 200ms ease; }\n// ::view-transition-new(root) { animation: fade-in 200ms ease; }\n```\n\n### Motion — Accessible by Default\n\n```tsx\nimport { useReducedMotion } from \"motion/react\"\n\nfunction AnimatedComponent() {\n  const shouldReduceMotion = useReducedMotion()\n\n  return (\n    <motion.div\n      animate={{ x: 100 }}\n      transition={shouldReduceMotion\n        ? { duration: 0 }\n        : { type: \"spring\", stiffness: 300, damping: 24 }\n      }\n    />\n  )\n}\n```\n\n## Rule Details\n\n### Layout Animations (Motion)\n\nFLIP-based layout animations with the `layout` prop and shared layout transitions via `layoutId`.\n\n> **Load**: `rules/motion-layout.md`\n\n### Gesture Interactions (Motion)\n\nDrag, hover, and tap interactions with spring physics and gesture composition.\n\n> **Load**: `rules/motion-gestures.md`\n\n### Exit Animations (Motion)\n\nAnimatePresence for animating components as they unmount from the React tree.\n\n> **Load**: `rules/motion-exit.md`\n\n### View Transitions API\n\nBrowser-native page transitions using `document.startViewTransition()` and framework integrations.\n\n> **Load**: `rules/view-transitions-api.md`\n\n### Motion Accessibility\n\nRespecting user motion preferences and reducing cognitive load with motion sensitivity patterns.\n\n> **Load**: `rules/motion-accessibility.md`\n\n### Motion Performance\n\nGPU compositing, avoiding layout thrash, and keeping animations at 60fps.\n\n> **Load**: `rules/motion-performance.md`\n\n## Key Principles\n\n1. **60fps or nothing** — Only animate `transform` and `opacity` (composite properties). Never animate `width`, `height`, `top`, or `left`.\n2. **Centralized presets** — Define animation variants in a shared file, not inline on every component.\n3. **AnimatePresence for exits** — React unmounts instantly; wrap with AnimatePresence to animate out.\n4. **Spring over duration** — Springs feel natural and are interruptible. Use `stiffness`/`damping`, not `duration`.\n5. **Respect user preferences** — Always check `prefers-reduced-motion` and provide instant alternatives.\n\n## Performance Budget\n\n| Metric | Target | Measurement |\n|--------|--------|-------------|\n| Transition duration | < 400ms | User perception threshold |\n| Animation properties | transform, opacity only | DevTools > Rendering > Paint flashing |\n| JS bundle (Motion) | ~16KB gzipped | Import only what you use |\n| First paint delay | 0ms | Animations must not block render |\n| Frame drops | < 5% of frames | Performance API: `PerformanceObserver` |\n\n## Anti-Patterns (FORBIDDEN)\n\n- **Animating layout properties** — Never animate `width`, `height`, `margin`, `padding` directly. Use `transform: scale()` instead.\n- **Missing AnimatePresence** — Components unmount instantly without it; exit animations are silently lost.\n- **Ignoring prefers-reduced-motion** — Causes vestibular disorders for ~35% of users with motion sensitivity.\n- **Inline transition objects** — Creates new objects every render, breaking React memoization.\n- **duration-based springs** — Motion springs use `stiffness`/`damping`, not `duration`. Mixing causes unexpected behavior.\n- **Synchronous startViewTransition** — Always await or handle the promise from `document.startViewTransition()`.\n\n## Detailed Documentation\n\n| Resource | Description |\n|----------|-------------|\n| [references/motion-vs-view-transitions.md](references/motion-vs-view-transitions.md) | Comparison table, browser support, limitations |\n| [references/animation-presets-library.md](references/animation-presets-library.md) | Copy-paste preset variants for common patterns |\n| [references/micro-interactions-catalog.md](references/micro-interactions-catalog.md) | Button press, toggle, checkbox, loading, success/error |\n\n## Related Skills\n\n- `ork:ui-components` — shadcn/ui component patterns and CVA variants\n- `ork:responsive-patterns` — Responsive layout and container query patterns\n- `ork:performance` — Core Web Vitals and runtime performance optimization\n- `ork:accessibility` — WCAG compliance, ARIA patterns, screen reader support"
+    },
+    "whenToUse": [
+      "需要应用这个 Skill 的方法时",
+      "希望把方法转换为可复用案例时"
+    ],
+    "workflow": [
+      "理解用户目标",
+      "按 Skill 方法完成任务",
+      "检查并交付结果"
+    ],
+    "outputs": [
+      "结构化方法说明",
+      "可复制的案例 Prompt"
+    ],
+    "dependencies": [
+      "Read",
+      "Glob",
+      "Grep",
+      "WebFetch",
+      "WebSearch"
+    ],
+    "riskNotes": [],
+    "cases": [
+      {
+        "id": "animation-motion-design-animation-motion-design-1",
+        "title": "animation-motion-design 案例 1",
+        "summary": "使用原 Skill 的核心工作流解决一个具体问题。",
+        "input": "描述你的目标、对象和限制条件。",
+        "prompt": "请使用 animation-motion-design 的方法完成这个任务，并展示关键步骤与最终结果。",
+        "output": "结构化结果与下一步建议",
+        "executionMode": "structured"
+      },
+      {
+        "id": "animation-motion-design-animation-motion-design-2",
+        "title": "animation-motion-design 案例 2",
+        "summary": "使用原 Skill 的核心工作流解决一个具体问题。",
+        "input": "描述你的目标、对象和限制条件。",
+        "prompt": "请使用 animation-motion-design 的方法完成这个任务，并展示关键步骤与最终结果。",
+        "output": "结构化结果与下一步建议",
+        "executionMode": "structured"
+      }
+    ],
+    "source": {
+      "repository": "yonatangross/orchestkit",
+      "skillPath": "plugins/ork/skills/animation-motion-design/SKILL.md",
+      "githubUrl": "https://github.com/yonatangross/orchestkit",
+      "skillsShUrl": "https://skills.sh/yonatangross/orchestkit/animation-motion-design",
+      "license": "MIT",
+      "commit": "02cb9352d9d729cd2f6148e6355e19b588309e95",
+      "installs": 192,
+      "contentHash": "3fbe2a5ecce45ed49546f0e377b653c2d17ba0f5735010c8bcae74957c585c2f"
+    }
+  },
+  {
+    "id": "beat-grill",
+    "slug": "beat-grill",
+    "status": "active",
+    "category": "visual",
+    "categoryLabel": "视觉设计",
+    "title": {
+      "zhCN": "beat-grill",
+      "sourceEN": "beat-grill",
+      "aliases": [
+        "Beat Grill",
+        "The contract (four rules, every turn)",
+        "Step 0: Read the bible, then the beat",
+        "Step 1: Confirm the beat's shape"
+      ]
+    },
+    "summary": {
+      "zhCN": "这个 Skill 用于：>-",
+      "sourceEN": ">-"
+    },
+    "content": {
+      "sourceEN": "# Beat Grill\n\nTake one beat file and grill it from a stub into full branching content: the\nscenes play out, the player's choices are named, each choice is gated by a\nworld-state flag where it should be, each choice writes its consequences back to\nstate, and the dialog is written. One beat at a time. This is the design-interview\nengine pointed at a single beat instead of a whole design.\n\nWorking one beat at a time, with the bible open as the center, is the whole point\nof the chain. It keeps each session small enough to do well and keeps every beat\nconsistent with the same world.\n\n## The contract (four rules, every turn)\n\nFrom design-interview, scoped to this beat.\n\n1. **One question at a time.** One fork in this beat per turn. Do not stack.\n2. **Recommend, don't just ask.** Every fork carries your recommended choice\n   design, its reasoning, and the tradeoff. The user reacts to a concrete\n   proposal.\n3. **Walk the beat in order.** Scene by scene, and within a scene, the choices in\n   the order the player meets them. A consequence that gates a later choice in the\n   same beat comes before it.\n4. **Explore instead of asking.** The bible answers most context questions: tone,\n   world rules, who a faction is, what a flag means. Read it rather than asking.\n\n## Step 0: Read the bible, then the beat\n\nRead the story bible first (the beat file links to it), then the beat file. You\nneed the bible for tone, world rules, the factions in play, and especially the\n**flag list**, which is the shared vocabulary every guard and consequence must use.\nYou need the beat file for this beat's job, its scene checklist, and any forks the\nbible already named.\n\nIf either is missing, stop and say which. This skill expands an existing beat\nstub; it does not invent the beat.\n\n## Step 1: Confirm the beat's shape\n\nRestate, in a line or two, what this beat does and the scenes it contains, drawn\nfrom the stub. Ask the user to confirm or adjust the scene list before you grill\nthe branches, so you are filling the right structure. Recommend your own read.\n\n## Step 2: Grill the branches, one fork at a time\n\nWalk the scenes. At each fork:\n\n- **Name the fork and its scene.** \"Scene 2, the smuggler's offer: what does the\n  player get to choose?\"\n- **Propose the choices.** Recommend the set of player choices, two to four, each\n  meaningfully different. Say why these and not others.\n- **Design each choice's guard and consequence.** For each choice, state whether\n  it is gated (a `guard`: a flag from the bible that must hold for the choice to be\n  available) and what it writes (a `consequence`: a flag it sets or clears). Use\n  flag names from the bible's flag list. If a choice needs a flag that does not\n  exist yet, name it, and add it to the bible's flag list (see Step 4).\n- **Flag the soft spot.** Where a reasonable designer would gate or branch\n  differently, name it and invite the override.\n- **End with the explicit decision.** What choices, guards, and consequences you\n  are asking the user to accept for this fork.\n\nWhen the user accepts, write the dialog for that beat of interaction in the bible's\nvoice: the narration, the choice prompts as the player sees them, and the lines\nthat follow each choice. Match the tone and any sample voice line from the bible.\n\nKeep the load-bearing structure intact: if this beat is the mirror moment or the\nknockout, do not let a fork route the player around it (the bible's structure\nprofile says which beats are load-bearing).\n\n## Step 3: Write the expanded beat back into its file\n\nReplace the stub's scene checklist and known-forks sections with the full content:\neach scene, its choices, each choice's guard and consequence stated plainly, and\nthe dialog. Keep the choices, guards, and consequences co-located with the scene\nthey belong to, in the beat file, so the beat stays self-contained and readable on\nits own. Update the file's status marker from `stub` to `grilled`.\n\nSee `references/beat-content-conventions.md` for how to lay out choices, guards,\nconsequences, and dialog in the file, and the flag-naming convention.\n\n## Step 4: Keep the flag list coherent\n\nAny flag you introduce in this beat (as a guard or a consequence) that is not\nalready in the bible's flag list, append to the bible's flag list with a one-line\nmeaning. This is the one place beat-grill writes outside its own beat file, and it\nis what keeps every beat's branch conditions speaking the same vocabulary. Do not\nkeep a private flag list in the beat file; the bible is the single home for flags.\n\n## Step 5: Hand off\n\nPresent the expanded beat file. Note the next unstubbed beat if there is one. Do\nnot grill the next beat automatically; one beat per session is the discipline.\n\n## Conventions\n\n- **Use the bible's flags, do not fork the vocabulary.** A guard on a flag that is\n  not in the bible's list is a broken branch. Add the flag to the bible first.\n- **Choices must matter.** A choice with no guard and no consequence is flavor, not\n  a branch. That is fine occasionally, but if a whole beat has no consequences, the\n  beat does not move the state and that is worth flagging to the user.\n- **Match the bible's voice.** Dialog adopts the bible's tone and sample voice.\n- **Default to prose for the grilling. Avoid em dashes.**",
+      "zhCN": "# Beat Grill\n\nTake one beat file and grill it from a stub into full branching content: the\nscenes play out, the player's choices are named, each choice is gated by a\nworld-state flag where it should be, each choice writes its consequences back to\nstate, and the dialog is written. One beat at a time. This is the design-interview\nengine pointed at a single beat instead of a whole design.\n\nWorking one beat at a time, with the bible open as the center, is the whole point\nof the chain. It keeps each session small enough to do well and keeps every beat\nconsistent with the same world.\n\n## The contract (four rules, every turn)\n\nFrom design-interview, scoped to this beat.\n\n1. **One question at a time.** One fork in this beat per turn. Do not stack.\n2. **Recommend, don't just ask.** Every fork carries your recommended choice\n   design, its reasoning, and the tradeoff. The user reacts to a concrete\n   proposal.\n3. **Walk the beat in order.** Scene by scene, and within a scene, the choices in\n   the order the player meets them. A consequence that gates a later choice in the\n   same beat comes before it.\n4. **Explore instead of asking.** The bible answers most context questions: tone,\n   world rules, who a faction is, what a flag means. Read it rather than asking.\n\n## Step 0: Read the bible, then the beat\n\nRead the story bible first (the beat file links to it), then the beat file. You\nneed the bible for tone, world rules, the factions in play, and especially the\n**flag list**, which is the shared vocabulary every guard and consequence must use.\nYou need the beat file for this beat's job, its scene checklist, and any forks the\nbible already named.\n\nIf either is missing, stop and say which. This skill expands an existing beat\nstub; it does not invent the beat.\n\n## Step 1: Confirm the beat's shape\n\nRestate, in a line or two, what this beat does and the scenes it contains, drawn\nfrom the stub. Ask the user to confirm or adjust the scene list before you grill\nthe branches, so you are filling the right structure. Recommend your own read.\n\n## Step 2: Grill the branches, one fork at a time\n\nWalk the scenes. At each fork:\n\n- **Name the fork and its scene.** \"Scene 2, the smuggler's offer: what does the\n  player get to choose?\"\n- **Propose the choices.** Recommend the set of player choices, two to four, each\n  meaningfully different. Say why these and not others.\n- **Design each choice's guard and consequence.** For each choice, state whether\n  it is gated (a `guard`: a flag from the bible that must hold for the choice to be\n  available) and what it writes (a `consequence`: a flag it sets or clears). Use\n  flag names from the bible's flag list. If a choice needs a flag that does not\n  exist yet, name it, and add it to the bible's flag list (see Step 4).\n- **Flag the soft spot.** Where a reasonable designer would gate or branch\n  differently, name it and invite the override.\n- **End with the explicit decision.** What choices, guards, and consequences you\n  are asking the user to accept for this fork.\n\nWhen the user accepts, write the dialog for that beat of interaction in the bible's\nvoice: the narration, the choice prompts as the player sees them, and the lines\nthat follow each choice. Match the tone and any sample voice line from the bible.\n\nKeep the load-bearing structure intact: if this beat is the mirror moment or the\nknockout, do not let a fork route the player around it (the bible's structure\nprofile says which beats are load-bearing).\n\n## Step 3: Write the expanded beat back into its file\n\nReplace the stub's scene checklist and known-forks sections with the full content:\neach scene, its choices, each choice's guard and consequence stated plainly, and\nthe dialog. Keep the choices, guards, and consequences co-located with the scene\nthey belong to, in the beat file, so the beat stays self-contained and readable on\nits own. Update the file's status marker from `stub` to `grilled`.\n\nSee `references/beat-content-conventions.md` for how to lay out choices, guards,\nconsequences, and dialog in the file, and the flag-naming convention.\n\n## Step 4: Keep the flag list coherent\n\nAny flag you introduce in this beat (as a guard or a consequence) that is not\nalready in the bible's flag list, append to the bible's flag list with a one-line\nmeaning. This is the one place beat-grill writes outside its own beat file, and it\nis what keeps every beat's branch conditions speaking the same vocabulary. Do not\nkeep a private flag list in the beat file; the bible is the single home for flags.\n\n## Step 5: Hand off\n\nPresent the expanded beat file. Note the next unstubbed beat if there is one. Do\nnot grill the next beat automatically; one beat per session is the discipline.\n\n## Conventions\n\n- **Use the bible's flags, do not fork the vocabulary.** A guard on a flag that is\n  not in the bible's list is a broken branch. Add the flag to the bible first.\n- **Choices must matter.** A choice with no guard and no consequence is flavor, not\n  a branch. That is fine occasionally, but if a whole beat has no consequences, the\n  beat does not move the state and that is worth flagging to the user.\n- **Match the bible's voice.** Dialog adopts the bible's tone and sample voice.\n- **Default to prose for the grilling. Avoid em dashes.**"
+    },
+    "whenToUse": [
+      "需要应用这个 Skill 的方法时",
+      "希望把方法转换为可复用案例时"
+    ],
+    "workflow": [
+      "理解用户目标",
+      "按 Skill 方法完成任务",
+      "检查并交付结果"
+    ],
+    "outputs": [
+      "结构化方法说明",
+      "可复制的案例 Prompt"
+    ],
+    "dependencies": [],
+    "riskNotes": [
+      "原 Skill 可能涉及账号、密钥或付费服务；站内案例不会继承这些依赖。"
+    ],
+    "cases": [
+      {
+        "id": "beat-grill-beat-grill-1",
+        "title": "beat-grill 案例 1",
+        "summary": "使用原 Skill 的核心工作流解决一个具体问题。",
+        "input": "描述你的目标、对象和限制条件。",
+        "prompt": "请使用 beat-grill 的方法完成这个任务，并展示关键步骤与最终结果。",
+        "output": "结构化结果与下一步建议",
+        "executionMode": "structured"
+      },
+      {
+        "id": "beat-grill-beat-grill-2",
+        "title": "beat-grill 案例 2",
+        "summary": "使用原 Skill 的核心工作流解决一个具体问题。",
+        "input": "描述你的目标、对象和限制条件。",
+        "prompt": "请使用 beat-grill 的方法完成这个任务，并展示关键步骤与最终结果。",
+        "output": "结构化结果与下一步建议",
+        "executionMode": "structured"
+      }
+    ],
+    "source": {
+      "repository": "robjsliwa/skills",
+      "skillPath": "skills/gamedev/beat-grill/SKILL.md",
+      "githubUrl": "https://github.com/robjsliwa/skills",
+      "skillsShUrl": "https://skills.sh/robjsliwa/skills/beat-grill",
+      "license": "MIT",
+      "commit": "130442ccab3d4d712e6d33d7bf0c502df27ad623",
+      "installs": 6,
+      "contentHash": "25dffddad16d844da2d09504f5550c982dee924ed2b7e5124826aa1dce935066"
+    }
+  },
+  {
+    "id": "beat-sync-edit",
+    "slug": "beat-sync-edit",
+    "status": "active",
+    "category": "visual",
+    "categoryLabel": "视觉设计",
+    "title": {
+      "zhCN": "beat-sync-edit",
+      "sourceEN": "beat-sync-edit",
+      "aliases": [
+        "Beat-Sync Edit",
+        "The pipeline (run in order)",
+        "The white-flash montage template (separate edit style)",
+        "What the user can ask for (translate words → workflow)"
+      ]
+    },
+    "summary": {
+      "zhCN": "这个 Skill 用于：Turn a song + raw footage into a beat-synced edit. Runs the four-stage pipeline (beat analysis, scene tagging, EDL planning, render) and applies user-described ffmpeg effects — white flashes, stretch punches, hue shifts, speed ramps — at beat-accurate timestamps.",
+      "sourceEN": "Turn a song + raw footage into a beat-synced edit. Runs the four-stage pipeline (beat analysis, scene tagging, EDL planning, render) and applies user-described ffmpeg effects — white flashes, stretch punches, hue shifts, speed ramps — at beat-accurate timestamps."
+    },
+    "content": {
+      "sourceEN": "# Beat-Sync Edit\n\nDrive the deterministic pipeline conversationally. The user describes the edit\nthey want (\"cut my footage to the chorus, white flash on every drop, make it\n9:16\"); you run the stages, apply effects, and deliver the file.\n\n## The pipeline (run in order)\n\n```\npython3 beat_map.py <song>                       # beats, energy, peaks/valleys → <song>_beatmap.json\npython3 clip_tag.py <footage> --html --thumbs    # scenes + motion/energy tags → <footage>_clips.json\npython3 plan_edit.py <beatmap> <clips> --html    # energy-matched EDL → <name>_edl.json\npython3 render_edit.py <edl> -a <song> -v <footage>   # final MP4\npython3 vertical_style.py <mp4>                  # optional 9:16 squeeze + grade\n```\n\n- Read the beatmap's `peaks`/`valleys` and the EDL before adding effects —\n  effects belong ON beat timestamps, not at arbitrary times.\n- `plan_edit.py` overrides: `--exclude '1,6,0-30'`, `--lead '2:18,5'`,\n  `--pin '8=138,peak2=22'` — use them when the user dislikes a cut.\n- `plan_edit.py --beat-stride N` — cut density. 1 = a cut on every beat\n  (default); N>1 keeps every Nth beat: fewer, longer cuts that breathe, for\n  slow/contemplative footage. Naming convention for variants:\n  `<name>_beat-full` (stride 1) vs `<name>_beat-thinned` (stride 2+).\n- `plan_edit.py --full` uses the whole song instead of the best segment;\n  `--segment 2|3` picks the second/third-best highlight segment.\n- `render_edit.py --overunder` emits the stacked 960x1080 \"3D\" variant.\n\n## The white-flash montage template (separate edit style)\n\nWhen the user asks for a MONTAGE — a 1:1 sequence of held shots/stills with\nwhite-flash transitions (\"white flash between each clip\", \"photo narrative\",\n\"meme montage\") — use `flash_montage.py` instead of the beat pipeline:\n\n```\npython3 flash_montage.py --seq seq.json --audio <song> --out out.mp4 --flash 1.0\n```\n\nAuthor the seq.json yourself from the user's description: one item per shot,\n`{\"video\": path, \"start\": t, \"dur\": d}` or `{\"image\": path, \"dur\": d}`, with\n`zoom`/`cx`/`cy` to punch in on each subject (LOOK at a frame first to place\ncx/cy), `stretch` for width hits, `motion: \"sway\"` for handheld feel (default\non stills, off for videos). Set `dur` to a beat-multiple of the song's tempo\n(from beat_map.py) so flashes land musically — e.g. 4 beats per slot. Iterate\nby editing the seq.json, not by rebuilding commands.\n\n## What the user can ask for (translate words → workflow)\n\n- \"punchier / more cuts\" → `--beat-stride 1` (default), or lower clip_tag\n  `--threshold` for finer scenes\n- \"calmer / spaced out / longer scenes / let shots breathe\" →\n  `--beat-stride 2` (or 4 for very slow footage); when comparing, render both\n  and suffix the outputs `_beat-full` / `_beat-thinned`\n- \"start on the best moment\" → `--lead` with the highest-energy clip\n- \"make it vertical / TikTok-ready / 9:16\" → vertical_style.py after render;\n  \"square / 1:1\" → center-crop with ffmpeg (`crop=ih:ih,setsar=1` + scale);\n  \"stacked / over-under\" → `render_edit.py --overunder`\n- **Reference videos — take ONLY what the user asks for.** A reference is not\n  a request to clone the whole look. Extract 3-5 frames\n  (`ffmpeg -ss <t> -frames:v 1`), LOOK at them, then match just the named\n  aspect(s): \"this tint\" → hue/cast only (`hue`, `colorbalance`); \"this\n  contrast\" → `curves`/`eq` only; \"how washed out it is\" → saturation only;\n  \"the way it cuts\" → cut rhythm/density, not color at all; \"that flash\n  effect\" → just that effect from the cookbook. If they say \"make it look\n  like this\" without naming an aspect, ASK which parts they mean (color?\n  contrast? pacing? effects?) before matching more than one. Show a\n  confirmation frame before final render. If the reference is on the web and\n  Chrome tools are available, study it there the same way.\n\n## Effects cookbook (apply with ffmpeg per segment, then re-concat)\n\nApply to individual extracted segments between the extract and concat steps\n(re-encode the segment with `-vf \"<filter>\"`), or to the final file. Time\neffects to beat timestamps from the beatmap.\n\n| User says | ffmpeg filter |\n|---|---|\n| white flash (on the beat/drop) | `fade=t=in:st=0:d=0.07:color=white` on the segment starting at that beat |\n| black dip | `fade=t=in:st=0:d=0.07:color=black` |\n| stretch / punch-in | `scale=iw*1.15:ih*1.15,crop=iw/1.15:ih/1.15,setsar=1` (hold ~2 frames, then normal) |\n| horizontal stretch hit | `scale=iw*1.25:ih,crop=iw/1.25:ih,setsar=1` |\n| hue shift / psychedelic | static: `hue=h=60` · animated: `hue=h='mod(t*180,360)'` |\n| RGB split / glitch | `rgbashift=rh=6:bh=-6` |\n| speed ramp | `setpts=0.5*PTS` (2x) · `setpts=2*PTS` (half speed; add `minterpolate` for smoothness) |\n| shake | `crop=iw-20:ih-20:'10+8*sin(t*40)':'10+8*cos(t*37)'` |\n| strobe invert | `negate=enable='lt(mod(t,0.25),0.04)'` |\n| dreamy glow | `gblur=sigma=8,blend=all_mode=screen,all_opacity=0.35` (via split) |\n| grade: warm | `colorbalance=rm=.12:bm=-.08` · cool: `colorbalance=bm=.12:rm=-.06` |\n\nRules of thumb: flashes/punches on energy PEAKS only (over-flashing reads\namateur); one signature effect per edit + one grade; always `-pix_fmt yuv420p`\nand `setsar=1` when re-encoding segments so concat stays valid.\n\n## Workflow when the user asks for an edit\n\n1. Run beat_map + clip_tag (with `--thumbs`; view the contact sheet to know\n   the footage).\n2. plan_edit → review the EDL against their description; apply overrides.\n3. render_edit → if effects were requested, re-extract the affected segments\n   with filters at the right beats, re-concat, re-mux audio.\n4. Optional vertical_style for 9:16. Deliver the file path + one-line summary\n   of cut count, duration, and effects used.",
+      "zhCN": "# Beat-Sync Edit\n\nDrive the deterministic pipeline conversationally. The user describes the edit\nthey want (\"cut my footage to the chorus, white flash on every drop, make it\n9:16\"); you run the stages, apply effects, and deliver the file.\n\n## The pipeline (run in order)\n\n```\npython3 beat_map.py <song>                       # beats, energy, peaks/valleys → <song>_beatmap.json\npython3 clip_tag.py <footage> --html --thumbs    # scenes + motion/energy tags → <footage>_clips.json\npython3 plan_edit.py <beatmap> <clips> --html    # energy-matched EDL → <name>_edl.json\npython3 render_edit.py <edl> -a <song> -v <footage>   # final MP4\npython3 vertical_style.py <mp4>                  # optional 9:16 squeeze + grade\n```\n\n- Read the beatmap's `peaks`/`valleys` and the EDL before adding effects —\n  effects belong ON beat timestamps, not at arbitrary times.\n- `plan_edit.py` overrides: `--exclude '1,6,0-30'`, `--lead '2:18,5'`,\n  `--pin '8=138,peak2=22'` — use them when the user dislikes a cut.\n- `plan_edit.py --beat-stride N` — cut density. 1 = a cut on every beat\n  (default); N>1 keeps every Nth beat: fewer, longer cuts that breathe, for\n  slow/contemplative footage. Naming convention for variants:\n  `<name>_beat-full` (stride 1) vs `<name>_beat-thinned` (stride 2+).\n- `plan_edit.py --full` uses the whole song instead of the best segment;\n  `--segment 2|3` picks the second/third-best highlight segment.\n- `render_edit.py --overunder` emits the stacked 960x1080 \"3D\" variant.\n\n## The white-flash montage template (separate edit style)\n\nWhen the user asks for a MONTAGE — a 1:1 sequence of held shots/stills with\nwhite-flash transitions (\"white flash between each clip\", \"photo narrative\",\n\"meme montage\") — use `flash_montage.py` instead of the beat pipeline:\n\n```\npython3 flash_montage.py --seq seq.json --audio <song> --out out.mp4 --flash 1.0\n```\n\nAuthor the seq.json yourself from the user's description: one item per shot,\n`{\"video\": path, \"start\": t, \"dur\": d}` or `{\"image\": path, \"dur\": d}`, with\n`zoom`/`cx`/`cy` to punch in on each subject (LOOK at a frame first to place\ncx/cy), `stretch` for width hits, `motion: \"sway\"` for handheld feel (default\non stills, off for videos). Set `dur` to a beat-multiple of the song's tempo\n(from beat_map.py) so flashes land musically — e.g. 4 beats per slot. Iterate\nby editing the seq.json, not by rebuilding commands.\n\n## What the user can ask for (translate words → workflow)\n\n- \"punchier / more cuts\" → `--beat-stride 1` (default), or lower clip_tag\n  `--threshold` for finer scenes\n- \"calmer / spaced out / longer scenes / let shots breathe\" →\n  `--beat-stride 2` (or 4 for very slow footage); when comparing, render both\n  and suffix the outputs `_beat-full` / `_beat-thinned`\n- \"start on the best moment\" → `--lead` with the highest-energy clip\n- \"make it vertical / TikTok-ready / 9:16\" → vertical_style.py after render;\n  \"square / 1:1\" → center-crop with ffmpeg (`crop=ih:ih,setsar=1` + scale);\n  \"stacked / over-under\" → `render_edit.py --overunder`\n- **Reference videos — take ONLY what the user asks for.** A reference is not\n  a request to clone the whole look. Extract 3-5 frames\n  (`ffmpeg -ss <t> -frames:v 1`), LOOK at them, then match just the named\n  aspect(s): \"this tint\" → hue/cast only (`hue`, `colorbalance`); \"this\n  contrast\" → `curves`/`eq` only; \"how washed out it is\" → saturation only;\n  \"the way it cuts\" → cut rhythm/density, not color at all; \"that flash\n  effect\" → just that effect from the cookbook. If they say \"make it look\n  like this\" without naming an aspect, ASK which parts they mean (color?\n  contrast? pacing? effects?) before matching more than one. Show a\n  confirmation frame before final render. If the reference is on the web and\n  Chrome tools are available, study it there the same way.\n\n## Effects cookbook (apply with ffmpeg per segment, then re-concat)\n\nApply to individual extracted segments between the extract and concat steps\n(re-encode the segment with `-vf \"<filter>\"`), or to the final file. Time\neffects to beat timestamps from the beatmap.\n\n| User says | ffmpeg filter |\n|---|---|\n| white flash (on the beat/drop) | `fade=t=in:st=0:d=0.07:color=white` on the segment starting at that beat |\n| black dip | `fade=t=in:st=0:d=0.07:color=black` |\n| stretch / punch-in | `scale=iw*1.15:ih*1.15,crop=iw/1.15:ih/1.15,setsar=1` (hold ~2 frames, then normal) |\n| horizontal stretch hit | `scale=iw*1.25:ih,crop=iw/1.25:ih,setsar=1` |\n| hue shift / psychedelic | static: `hue=h=60` · animated: `hue=h='mod(t*180,360)'` |\n| RGB split / glitch | `rgbashift=rh=6:bh=-6` |\n| speed ramp | `setpts=0.5*PTS` (2x) · `setpts=2*PTS` (half speed; add `minterpolate` for smoothness) |\n| shake | `crop=iw-20:ih-20:'10+8*sin(t*40)':'10+8*cos(t*37)'` |\n| strobe invert | `negate=enable='lt(mod(t,0.25),0.04)'` |\n| dreamy glow | `gblur=sigma=8,blend=all_mode=screen,all_opacity=0.35` (via split) |\n| grade: warm | `colorbalance=rm=.12:bm=-.08` · cool: `colorbalance=bm=.12:rm=-.06` |\n\nRules of thumb: flashes/punches on energy PEAKS only (over-flashing reads\namateur); one signature effect per edit + one grade; always `-pix_fmt yuv420p`\nand `setsar=1` when re-encoding segments so concat stays valid.\n\n## Workflow when the user asks for an edit\n\n1. Run beat_map + clip_tag (with `--thumbs`; view the contact sheet to know\n   the footage).\n2. plan_edit → review the EDL against their description; apply overrides.\n3. render_edit → if effects were requested, re-extract the affected segments\n   with filters at the right beats, re-concat, re-mux audio.\n4. Optional vertical_style for 9:16. Deliver the file path + one-line summary\n   of cut count, duration, and effects used."
+    },
+    "whenToUse": [
+      "需要应用这个 Skill 的方法时",
+      "希望把方法转换为可复用案例时"
+    ],
+    "workflow": [
+      "\"punchier / more cuts\" → `--beat-stride 1` (default), or lower clip_tag",
+      "\"calmer / spaced out / longer scenes / let shots breathe\" →",
+      "\"start on the best moment\" → `--lead` with the highest-energy clip",
+      "\"make it vertical / TikTok-ready / 9:16\" → vertical_style.py after render;",
+      "R：eference videos — take ONLY what the user asks for.** A reference is not"
+    ],
+    "outputs": [
+      "结构化方法说明",
+      "可复制的案例 Prompt"
+    ],
+    "dependencies": [],
+    "riskNotes": [],
+    "cases": [
+      {
+        "id": "beat-sync-edit-beat-sync-edit-1",
+        "title": "beat-sync-edit 案例 1",
+        "summary": "使用原 Skill 的核心工作流解决一个具体问题。",
+        "input": "描述你的目标、对象和限制条件。",
+        "prompt": "请使用 beat-sync-edit 的方法完成这个任务，并展示关键步骤与最终结果。",
+        "output": "结构化结果与下一步建议",
+        "executionMode": "structured"
+      },
+      {
+        "id": "beat-sync-edit-beat-sync-edit-2",
+        "title": "beat-sync-edit 案例 2",
+        "summary": "使用原 Skill 的核心工作流解决一个具体问题。",
+        "input": "描述你的目标、对象和限制条件。",
+        "prompt": "请使用 beat-sync-edit 的方法完成这个任务，并展示关键步骤与最终结果。",
+        "output": "结构化结果与下一步建议",
+        "executionMode": "structured"
+      }
+    ],
+    "source": {
+      "repository": "ziadabdelkarim/beat-synced-edit",
+      "skillPath": ".claude/skills/beat-sync-edit/SKILL.md",
+      "githubUrl": "https://github.com/ZiadAbdelkarim/beat-synced-edit",
+      "skillsShUrl": "https://skills.sh/ziadabdelkarim/beat-synced-edit/beat-sync-edit",
+      "license": "MIT",
+      "commit": "df73c75953d638e755bd15700c60ef7e3cc287d1",
+      "installs": 2,
+      "contentHash": "3acb50160f2055028bfdfa94432e26c08074f589e667ff84c95bc3c8b3b14694"
     }
   }
 ]
