@@ -12,8 +12,8 @@
     "message": "SKILL.md changed or content missing but AI_GATEWAY_API_KEY is unavailable for Chinese re-enrichment"
   },
   {
-    "source": "athevon/genjutsu@motion-principles",
-    "message": "Missing a recognized source license"
+    "source": "vasilyu1983/ai-agents-public@software-ux-research",
+    "message": "SKILL.md changed or content missing but AI_GATEWAY_API_KEY is unavailable for Chinese re-enrichment"
   },
   {
     "source": "wddxh/shortvideodirector@storyboarder-storyboard",
@@ -24,11 +24,31 @@
     "message": "SKILL.md changed or content missing but AI_GATEWAY_API_KEY is unavailable for Chinese re-enrichment"
   },
   {
-    "source": "reason-machines/design-skills@qiaomu-mondo-poster-design",
-    "message": "Missing a recognized source license"
+    "source": "samber/developer-relations-skills@developer-journey-map",
+    "message": "SKILL.md changed or content missing but AI_GATEWAY_API_KEY is unavailable for Chinese re-enrichment"
   },
   {
-    "source": "rayesh-company/agent-skills@writing-beats-rpm",
+    "source": "smixs/visual-skills@image",
+    "message": "声明依赖被排除的产品或平台：nano banana"
+  },
+  {
+    "source": "jezweb/claude-skills@ai-image-generator",
+    "message": "声明依赖被排除的产品或平台：gemini"
+  },
+  {
+    "source": "101-skills/superpowers@prompt-engineering",
+    "message": "声明依赖被排除的产品或平台：gemini"
+  },
+  {
+    "source": "superdesigndev/superdesign-skill@superdesign",
+    "message": "声明依赖被排除的产品或平台：canva"
+  },
+  {
+    "source": "k-dense-ai/scientific-agent-skills@latex-posters",
+    "message": "包含需要账号、密钥、付费额度或安装命令的可执行依赖"
+  },
+  {
+    "source": "lingzhi227/agent-research-skills@slide-generation",
     "message": "Missing a recognized source license"
   }
 ]

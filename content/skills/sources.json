@@ -56,6 +56,7 @@
     "credits"
   ],
   "excludedSources": [
+    "101-skills/superpowers/prompt-engineering",
     "affaan-m/ecc/taste",
     "arnavpuri/designskills/poster-design",
     "athevon/genjutsu/motion-principles",
@@ -74,9 +75,12 @@
     "gnurio/refactoring-ui-plugin/establish-visual-hierarchy",
     "gooseworks-ai/goose-skills/beat-sync-reel",
     "jacksontai2007/gpt-image-2-prompting-skill/gpt-image-2-prompting",
+    "jezweb/claude-skills/ai-image-generator",
     "joeseesun/qiaomu-mondo-poster-design/qiaomu-mondo-poster-design",
+    "k-dense-ai/scientific-agent-skills/latex-posters",
     "kimmywork/skills/rationale",
     "lilia-luo/poster-design-skill/poster-design-skill",
+    "lingzhi227/agent-research-skills/slide-generation",
     "magentosh/superpowers/gpt-image",
     "minimax-ai/minimax-h3/3d-animation-short-generator",
     "nexu-io/open-design/html-ppt-zhangzara-bold-poster",
@@ -86,6 +90,8 @@
     "rayesh-company/agent-skills/writing-beats-rpm",
     "reason-machines/design-skills/qiaomu-mondo-poster-design",
     "skills-101/superpowers/gpt-image",
+    "smixs/visual-skills/image",
+    "superdesigndev/superdesign-skill/superdesign",
     "whetspretz/design-sprinter/storyboarder"
   ],
   "sources": [
@@ -478,6 +484,90 @@
       "skillId": "beat-sync-edit",
       "skillPath": ".claude/skills/beat-sync-edit/SKILL.md",
       "skillsShUrl": "https://skills.sh/ziadabdelkarim/beat-synced-edit/beat-sync-edit"
+    },
+    {
+      "repository": "riccardogrin/skills",
+      "skillId": "creating-sprites",
+      "skillPath": "skills/creating-sprites/SKILL.md",
+      "skillsShUrl": "https://skills.sh/riccardogrin/skills/creating-sprites"
+    },
+    {
+      "repository": "daniel-dan-conrad/ui-designer-skill",
+      "skillId": "ui-designer",
+      "skillPath": "SKILL.md",
+      "skillsShUrl": "https://skills.sh/daniel-dan-conrad/ui-designer-skill/ui-designer"
+    },
+    {
+      "repository": "pbakaus/impeccable",
+      "skillId": "impeccable",
+      "skillPath": ".agent/skills/impeccable/SKILL.md",
+      "skillsShUrl": "https://skills.sh/pbakaus/impeccable/impeccable"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "skillId": "site-architecture",
+      "skillPath": "skills/site-architecture/SKILL.md",
+      "skillsShUrl": "https://skills.sh/coreyhaines31/marketingskills/site-architecture"
+    },
+    {
+      "repository": "dammyjay93/interface-design",
+      "skillId": "interface-design",
+      "skillPath": ".claude/skills/interface-design/SKILL.md",
+      "skillsShUrl": "https://skills.sh/dammyjay93/interface-design/interface-design"
+    },
+    {
+      "repository": "wshobson/agents",
+      "skillId": "visual-design-foundations",
+      "skillPath": "plugins/ui-design/skills/visual-design-foundations/SKILL.md",
+      "skillsShUrl": "https://skills.sh/wshobson/agents/visual-design-foundations"
+    },
+    {
+      "repository": "wondelai/skills",
+      "skillId": "refactoring-ui",
+      "skillPath": "plugins/ux-design/skills/refactoring-ui/SKILL.md",
+      "skillsShUrl": "https://skills.sh/wondelai/skills/refactoring-ui"
+    },
+    {
+      "repository": "julianoczkowski/designer-skills",
+      "skillId": "information-architecture",
+      "skillPath": "information-architecture/SKILL.md",
+      "skillsShUrl": "https://skills.sh/julianoczkowski/designer-skills/information-architecture"
+    },
+    {
+      "repository": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "skillId": "ui-ux-pro-max",
+      "skillPath": ".claude/skills/ui-ux-pro-max/SKILL.md",
+      "skillsShUrl": "https://skills.sh/nextlevelbuilder/ui-ux-pro-max-skill/ui-ux-pro-max"
+    },
+    {
+      "repository": "leonxlnx/taste-skill",
+      "skillId": "minimalist-ui",
+      "skillPath": "skills/minimalist-skill/SKILL.md",
+      "skillsShUrl": "https://skills.sh/leonxlnx/taste-skill/minimalist-ui"
+    },
+    {
+      "repository": "leonxlnx/taste-skill",
+      "skillId": "gpt-taste",
+      "skillPath": "skills/gpt-tasteskill/SKILL.md",
+      "skillsShUrl": "https://skills.sh/leonxlnx/taste-skill/gpt-taste"
+    },
+    {
+      "repository": "leonxlnx/taste-skill",
+      "skillId": "industrial-brutalist-ui",
+      "skillPath": "skills/brutalist-skill/SKILL.md",
+      "skillsShUrl": "https://skills.sh/leonxlnx/taste-skill/industrial-brutalist-ui"
+    },
+    {
+      "repository": "leonxlnx/taste-skill",
+      "skillId": "stitch-design-taste",
+      "skillPath": "skills/stitch-skill/SKILL.md",
+      "skillsShUrl": "https://skills.sh/leonxlnx/taste-skill/stitch-design-taste"
+    },
+    {
+      "repository": "emilkowalski/skills",
+      "skillId": "apple-design",
+      "skillPath": "skills/apple-design/SKILL.md",
+      "skillsShUrl": "https://skills.sh/emilkowalski/skills/apple-design"
     }
   ]
 }
