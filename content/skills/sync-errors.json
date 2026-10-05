@@ -24,31 +24,47 @@
     "message": "SKILL.md changed or content missing but AI_GATEWAY_API_KEY is unavailable for Chinese re-enrichment"
   },
   {
+    "source": "scottwater/skills@gpt-image-prompts",
+    "message": "404 Not Found: https://raw.githubusercontent.com/scottwater/skills/HEAD/skills/gpt-image-prompts/SKILL.md"
+  },
+  {
+    "source": "sugarforever/boring-video-studio@to-storyboard",
+    "message": "SKILL.md changed or content missing but AI_GATEWAY_API_KEY is unavailable for Chinese re-enrichment"
+  },
+  {
     "source": "samber/developer-relations-skills@developer-journey-map",
     "message": "SKILL.md changed or content missing but AI_GATEWAY_API_KEY is unavailable for Chinese re-enrichment"
   },
   {
-    "source": "smixs/visual-skills@image",
-    "message": "声明依赖被排除的产品或平台：nano banana"
+    "source": "yonatangross/orchestkit@animation-motion-design",
+    "message": "SKILL.md changed or content missing but AI_GATEWAY_API_KEY is unavailable for Chinese re-enrichment"
   },
   {
-    "source": "jezweb/claude-skills@ai-image-generator",
+    "source": "pbakaus/impeccable@impeccable",
+    "message": "SKILL.md changed or content missing but AI_GATEWAY_API_KEY is unavailable for Chinese re-enrichment"
+  },
+  {
+    "source": "qu-skills/superpowers@prompt-engineering",
     "message": "声明依赖被排除的产品或平台：gemini"
   },
   {
-    "source": "101-skills/superpowers@prompt-engineering",
-    "message": "声明依赖被排除的产品或平台：gemini"
+    "source": "soultrace-ai/soultrace-skill@soultrace",
+    "message": "Missing a recognized source license"
   },
   {
-    "source": "superdesigndev/superdesign-skill@superdesign",
-    "message": "声明依赖被排除的产品或平台：canva"
-  },
-  {
-    "source": "k-dense-ai/scientific-agent-skills@latex-posters",
+    "source": "inference-sh/skills@competitor-teardown",
     "message": "包含需要账号、密钥、付费额度或安装命令的可执行依赖"
   },
   {
-    "source": "lingzhi227/agent-research-skills@slide-generation",
+    "source": "tt-a1i/archify@archify",
+    "message": "声明依赖被排除的产品或平台：cloud"
+  },
+  {
+    "source": "remotion-dev/skills@remotion-create",
+    "message": "Missing a recognized source license"
+  },
+  {
+    "source": "remotion-dev/skills@remotion-markup",
     "message": "Missing a recognized source license"
   }
 ]

@@ -74,6 +74,7 @@
     "gnurio/refactoring-ui-plugin/apply-typography-scale",
     "gnurio/refactoring-ui-plugin/establish-visual-hierarchy",
     "gooseworks-ai/goose-skills/beat-sync-reel",
+    "inference-sh/skills/competitor-teardown",
     "jacksontai2007/gpt-image-2-prompting-skill/gpt-image-2-prompting",
     "jezweb/claude-skills/ai-image-generator",
     "joeseesun/qiaomu-mondo-poster-design/qiaomu-mondo-poster-design",
@@ -87,11 +88,16 @@
     "nexu-io/open-design/image-poster",
     "nexu-io/open-design/magazine-poster",
     "openclaudia/openclaudia-skills/generate-image",
+    "qu-skills/superpowers/prompt-engineering",
     "rayesh-company/agent-skills/writing-beats-rpm",
     "reason-machines/design-skills/qiaomu-mondo-poster-design",
+    "remotion-dev/skills/remotion-create",
+    "remotion-dev/skills/remotion-markup",
     "skills-101/superpowers/gpt-image",
     "smixs/visual-skills/image",
+    "soultrace-ai/soultrace-skill/soultrace",
     "superdesigndev/superdesign-skill/superdesign",
+    "tt-a1i/archify/archify",
     "whetspretz/design-sprinter/storyboarder"
   ],
   "sources": [
@@ -568,6 +574,90 @@
       "skillId": "apple-design",
       "skillPath": "skills/apple-design/SKILL.md",
       "skillsShUrl": "https://skills.sh/emilkowalski/skills/apple-design"
+    },
+    {
+      "repository": "designed-by-ai/skills",
+      "skillId": "design-mobile-apps",
+      "skillPath": "skills/design-mobile-apps/SKILL.md",
+      "skillsShUrl": "https://skills.sh/designed-by-ai/skills/design-mobile-apps"
+    },
+    {
+      "repository": "leonxlnx/taste-skill",
+      "skillId": "high-end-visual-design",
+      "skillPath": "skills/soft-skill/SKILL.md",
+      "skillsShUrl": "https://skills.sh/leonxlnx/taste-skill/high-end-visual-design"
+    },
+    {
+      "repository": "mattpocock/skills",
+      "skillId": "research",
+      "skillPath": "skills/engineering/research/SKILL.md",
+      "skillsShUrl": "https://skills.sh/mattpocock/skills/research"
+    },
+    {
+      "repository": "obra/superpowers",
+      "skillId": "brainstorming",
+      "skillPath": "skills/brainstorming/SKILL.md",
+      "skillsShUrl": "https://skills.sh/obra/superpowers/brainstorming"
+    },
+    {
+      "repository": "emilkowalski/skills",
+      "skillId": "emil-design-eng",
+      "skillPath": "skills/emil-design-eng/SKILL.md",
+      "skillsShUrl": "https://skills.sh/emilkowalski/skills/emil-design-eng"
+    },
+    {
+      "repository": "lllllllama/rigorpilot-skills",
+      "skillId": "ai-research-explore",
+      "skillPath": "skills/ai-research-explore/SKILL.md",
+      "skillsShUrl": "https://skills.sh/lllllllama/rigorpilot-skills/ai-research-explore"
+    },
+    {
+      "repository": "mattpocock/skills",
+      "skillId": "wayfinder",
+      "skillPath": "skills/engineering/wayfinder/SKILL.md",
+      "skillsShUrl": "https://skills.sh/mattpocock/skills/wayfinder"
+    },
+    {
+      "repository": "larksuite/cli",
+      "skillId": "lark-attendance",
+      "skillPath": "skills/lark-attendance/SKILL.md",
+      "skillsShUrl": "https://skills.sh/larksuite/cli/lark-attendance"
+    },
+    {
+      "repository": "flutter/agent-plugins",
+      "skillId": "flutter-setup-declarative-routing",
+      "skillPath": "skills/flutter-setup-declarative-routing/SKILL.md",
+      "skillsShUrl": "https://skills.sh/flutter/agent-plugins/flutter-setup-declarative-routing"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "skillId": "product-marketing",
+      "skillPath": "skills/product-marketing/SKILL.md",
+      "skillsShUrl": "https://skills.sh/coreyhaines31/marketingskills/product-marketing"
+    },
+    {
+      "repository": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "skillId": "design-system",
+      "skillPath": ".claude/skills/design-system/SKILL.md",
+      "skillsShUrl": "https://skills.sh/nextlevelbuilder/ui-ux-pro-max-skill/design-system"
+    },
+    {
+      "repository": "addyosmani/agent-skills",
+      "skillId": "documentation-and-adrs",
+      "skillPath": "skills/documentation-and-adrs/SKILL.md",
+      "skillsShUrl": "https://skills.sh/addyosmani/agent-skills/documentation-and-adrs"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "skillId": "offers",
+      "skillPath": "skills/offers/SKILL.md",
+      "skillsShUrl": "https://skills.sh/coreyhaines31/marketingskills/offers"
+    },
+    {
+      "repository": "emilkowalski/skills",
+      "skillId": "animation-vocabulary",
+      "skillPath": "skills/animation-vocabulary/SKILL.md",
+      "skillsShUrl": "https://skills.sh/emilkowalski/skills/animation-vocabulary"
     }
   ]
 }
