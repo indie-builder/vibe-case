@@ -56,6 +56,7 @@
     "credits"
   ],
   "excludedSources": [
+    "101-skills/superpowers/competitor-teardown",
     "101-skills/superpowers/prompt-engineering",
     "affaan-m/ecc/taste",
     "arnavpuri/designskills/poster-design",
@@ -63,8 +64,10 @@
     "bencium/bencium-marketplace/ui-typography",
     "buyaka/product-manager-skills/storyboard",
     "citypaul/.dotfiles/storyboard",
+    "cursor/plugins/why",
     "deanpeters/product-manager-skills/customer-journey-mapping-workshop",
     "deanpeters/product-manager-skills/storyboard",
+    "deanpeters/product-manager-skills/user-story-mapping",
     "dot8pixels/dot8pixels/design-consultation",
     "eachlabs/skills/poster-design-generation",
     "ecliptic-ai/skills/beat-sync-video-editing",
@@ -75,6 +78,7 @@
     "gnurio/refactoring-ui-plugin/establish-visual-hierarchy",
     "gooseworks-ai/goose-skills/beat-sync-reel",
     "inference-sh/skills/competitor-teardown",
+    "inference-sh/skills/customer-persona",
     "jacksontai2007/gpt-image-2-prompting-skill/gpt-image-2-prompting",
     "jezweb/claude-skills/ai-image-generator",
     "joeseesun/qiaomu-mondo-poster-design/qiaomu-mondo-poster-design",
@@ -97,6 +101,7 @@
     "smixs/visual-skills/image",
     "soultrace-ai/soultrace-skill/soultrace",
     "superdesigndev/superdesign-skill/superdesign",
+    "szilu/ux-designer-skill/ux-designer",
     "tt-a1i/archify/archify",
     "whetspretz/design-sprinter/storyboarder"
   ],
@@ -658,6 +663,96 @@
       "skillId": "animation-vocabulary",
       "skillPath": "skills/animation-vocabulary/SKILL.md",
       "skillsShUrl": "https://skills.sh/emilkowalski/skills/animation-vocabulary"
+    },
+    {
+      "repository": "samber/dev-event-organizer-skills",
+      "skillId": "hackathon-mentoring",
+      "skillPath": "skills/hackathon-mentoring/SKILL.md",
+      "skillsShUrl": "https://skills.sh/samber/dev-event-organizer-skills/hackathon-mentoring"
+    },
+    {
+      "repository": "google-labs-code/stitch-skills",
+      "skillId": "taste-design",
+      "skillPath": "plugins/stitch-utilities/skills/taste-design/SKILL.md",
+      "skillsShUrl": "https://skills.sh/google-labs-code/stitch-skills/taste-design"
+    },
+    {
+      "repository": "expo/skills",
+      "skillId": "expo-design-system",
+      "skillPath": "plugins/expo/skills/expo-design-system/SKILL.md",
+      "skillsShUrl": "https://skills.sh/expo/skills/expo-design-system"
+    },
+    {
+      "repository": "wondelai/skills",
+      "skillId": "lean-ux",
+      "skillPath": "lean-ux/SKILL.md",
+      "skillsShUrl": "https://skills.sh/wondelai/skills/lean-ux"
+    },
+    {
+      "repository": "content-designer/ux-writing-skill",
+      "skillId": "ux-writing",
+      "skillPath": "SKILL.md",
+      "skillsShUrl": "https://skills.sh/content-designer/ux-writing-skill/ux-writing"
+    },
+    {
+      "repository": "sickn33/agentic-awesome-skills",
+      "skillId": "ui-ux-designer",
+      "skillPath": "plugins/agentic-awesome-skills-claude/skills/ui-ux-designer/SKILL.md",
+      "skillsShUrl": "https://skills.sh/sickn33/agentic-awesome-skills/ui-ux-designer"
+    },
+    {
+      "repository": "alirezarezvani/claude-skills",
+      "skillId": "product-skills",
+      "skillPath": "product-team/skills/product-skills/SKILL.md",
+      "skillsShUrl": "https://skills.sh/alirezarezvani/claude-skills/product-skills"
+    },
+    {
+      "repository": "owl-listener/designer-skills",
+      "skillId": "search-ux",
+      "skillPath": "interaction-design/skills/search-ux/SKILL.md",
+      "skillsShUrl": "https://skills.sh/owl-listener/designer-skills/search-ux"
+    },
+    {
+      "repository": "davila7/claude-code-templates",
+      "skillId": "ux-researcher-designer",
+      "skillPath": "cli-tool/components/skills/creative-design/ux-researcher-designer/SKILL.md",
+      "skillsShUrl": "https://skills.sh/davila7/claude-code-templates/ux-researcher-designer"
+    },
+    {
+      "repository": "cathrynlavery/diagram-design",
+      "skillId": "diagram-design",
+      "skillPath": "skills/diagram-design/SKILL.md",
+      "skillsShUrl": "https://skills.sh/cathrynlavery/diagram-design/diagram-design"
+    },
+    {
+      "repository": "softaworks/agent-toolkit",
+      "skillId": "mermaid-diagrams",
+      "skillPath": "dist/plugins/mermaid-diagrams/skills/mermaid-diagrams/SKILL.md",
+      "skillsShUrl": "https://skills.sh/softaworks/agent-toolkit/mermaid-diagrams"
+    },
+    {
+      "repository": "samber/developer-relations-skills",
+      "skillId": "developer-segmentation",
+      "skillPath": "skills/developer-segmentation/SKILL.md",
+      "skillsShUrl": "https://skills.sh/samber/developer-relations-skills/developer-segmentation"
+    },
+    {
+      "repository": "owl-listener/designer-skills",
+      "skillId": "user-flow-diagram",
+      "skillPath": "prototyping-testing/skills/user-flow-diagram/SKILL.md",
+      "skillsShUrl": "https://skills.sh/owl-listener/designer-skills/user-flow-diagram"
+    },
+    {
+      "repository": "owl-listener/designer-skills",
+      "skillId": "experience-map",
+      "skillPath": "ux-strategy/skills/experience-map/SKILL.md",
+      "skillsShUrl": "https://skills.sh/owl-listener/designer-skills/experience-map"
+    },
+    {
+      "repository": "phuryn/pm-skills",
+      "skillId": "shipping-artifacts",
+      "skillPath": "pm-ai-shipping/skills/shipping-artifacts/SKILL.md",
+      "skillsShUrl": "https://skills.sh/phuryn/pm-skills/shipping-artifacts"
     }
   ]
 }
