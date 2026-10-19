@@ -48,6 +48,10 @@
     "message": "SKILL.md changed or content missing but AI_GATEWAY_API_KEY is unavailable for Chinese re-enrichment"
   },
   {
+    "source": "robjsliwa/skills@beat-grill",
+    "message": "SKILL.md changed or content missing but AI_GATEWAY_API_KEY is unavailable for Chinese re-enrichment"
+  },
+  {
     "source": "pbakaus/impeccable@impeccable",
     "message": "SKILL.md changed or content missing but AI_GATEWAY_API_KEY is unavailable for Chinese re-enrichment"
   },
@@ -64,7 +68,19 @@
     "message": "SKILL.md changed or content missing but AI_GATEWAY_API_KEY is unavailable for Chinese re-enrichment"
   },
   {
+    "source": "leonxlnx/taste-skill@industrial-brutalist-ui",
+    "message": "SKILL.md changed or content missing but AI_GATEWAY_API_KEY is unavailable for Chinese re-enrichment"
+  },
+  {
+    "source": "leonxlnx/taste-skill@stitch-design-taste",
+    "message": "SKILL.md changed or content missing but AI_GATEWAY_API_KEY is unavailable for Chinese re-enrichment"
+  },
+  {
     "source": "designed-by-ai/skills@design-mobile-apps",
+    "message": "SKILL.md changed or content missing but AI_GATEWAY_API_KEY is unavailable for Chinese re-enrichment"
+  },
+  {
+    "source": "leonxlnx/taste-skill@high-end-visual-design",
     "message": "SKILL.md changed or content missing but AI_GATEWAY_API_KEY is unavailable for Chinese re-enrichment"
   },
   {
@@ -76,27 +92,59 @@
     "message": "SKILL.md changed or content missing but AI_GATEWAY_API_KEY is unavailable for Chinese re-enrichment"
   },
   {
+    "source": "coreyhaines31/marketingskills@product-marketing",
+    "message": "SKILL.md changed or content missing but AI_GATEWAY_API_KEY is unavailable for Chinese re-enrichment"
+  },
+  {
     "source": "addyosmani/agent-skills@documentation-and-adrs",
     "message": "SKILL.md changed or content missing but AI_GATEWAY_API_KEY is unavailable for Chinese re-enrichment"
   },
   {
-    "source": "szilu/ux-designer-skill@ux-designer",
+    "source": "coreyhaines31/marketingskills@offers",
+    "message": "SKILL.md changed or content missing but AI_GATEWAY_API_KEY is unavailable for Chinese re-enrichment"
+  },
+  {
+    "source": "sickn33/agentic-awesome-skills@ui-ux-designer",
+    "message": "SKILL.md changed or content missing but AI_GATEWAY_API_KEY is unavailable for Chinese re-enrichment"
+  },
+  {
+    "source": "cathrynlavery/diagram-design@diagram-design",
+    "message": "SKILL.md changed or content missing but AI_GATEWAY_API_KEY is unavailable for Chinese re-enrichment"
+  },
+  {
+    "source": "frankxai/awesome-motion-design-agent-skills@generative-media-director",
     "message": "声明依赖被排除的产品或平台：canva"
   },
   {
-    "source": "inference-sh/skills@customer-persona",
-    "message": "包含需要账号、密钥、付费额度或安装命令的可执行依赖"
+    "source": "magentosh/superpowers@prompt-engineering",
+    "message": "声明依赖被排除的产品或平台：gemini"
   },
   {
-    "source": "101-skills/superpowers@competitor-teardown",
-    "message": "包含需要账号、密钥、付费额度或安装命令的可执行依赖"
-  },
-  {
-    "source": "deanpeters/product-manager-skills@user-story-mapping",
+    "source": "suzheng/k2f@k2f-flyer",
     "message": "Missing a recognized source license"
   },
   {
-    "source": "cursor/plugins@why",
+    "source": "pablostanley/efecto-plugin@efecto-graphic-design",
+    "message": "Missing a recognized source license"
+  },
+  {
+    "source": "suzheng/k2f@k2f-research-poster",
+    "message": "Missing a recognized source license"
+  },
+  {
+    "source": "suzheng/k2f@k2f-event-poster",
+    "message": "Missing a recognized source license"
+  },
+  {
+    "source": "magentosh/superpowers@competitor-teardown",
+    "message": "包含需要账号、密钥、付费额度或安装命令的可执行依赖"
+  },
+  {
+    "source": "vibe-motion/skills@disney-animation-rule-skill",
+    "message": "声明依赖被排除的产品或平台：canva"
+  },
+  {
+    "source": "qingyunagi/qingyun-cine-skill@qingyun-cine-skill",
     "message": "Missing a recognized source license"
   }
 ]

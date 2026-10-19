@@ -73,6 +73,7 @@
     "ecliptic-ai/skills/beat-sync-video-editing",
     "evanyan1024/gpt-image-safe-prompting/gpt-image-safe-prompting",
     "findridoy/dot-files/poster-design",
+    "frankxai/awesome-motion-design-agent-skills/generative-media-director",
     "galaxy-dawn/claude-scholar/post-acceptance",
     "gnurio/refactoring-ui-plugin/apply-typography-scale",
     "gnurio/refactoring-ui-plugin/establish-visual-hierarchy",
@@ -86,12 +87,16 @@
     "kimmywork/skills/rationale",
     "lilia-luo/poster-design-skill/poster-design-skill",
     "lingzhi227/agent-research-skills/slide-generation",
+    "magentosh/superpowers/competitor-teardown",
     "magentosh/superpowers/gpt-image",
+    "magentosh/superpowers/prompt-engineering",
     "minimax-ai/minimax-h3/3d-animation-short-generator",
     "nexu-io/open-design/html-ppt-zhangzara-bold-poster",
     "nexu-io/open-design/image-poster",
     "nexu-io/open-design/magazine-poster",
     "openclaudia/openclaudia-skills/generate-image",
+    "pablostanley/efecto-plugin/efecto-graphic-design",
+    "qingyunagi/qingyun-cine-skill/qingyun-cine-skill",
     "qu-skills/superpowers/prompt-engineering",
     "rayesh-company/agent-skills/writing-beats-rpm",
     "reason-machines/design-skills/qiaomu-mondo-poster-design",
@@ -101,8 +106,12 @@
     "smixs/visual-skills/image",
     "soultrace-ai/soultrace-skill/soultrace",
     "superdesigndev/superdesign-skill/superdesign",
+    "suzheng/k2f/k2f-event-poster",
+    "suzheng/k2f/k2f-flyer",
+    "suzheng/k2f/k2f-research-poster",
     "szilu/ux-designer-skill/ux-designer",
     "tt-a1i/archify/archify",
+    "vibe-motion/skills/disney-animation-rule-skill",
     "whetspretz/design-sprinter/storyboarder"
   ],
   "sources": [
@@ -753,6 +762,72 @@
       "skillId": "shipping-artifacts",
       "skillPath": "pm-ai-shipping/skills/shipping-artifacts/SKILL.md",
       "skillsShUrl": "https://skills.sh/phuryn/pm-skills/shipping-artifacts"
+    },
+    {
+      "repository": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "skillId": "banner-design",
+      "skillPath": ".claude/skills/banner-design/SKILL.md",
+      "skillsShUrl": "https://skills.sh/nextlevelbuilder/ui-ux-pro-max-skill/banner-design"
+    },
+    {
+      "repository": "backnotprop/pstack",
+      "skillId": "why",
+      "skillPath": "skills/why/SKILL.md",
+      "skillsShUrl": "https://skills.sh/backnotprop/pstack/why"
+    },
+    {
+      "repository": "richhemsley3/claude-design-skills",
+      "skillId": "product-designer",
+      "skillPath": "skills/product-designer/SKILL.md",
+      "skillsShUrl": "https://skills.sh/richhemsley3/claude-design-skills/product-designer"
+    },
+    {
+      "repository": "hktitan/duolingo",
+      "skillId": "duo-design",
+      "skillPath": "skills/duo-design/SKILL.md",
+      "skillsShUrl": "https://skills.sh/hktitan/duolingo/duo-design"
+    },
+    {
+      "repository": "owl-listener/designer-skills",
+      "skillId": "motion-system",
+      "skillPath": "design-systems/skills/motion-system/SKILL.md",
+      "skillsShUrl": "https://skills.sh/owl-listener/designer-skills/motion-system"
+    },
+    {
+      "repository": "dylantarre/animation-principles",
+      "skillId": "presentations",
+      "skillPath": "skills/01-by-domain/presentations/SKILL.md",
+      "skillsShUrl": "https://skills.sh/dylantarre/animation-principles/presentations"
+    },
+    {
+      "repository": "dylantarre/animation-principles",
+      "skillId": "accessible-motion",
+      "skillPath": "skills/01-by-domain/accessible-motion/SKILL.md",
+      "skillsShUrl": "https://skills.sh/dylantarre/animation-principles/accessible-motion"
+    },
+    {
+      "repository": "calesthio/generative-media-skills",
+      "skillId": "editing-montage",
+      "skillPath": "skills/production/post-production/editing-montage/SKILL.md",
+      "skillsShUrl": "https://skills.sh/calesthio/generative-media-skills/editing-montage"
+    },
+    {
+      "repository": "vibegameengine/video-motion-craft",
+      "skillId": "video-motion-craft",
+      "skillPath": "SKILL.md",
+      "skillsShUrl": "https://skills.sh/vibegameengine/video-motion-craft/video-motion-craft"
+    },
+    {
+      "repository": "qwenlm/qwen-mm-plugins",
+      "skillId": "qwen-mm-plugins-video-edit",
+      "skillPath": "src/capabilities/video-edit/skill/SKILL.md",
+      "skillsShUrl": "https://skills.sh/qwenlm/qwen-mm-plugins/qwen-mm-plugins-video-edit"
+    },
+    {
+      "repository": "newturn2017/make-awesome-video",
+      "skillId": "make-awesome-video",
+      "skillPath": "SKILL.md",
+      "skillsShUrl": "https://skills.sh/newturn2017/make-awesome-video/make-awesome-video"
     }
   ]
 }
