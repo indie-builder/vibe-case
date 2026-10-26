@@ -12,6 +12,10 @@
     "message": "SKILL.md changed or content missing but AI_GATEWAY_API_KEY is unavailable for Chinese re-enrichment"
   },
   {
+    "source": "podo/design-agent-skills@baseline-ui",
+    "message": "SKILL.md changed or content missing but AI_GATEWAY_API_KEY is unavailable for Chinese re-enrichment"
+  },
+  {
     "source": "antjanus/skillbox@typography",
     "message": "SKILL.md changed or content missing but AI_GATEWAY_API_KEY is unavailable for Chinese re-enrichment"
   },
@@ -21,7 +25,11 @@
   },
   {
     "source": "mohitagw15856/pm-claude-skills@ux-research-plan",
-    "message": "404 Not Found: https://raw.githubusercontent.com/mohitagw15856/pm-claude-skills/HEAD/exports/openclaw/ux-research-plan/SKILL.md"
+    "message": "404 Not Found: https://api.github.com/repos/mohitagw15856/pm-claude-skills"
+  },
+  {
+    "source": "podo/design-agent-skills@motion-design-skill",
+    "message": "SKILL.md changed or content missing but AI_GATEWAY_API_KEY is unavailable for Chinese re-enrichment"
   },
   {
     "source": "wddxh/shortvideodirector@storyboarder-storyboard",
@@ -61,19 +69,19 @@
   },
   {
     "source": "leonxlnx/taste-skill@minimalist-ui",
-    "message": "SKILL.md changed or content missing but AI_GATEWAY_API_KEY is unavailable for Chinese re-enrichment"
+    "message": "404 Not Found: https://raw.githubusercontent.com/leonxlnx/taste-skill/HEAD/skills/minimalist-skill/SKILL.md"
   },
   {
     "source": "leonxlnx/taste-skill@gpt-taste",
-    "message": "SKILL.md changed or content missing but AI_GATEWAY_API_KEY is unavailable for Chinese re-enrichment"
+    "message": "404 Not Found: https://raw.githubusercontent.com/leonxlnx/taste-skill/HEAD/skills/gpt-tasteskill/SKILL.md"
   },
   {
     "source": "leonxlnx/taste-skill@industrial-brutalist-ui",
-    "message": "SKILL.md changed or content missing but AI_GATEWAY_API_KEY is unavailable for Chinese re-enrichment"
+    "message": "404 Not Found: https://raw.githubusercontent.com/leonxlnx/taste-skill/HEAD/skills/brutalist-skill/SKILL.md"
   },
   {
     "source": "leonxlnx/taste-skill@stitch-design-taste",
-    "message": "SKILL.md changed or content missing but AI_GATEWAY_API_KEY is unavailable for Chinese re-enrichment"
+    "message": "404 Not Found: https://raw.githubusercontent.com/leonxlnx/taste-skill/HEAD/skills/stitch-skill/SKILL.md"
   },
   {
     "source": "designed-by-ai/skills@design-mobile-apps",
@@ -81,7 +89,7 @@
   },
   {
     "source": "leonxlnx/taste-skill@high-end-visual-design",
-    "message": "SKILL.md changed or content missing but AI_GATEWAY_API_KEY is unavailable for Chinese re-enrichment"
+    "message": "404 Not Found: https://raw.githubusercontent.com/leonxlnx/taste-skill/HEAD/skills/soft-skill/SKILL.md"
   },
   {
     "source": "obra/superpowers@brainstorming",
@@ -104,7 +112,15 @@
     "message": "SKILL.md changed or content missing but AI_GATEWAY_API_KEY is unavailable for Chinese re-enrichment"
   },
   {
+    "source": "expo/skills@expo-design-system",
+    "message": "SKILL.md changed or content missing but AI_GATEWAY_API_KEY is unavailable for Chinese re-enrichment"
+  },
+  {
     "source": "sickn33/agentic-awesome-skills@ui-ux-designer",
+    "message": "SKILL.md changed or content missing but AI_GATEWAY_API_KEY is unavailable for Chinese re-enrichment"
+  },
+  {
+    "source": "alirezarezvani/claude-skills@product-skills",
     "message": "SKILL.md changed or content missing but AI_GATEWAY_API_KEY is unavailable for Chinese re-enrichment"
   },
   {
@@ -112,39 +128,23 @@
     "message": "SKILL.md changed or content missing but AI_GATEWAY_API_KEY is unavailable for Chinese re-enrichment"
   },
   {
-    "source": "frankxai/awesome-motion-design-agent-skills@generative-media-director",
-    "message": "声明依赖被排除的产品或平台：canva"
+    "source": "backnotprop/pstack@why",
+    "message": "SKILL.md changed or content missing but AI_GATEWAY_API_KEY is unavailable for Chinese re-enrichment"
   },
   {
-    "source": "magentosh/superpowers@prompt-engineering",
-    "message": "声明依赖被排除的产品或平台：gemini"
-  },
-  {
-    "source": "suzheng/k2f@k2f-flyer",
-    "message": "Missing a recognized source license"
-  },
-  {
-    "source": "pablostanley/efecto-plugin@efecto-graphic-design",
-    "message": "Missing a recognized source license"
-  },
-  {
-    "source": "suzheng/k2f@k2f-research-poster",
-    "message": "Missing a recognized source license"
-  },
-  {
-    "source": "suzheng/k2f@k2f-event-poster",
-    "message": "Missing a recognized source license"
-  },
-  {
-    "source": "magentosh/superpowers@competitor-teardown",
+    "source": "qu-skills/superpowers@competitor-teardown",
     "message": "包含需要账号、密钥、付费额度或安装命令的可执行依赖"
   },
   {
-    "source": "vibe-motion/skills@disney-animation-rule-skill",
-    "message": "声明依赖被排除的产品或平台：canva"
+    "source": "gustavomenani/editing-gameplay-montages@editing-gameplay-montages",
+    "message": "Missing a recognized source license"
   },
   {
-    "source": "qingyunagi/qingyun-cine-skill@qingyun-cine-skill",
+    "source": "inference-sh/skills@storyboard-creation",
+    "message": "包含需要账号、密钥、付费额度或安装命令的可执行依赖"
+  },
+  {
+    "source": "devenkhatri/all-agent-skills-repo@short-form-studio",
     "message": "Missing a recognized source license"
   }
 ]

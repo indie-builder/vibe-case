@@ -68,6 +68,7 @@
     "deanpeters/product-manager-skills/customer-journey-mapping-workshop",
     "deanpeters/product-manager-skills/storyboard",
     "deanpeters/product-manager-skills/user-story-mapping",
+    "devenkhatri/all-agent-skills-repo/short-form-studio",
     "dot8pixels/dot8pixels/design-consultation",
     "eachlabs/skills/poster-design-generation",
     "ecliptic-ai/skills/beat-sync-video-editing",
@@ -78,8 +79,10 @@
     "gnurio/refactoring-ui-plugin/apply-typography-scale",
     "gnurio/refactoring-ui-plugin/establish-visual-hierarchy",
     "gooseworks-ai/goose-skills/beat-sync-reel",
+    "gustavomenani/editing-gameplay-montages/editing-gameplay-montages",
     "inference-sh/skills/competitor-teardown",
     "inference-sh/skills/customer-persona",
+    "inference-sh/skills/storyboard-creation",
     "jacksontai2007/gpt-image-2-prompting-skill/gpt-image-2-prompting",
     "jezweb/claude-skills/ai-image-generator",
     "joeseesun/qiaomu-mondo-poster-design/qiaomu-mondo-poster-design",
@@ -97,6 +100,7 @@
     "openclaudia/openclaudia-skills/generate-image",
     "pablostanley/efecto-plugin/efecto-graphic-design",
     "qingyunagi/qingyun-cine-skill/qingyun-cine-skill",
+    "qu-skills/superpowers/competitor-teardown",
     "qu-skills/superpowers/prompt-engineering",
     "rayesh-company/agent-skills/writing-beats-rpm",
     "reason-machines/design-skills/qiaomu-mondo-poster-design",
@@ -828,6 +832,36 @@
       "skillId": "make-awesome-video",
       "skillPath": "SKILL.md",
       "skillsShUrl": "https://skills.sh/newturn2017/make-awesome-video/make-awesome-video"
+    },
+    {
+      "repository": "layerai/skills",
+      "skillId": "layer-art-direction",
+      "skillPath": "skills/layer-art-direction/SKILL.md",
+      "skillsShUrl": "https://skills.sh/layerai/skills/layer-art-direction"
+    },
+    {
+      "repository": "onewave-ai/claude-skills",
+      "skillId": "hyperframes-ad-director",
+      "skillPath": "hyperframes-ad-director/SKILL.md",
+      "skillsShUrl": "https://skills.sh/onewave-ai/claude-skills/hyperframes-ad-director"
+    },
+    {
+      "repository": "mr-kelly/skills",
+      "skillId": "kelly-drama",
+      "skillPath": "skills/kelly-drama/SKILL.md",
+      "skillsShUrl": "https://skills.sh/mr-kelly/skills/kelly-drama"
+    },
+    {
+      "repository": "ryu1845/hyperframes",
+      "skillId": "hyperframes-registry",
+      "skillPath": "skills/hyperframes-registry/SKILL.md",
+      "skillsShUrl": "https://skills.sh/ryu1845/hyperframes/hyperframes-registry"
+    },
+    {
+      "repository": "aicodedecode/awesome-muse-skills",
+      "skillId": "storyboard-artist",
+      "skillPath": "skills/storyboard-artist/SKILL.md",
+      "skillsShUrl": "https://skills.sh/aicodedecode/awesome-muse-skills/storyboard-artist"
     }
   ]
 }
