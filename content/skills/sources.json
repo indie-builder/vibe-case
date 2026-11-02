@@ -107,6 +107,7 @@
     "remotion-dev/skills/remotion-create",
     "remotion-dev/skills/remotion-markup",
     "skills-101/superpowers/gpt-image",
+    "skills-shell/superpowers/competitor-teardown",
     "smixs/visual-skills/image",
     "soultrace-ai/soultrace-skill/soultrace",
     "superdesigndev/superdesign-skill/superdesign",
@@ -862,6 +863,12 @@
       "skillId": "storyboard-artist",
       "skillPath": "skills/storyboard-artist/SKILL.md",
       "skillsShUrl": "https://skills.sh/aicodedecode/awesome-muse-skills/storyboard-artist"
+    },
+    {
+      "repository": "jakubkrehel/skills",
+      "skillId": "better-interface",
+      "skillPath": "skills/better-interface/SKILL.md",
+      "skillsShUrl": "https://skills.sh/jakubkrehel/skills/better-interface"
     }
   ]
 }

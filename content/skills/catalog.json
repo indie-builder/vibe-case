@@ -146,7 +146,7 @@
       "skillsShUrl": "https://skills.sh/zhouwei713/gpt-image-2-prompting-skill/gpt-image-2-prompting",
       "license": "MIT",
       "commit": "80da4b0364833c1177c525a6f2f9ab4e44e1b8fd",
-      "installs": 84,
+      "installs": 86,
       "contentHash": "0e9471a82acff5d97df1c7e4b796825b751b61cb686c090f4d94e290f2bd3b33"
     }
   },
@@ -366,7 +366,7 @@
       "skillsShUrl": "https://skills.sh/owl-listener/designer-skills/visual-hierarchy",
       "license": "MIT",
       "commit": "5d255536fd7a909d6e40b5a59d0b97e4bda3502a",
-      "installs": 2515,
+      "installs": 2641,
       "contentHash": "ac1d1d993f4ea681a09a158d65f935acc4b0ffe41fef1e358c3952c524725205"
     }
   },
@@ -439,7 +439,7 @@
       "skillsShUrl": "https://skills.sh/owl-listener/designer-skills/journey-map",
       "license": "MIT",
       "commit": "5d255536fd7a909d6e40b5a59d0b97e4bda3502a",
-      "installs": 2137,
+      "installs": 2251,
       "contentHash": "8462a826ddc0ae73cc43e7dbcfe8f9e243a37158ae9e0804b587a1b6eb85d43f"
     }
   },
@@ -586,7 +586,7 @@
       "skillsShUrl": "https://skills.sh/product-on-purpose/pm-skills/develop-design-rationale",
       "license": "Apache-2.0",
       "commit": "152b175181a7ccba13a46fb1bc6cbcf662ef1dc2",
-      "installs": 744,
+      "installs": 768,
       "contentHash": "853395279e4da6fc4fbbb305544be7b28f65cfb7c24f1b6d558ec07610e99f88"
     }
   },
@@ -661,7 +661,7 @@
       "skillsShUrl": "https://skills.sh/kylezantos/design-motion-principles/design-motion-principles",
       "license": "MIT",
       "commit": "7803a7ccd656281447cf11b9fcc228163bc2e896",
-      "installs": 12676,
+      "installs": 13216,
       "contentHash": "599f42dbf011df38f3fcaf1497533af447d91cf97443b92439455af103c25b2e"
     }
   },
@@ -734,7 +734,7 @@
       "skillsShUrl": "https://skills.sh/iart-ai/motion-design-skills/beat-sync-editing",
       "license": "MIT",
       "commit": "3110f145d92bfbb0d3da88940de6c50225b79bf7",
-      "installs": 2903,
+      "installs": 3548,
       "contentHash": "92118cd6a5821974aa084a9838f263b46ee65fa1f48aaded8e676861f8c2de28"
     }
   },
@@ -909,7 +909,7 @@
       "skillsShUrl": "https://skills.sh/agentara/skills/video-poster-design",
       "license": "MIT",
       "commit": "fbf6496604ff393c8919911ef9596cc2bfaf59b1",
-      "installs": 255,
+      "installs": 256,
       "contentHash": "4441cdbac4128fb00d8201fa9086e7eb100685e7b5dbc992de6d094947ce8370"
     }
   },
@@ -1079,7 +1079,7 @@
       "skillsShUrl": "https://skills.sh/owl-listener/designer-skills/critique-visual-hierarchy",
       "license": "MIT",
       "commit": "5d255536fd7a909d6e40b5a59d0b97e4bda3502a",
-      "installs": 2024,
+      "installs": 2150,
       "contentHash": "e9c210156b5cd6c049922c0ca2ab65dbed96bc3c2d2bfaa0b4b1ea47c89ec4b1"
     }
   },
@@ -2228,7 +2228,7 @@
       "skillsShUrl": "https://skills.sh/phuryn/pm-skills/customer-journey-map",
       "license": "MIT",
       "commit": "a372bee16dc2275e26078ca70a2eb7614ea316f7",
-      "installs": 3076,
+      "installs": 3164,
       "contentHash": "656c0e16318b3b24870065a8eabb8a116b72e47c167472836ce76ea97ec5c75e"
     }
   },
@@ -3011,7 +3011,7 @@
       "skillsShUrl": "https://skills.sh/dylantarre/animation-principles/web-motion-design",
       "license": "MIT",
       "commit": "747c656abe3b3b155552acb24efa2234aa8027fb",
-      "installs": 1347,
+      "installs": 1375,
       "contentHash": "5fd447db3456a1f986850d9cc6caba0c9c800e8161f57faede53c91fa458b194"
     }
   },
@@ -3151,7 +3151,7 @@
       "skillsShUrl": "https://skills.sh/iart-ai/motion-design-skills/animation-principles",
       "license": "MIT",
       "commit": "3110f145d92bfbb0d3da88940de6c50225b79bf7",
-      "installs": 2957,
+      "installs": 3631,
       "contentHash": "21637766f8ae115f427ab086ec903106b3dfa5eac7fdf05d9926e4b557bff892"
     }
   },
@@ -5095,7 +5095,7 @@
       "skillsShUrl": "https://skills.sh/dammyjay93/interface-design/interface-design",
       "license": "MIT",
       "commit": "890d9295acdaf57891a20dc2499abfb4b8529784",
-      "installs": 30747,
+      "installs": 31581,
       "contentHash": "720b31a31276e899fbe3006a33cbfeaceb77a73ba4c27b80d29afd38c8b7b208"
     }
   },
@@ -5167,7 +5167,7 @@
       "skillsShUrl": "https://skills.sh/wshobson/agents/visual-design-foundations",
       "license": "MIT",
       "commit": "47a5dbc3f9c2661c6afb13638f80d4a4d4449040",
-      "installs": 13645,
+      "installs": 13895,
       "contentHash": "0c6970d14f5d5df55c63d1be995205d140489e2d0c39896657fabee6f6a5df84"
     }
   },
@@ -5239,7 +5239,7 @@
       "skillsShUrl": "https://skills.sh/wondelai/skills/refactoring-ui",
       "license": "MIT",
       "commit": "c172996495bed0fcd26896a9416b2093fd7073f0",
-      "installs": 9248,
+      "installs": 9678,
       "contentHash": "d10d15b81aa00f427811741d83ac2bb918aabfae3d4489c751615bdf85e1674c"
     }
   },
@@ -5313,7 +5313,7 @@
       "skillsShUrl": "https://skills.sh/julianoczkowski/designer-skills/information-architecture",
       "license": "Apache-2.0",
       "commit": "fb1f006ba08fb79b424a14844e288bc7a9ddb8a7",
-      "installs": 5885,
+      "installs": 5981,
       "contentHash": "7aad60e5568df242c31c7355543b61e6b65f4d592a5fa3f27a32760826d309e5"
     }
   },
@@ -5386,7 +5386,7 @@
       "skillsShUrl": "https://skills.sh/nextlevelbuilder/ui-ux-pro-max-skill/ui-ux-pro-max",
       "license": "MIT",
       "commit": "a38d04c3d5c298c851dbe5e6ee1965ee3de42cb5",
-      "installs": 415124,
+      "installs": 429427,
       "contentHash": "ea087c341bfb5b23195c7302027268ede86da802554c18a5c4896a6017b439f9"
     }
   },
@@ -5740,7 +5740,7 @@
       "skillsShUrl": "https://skills.sh/emilkowalski/skills/apple-design",
       "license": "MIT",
       "commit": "85e8e2363b713506e1d5b6e07a0eb2da66be1bc3",
-      "installs": 244063,
+      "installs": 264124,
       "contentHash": "77bb63b7043bb93aca2ff4ab040c249484eef35682bb6ff7163433c31d30adc7"
     }
   },
@@ -6525,7 +6525,7 @@
       "skillsShUrl": "https://skills.sh/nextlevelbuilder/ui-ux-pro-max-skill/design-system",
       "license": "MIT",
       "commit": "91c193ac059b487d13ce535c7015b021eb71c841",
-      "installs": 42552,
+      "installs": 46521,
       "contentHash": "8aa5ff93320559a6e5289d37b6b06b3307737dbfb4a6f3fc44135c705613c511"
     }
   },
@@ -6892,7 +6892,7 @@
       "skillsShUrl": "https://skills.sh/google-labs-code/stitch-skills/taste-design",
       "license": "Apache-2.0",
       "commit": "5532ce08bbc32baa60a906610cabf143a6a26a28",
-      "installs": 20160,
+      "installs": 20597,
       "contentHash": "e425fdb7ab250764f6229c48941f97e20bd6a7ba9e25a628f1e0ebeb008e8bff"
     }
   },
@@ -7036,7 +7036,7 @@
       "skillsShUrl": "https://skills.sh/wondelai/skills/lean-ux",
       "license": "MIT",
       "commit": "0dea03f507c913801c94516e352e6859116a02d5",
-      "installs": 5534,
+      "installs": 5675,
       "contentHash": "4fe0a10132650ad36bc79676b12c8f58b19035a40ac6587c864387d0f808cf04"
     }
   },
@@ -7108,7 +7108,7 @@
       "skillsShUrl": "https://skills.sh/content-designer/ux-writing-skill/ux-writing",
       "license": "MIT",
       "commit": "a9fba5244645fba26361e15eddb65fd1fec2c87f",
-      "installs": 2699,
+      "installs": 2835,
       "contentHash": "67dda2a5ba7e26f69860e1018a37068ca201735ff8ae98199c143138d91b4550"
     }
   },
@@ -7395,7 +7395,7 @@
       "skillsShUrl": "https://skills.sh/davila7/claude-code-templates/ux-researcher-designer",
       "license": "MIT",
       "commit": "af0b99278d2f8b705bdf700f19c3125c05de7ede",
-      "installs": 1344,
+      "installs": 1347,
       "contentHash": "91e8bcdfd205e3bd954632b7095f8b75ba4f96eef9191771c7e9f7ebaee15c07"
     }
   },
@@ -7677,7 +7677,7 @@
       "skillsShUrl": "https://skills.sh/owl-listener/designer-skills/user-flow-diagram",
       "license": "MIT",
       "commit": "5d255536fd7a909d6e40b5a59d0b97e4bda3502a",
-      "installs": 2383,
+      "installs": 2513,
       "contentHash": "8615b5e64647148b01161f736c9c5f44c2f7484d1b2ff5fe328d07ccdf538449"
     }
   },
@@ -7747,7 +7747,7 @@
       "skillsShUrl": "https://skills.sh/owl-listener/designer-skills/experience-map",
       "license": "MIT",
       "commit": "5d255536fd7a909d6e40b5a59d0b97e4bda3502a",
-      "installs": 2090,
+      "installs": 2194,
       "contentHash": "82eaefeace2ad5e5da0848dc25a4d0de3955e72b9e632a48bf2f1609938e7049"
     }
   },
@@ -7889,7 +7889,7 @@
       "skillsShUrl": "https://skills.sh/nextlevelbuilder/ui-ux-pro-max-skill/banner-design",
       "license": "MIT",
       "commit": "d95bdf56698277f3b83d034317984e33e683c66a",
-      "installs": 39407,
+      "installs": 43284,
       "contentHash": "ccb89ddc848f60bfe630cb19dfe3e062df94a029467a9b15259f2761019ac5c4"
     }
   },
@@ -8029,7 +8029,7 @@
       "skillsShUrl": "https://skills.sh/richhemsley3/claude-design-skills/product-designer",
       "license": "MIT",
       "commit": "1185d0d84974eaed6e927b953243c96754de02b6",
-      "installs": 35,
+      "installs": 37,
       "contentHash": "168098b382e4f300e1329811cafdbf642a1b5884105cdd5b4e636aa5d9e8ce25"
     }
   },
@@ -8101,7 +8101,7 @@
       "skillsShUrl": "https://skills.sh/hktitan/duolingo/duo-design",
       "license": "MIT",
       "commit": "22e1cb4e99d3e4814c0ede3466d5c49aba70d806",
-      "installs": 52,
+      "installs": 54,
       "contentHash": "5fa8d48087d5b93ab57eab65b01691512e0ceff4f89a21493c3782f619eb69cf"
     }
   },
@@ -8171,7 +8171,7 @@
       "skillsShUrl": "https://skills.sh/owl-listener/designer-skills/motion-system",
       "license": "MIT",
       "commit": "5d255536fd7a909d6e40b5a59d0b97e4bda3502a",
-      "installs": 1847,
+      "installs": 1956,
       "contentHash": "fda71131019ef7bac3a009c754a8283677b94362fc85f46bc2e1a5ce9a63d51e"
     }
   },
@@ -8241,7 +8241,7 @@
       "skillsShUrl": "https://skills.sh/dylantarre/animation-principles/presentations",
       "license": "MIT",
       "commit": "747c656abe3b3b155552acb24efa2234aa8027fb",
-      "installs": 648,
+      "installs": 673,
       "contentHash": "873fe71fb258d81effffa7332c61896e6a941c2c3c725df0841537c2fb2626b9"
     }
   },
@@ -8313,7 +8313,7 @@
       "skillsShUrl": "https://skills.sh/dylantarre/animation-principles/accessible-motion",
       "license": "MIT",
       "commit": "747c656abe3b3b155552acb24efa2234aa8027fb",
-      "installs": 640,
+      "installs": 658,
       "contentHash": "e39bbc4b60e6b9375f5e28aee9237e36749d8c9120179cce13a4946f57d07fb1"
     }
   },
@@ -8389,7 +8389,7 @@
       "skillsShUrl": "https://skills.sh/calesthio/generative-media-skills/editing-montage",
       "license": "MIT",
       "commit": "d5daa8a23514c2e5b0ef1c9ac6874db632fb7ae7",
-      "installs": 242,
+      "installs": 275,
       "contentHash": "c1cc77a249f5607d11ab4b562a3982dfc61583a5f79dfbcc3755550fcc5cfe1a"
     }
   },
@@ -8461,7 +8461,7 @@
       "skillsShUrl": "https://skills.sh/vibegameengine/video-motion-craft/video-motion-craft",
       "license": "MIT",
       "commit": "c17ab30ee376379c84d84315b886ae4282d7a96c",
-      "installs": 28,
+      "installs": 37,
       "contentHash": "8153bcbec5ffce753093fe17932d11ca10417e137cbe095d3fe818fe1d1d25e4"
     }
   },
@@ -8534,7 +8534,7 @@
       "skillsShUrl": "https://skills.sh/qwenlm/qwen-mm-plugins/qwen-mm-plugins-video-edit",
       "license": "Apache-2.0",
       "commit": "6d5d1ae80f4daa56ae6c35026acda8c150046d53",
-      "installs": 8,
+      "installs": 11,
       "contentHash": "c4714a699c5916cc6e2774870de5d441393aa6731ca6fd4bd06369e919a4c634"
     }
   },
@@ -8749,7 +8749,7 @@
       "skillsShUrl": "https://skills.sh/onewave-ai/claude-skills/hyperframes-ad-director",
       "license": "MIT",
       "commit": "d3d09f3b8be156acb5650631448c5cd1e4d2bbf4",
-      "installs": 150,
+      "installs": 160,
       "contentHash": "7992d6a155b90a1d10237cdfed94712da6f8010608ad7c6f5621e472eaf08315"
     }
   },
@@ -8968,8 +8968,78 @@
       "skillsShUrl": "https://skills.sh/aicodedecode/awesome-muse-skills/storyboard-artist",
       "license": "MIT",
       "commit": "cd8831171b2716193633c50d3dcd52ec9ef1d0be",
-      "installs": 5,
+      "installs": 7,
       "contentHash": "0f96c8a437715c721034cd04bc763c04723ea6e524daf5a5e7a8beaf3cf86aa7"
+    }
+  },
+  {
+    "id": "better-interface",
+    "slug": "better-interface",
+    "status": "active",
+    "category": "visual",
+    "categoryLabel": "视觉设计",
+    "title": {
+      "zhCN": "better-interface",
+      "sourceEN": "better-interface",
+      "aliases": [
+        "Interface",
+        "Evidence, not taste",
+        "1. Resolve the scope first",
+        "2. Send a change to `interface-review`"
+      ]
+    },
+    "summary": {
+      "zhCN": "这个 Skill 用于：Reviews a screen, flow or whole interface across accessibility, layout, writing, typography, color and UI polish, and returns one ranked report.",
+      "sourceEN": "Reviews a screen, flow or whole interface across accessibility, layout, writing, typography, color and UI polish, and returns one ranked report."
+    },
+    "content": {
+      "sourceEN": "# Interface\n\nThis skill runs a cross-discipline review. It routes the interface to each `better-*` skill, collects their evidence and consolidates one ranked verdict.\n\nOrchestration is all it owns. Accessibility rules belong to `better-accessibility`, structure to `better-layout`, copy to `better-writing`, type to `better-typography`, color to `better-colors`, visual polish and motion to `better-ui`.\n\nChange-scoped review of uncommitted work, branches and pull requests belongs to `interface-review`.\n\n## Evidence, not taste\n\nPress hard on the escalation triggers and leave deliberate project choices alone. A trigger is a failure whatever the style guide says. A density, radius or voice you merely disagree with is not a finding.\n\nThe bar for reporting is evidence. The bar for `Approve` is that you inspected what you claim to have inspected.\n\n## 1. Resolve the scope first\n\nInfer the screen, flow, feature or repository scope from the request and current workspace. State the resolved scope in the output.\n\nCover all of it in every domain, including the empty, loading, error and narrow-width states where they exist.\n\nWhen the scope is too large to inspect credibly, narrow it to one complete flow. Take the one the request centers on, or failing that the entry path every user must pass through. State the boundary and what it excluded. Never imply uninspected surfaces were reviewed.\n\n## 2. Send a change to `interface-review`\n\nA request naming a branch, pull request, commit range or uncommitted changes is a change review. Say so and ask the user to run `interface-review`, which is user-invoked and cannot be started from here. Never resolve a change scope yourself, because a guessed diff gives the report a scope nobody can check.\n\nWhen `interface-review` hands a review back, apply everything below to it. The cap and the verdict cover `Introduced` and `Regression` findings only, so a change whose only findings are `Pre-existing` is an `Approve`.\n\n## 3. Recon before judgment\n\nIdentify the framework, styling system, component library, design tokens, supported viewports and any preview or test command. Write every fix in the project's own idiom, never as a request to adopt a different stack.\n\nThen read what the project has written about its own interface: `CONTRIBUTING.md`, `CODING_STANDARDS.md`, `AGENTS.md`, `CLAUDE.md`, a design-system doc, Storybook docs and interface ADRs. Name which you found, or that there are none.\n\nA documented convention settles matters of taste but never excuses a trigger or a domain rule violation. What it changes is **where** you report. When a guideline or shared token is the cause, report it once against that source, with the components as its locations.\n\n## 4. Use domain skills as the sources of truth\n\nLoad every owning skill below and complete each domain review before consolidation. Review in this order so foundational failures are not hidden by polish:\n\n1. `better-accessibility`\n2. `better-layout`\n3. `better-writing`\n4. `better-typography`\n5. `better-colors`\n6. `better-ui`\n\nFrom each, take its principles, its references and its verification checks. Its severity ladder and its format are for standalone use; the ones in this file replace them.\n\nIf an owning skill is unavailable, mark that domain `Not reviewed`, name it and continue with the rest. Do not recreate its rules from memory, substitute a neighbour or claim holistic coverage.\n\nWhen two skills appear to cover one issue, assign it to the owner of the underlying rule and note secondary effects in the **Why** cell.\n\n## 5. Verify what can be verified\n\nRun the safe, relevant checks the project offers. Inspect the rendered interface when runtime behavior or visual judgment matters, and report the exact command or interaction and its result. A check you cannot run is **Not verified**, never a finding.\n\n## Require evidence\n\nEvery finding cites `path/to/file:line` and shows the current implementation. When runtime behavior determines the result, source alone cannot support a visual finding and a screenshot alone cannot support a code finding.\n\n## Rank by user impact\n\nUse one shared severity scale:\n\n- `HIGH`: blocks a task, misleads the user, hides content or controls, causes data-loss risk or creates a repeated systemic failure.\n- `MEDIUM`: meaningfully harms comprehension, efficiency, adaptability or consistency.\n- `LOW`: isolated polish with limited task impact.\n\nWithin a severity, rank by how many places the finding reaches and how much one fix buys. A token or shared-component fix outranks the same symptom in one leaf.\n\n**Escalation triggers.** Once the owning skill confirms one of these, it is `HIGH` on sight, never averaged down because the surface is minor:\n\n- An interactive control with no accessible name.\n- A keyboard-reachable control with no visible focus indicator.\n- A control or path reachable by pointer but not by keyboard.\n- Motion or auto-playing content that ignores `prefers-reduced-motion`.\n- Content or a control clipped, overlapped or unreachable at 320px width or 200% zoom.\n- Body or control text whose rendered contrast pair fails its required ratio.\n- State or meaning carried by color alone.\n- A destructive action with no confirmation, undo or distinct treatment.\n- Truncated content with no way to reach the full value.\n- Content or a control reachable only past a scroll edge or behind a disclosure that has no visible cue.\n- An error that names no way to recover from it.\n- A semantic color used against its meaning, such as the danger hue on a non-destructive action.\n- A state change carried by motion alone, with no color, icon or label left behind when the animation does not run.\n\nTriggers rank above every other finding. When more fire than the cap allows, list them first and say how many the cap excluded. A cap may shorten a report; it may never be why a blocker went unreported.\n\nThese set severity, not new rules. The owning skill decides whether the symptom is present; this list decides what it costs.\n\n## Prefer the cheaper fix\n\nSeverity says how bad a finding is; this says which fix to propose. When more than one would work, take the earliest that does:\n\n1. **Delete.** A separator that space would carry, an animation on a high-frequency interaction, an ARIA attribute a native element makes redundant, a ramp nothing imports.\n2. **Use the platform.** The native element, the native control or the browser's own focus ring, in place of a custom rebuild.\n3. **Reuse what the project has.** An existing token, spacing step or motion curve, before any new value.\n4. **Correct the value.** The wrong easing, radius, gap or contrast pair, using the exact value the owning skill gives.\n5. **Add.** A new token, a wrapper, a media query, an ARIA attribute the platform cannot supply.\n\nWhen the code under review adds what **Delete** would fix, that is a finding, and its **After** is the deletion.\n\n## Consolidate systemic findings\n\nOne root cause is one finding, with every confirmed location in the same row. Report at most 15 findings. Never pad toward the cap; a short review or no findings is a valid result.\n\n## Review without mutating by default\n\nTreat a review request as read-only. Do not edit source unless the user also asks you to implement the findings. When they do, keep the consolidated report as the change scope and re-run the relevant verification afterward.\n\n## Before you finish\n\n| Mistake | Fix |\n| --- | --- |\n| A separate findings section per domain | Merge them into one table ranked by severity, then reach |\n| A rendering claim whose only evidence is source | Inspect the rendered state, or mark it **Not verified** |\n| A missing accessible name or focus ring rated `MEDIUM` because the surface is minor | Triggers are `HIGH` on sight |\n| A coverage row whose evidence cell names no file, component or check | Inspect that domain, or mark it `Not reviewed` with the reason |\n| A domain marked `Clear` although its skill never loaded | Mark it `Not reviewed` and name the skill |\n| The same symptom in several rows, one per component | One row against the shared token or component, listing every location |\n| An **After** that adds a wrapper, token or ARIA attribute | Check whether a deletion or the native element fixes it first |\n| A fix written in a library or styling system the project does not use | Rewrite it in the project's own idiom |\n\n## Review output format\n\nThe format lives in [review-format.md](review-format.md): scope and coverage, the findings table, verification and the verdict. A review is not finished until its findings are reported there.",
+      "zhCN": "# Interface\n\nThis skill runs a cross-discipline review. It routes the interface to each `better-*` skill, collects their evidence and consolidates one ranked verdict.\n\nOrchestration is all it owns. Accessibility rules belong to `better-accessibility`, structure to `better-layout`, copy to `better-writing`, type to `better-typography`, color to `better-colors`, visual polish and motion to `better-ui`.\n\nChange-scoped review of uncommitted work, branches and pull requests belongs to `interface-review`.\n\n## Evidence, not taste\n\nPress hard on the escalation triggers and leave deliberate project choices alone. A trigger is a failure whatever the style guide says. A density, radius or voice you merely disagree with is not a finding.\n\nThe bar for reporting is evidence. The bar for `Approve` is that you inspected what you claim to have inspected.\n\n## 1. Resolve the scope first\n\nInfer the screen, flow, feature or repository scope from the request and current workspace. State the resolved scope in the output.\n\nCover all of it in every domain, including the empty, loading, error and narrow-width states where they exist.\n\nWhen the scope is too large to inspect credibly, narrow it to one complete flow. Take the one the request centers on, or failing that the entry path every user must pass through. State the boundary and what it excluded. Never imply uninspected surfaces were reviewed.\n\n## 2. Send a change to `interface-review`\n\nA request naming a branch, pull request, commit range or uncommitted changes is a change review. Say so and ask the user to run `interface-review`, which is user-invoked and cannot be started from here. Never resolve a change scope yourself, because a guessed diff gives the report a scope nobody can check.\n\nWhen `interface-review` hands a review back, apply everything below to it. The cap and the verdict cover `Introduced` and `Regression` findings only, so a change whose only findings are `Pre-existing` is an `Approve`.\n\n## 3. Recon before judgment\n\nIdentify the framework, styling system, component library, design tokens, supported viewports and any preview or test command. Write every fix in the project's own idiom, never as a request to adopt a different stack.\n\nThen read what the project has written about its own interface: `CONTRIBUTING.md`, `CODING_STANDARDS.md`, `AGENTS.md`, `CLAUDE.md`, a design-system doc, Storybook docs and interface ADRs. Name which you found, or that there are none.\n\nA documented convention settles matters of taste but never excuses a trigger or a domain rule violation. What it changes is **where** you report. When a guideline or shared token is the cause, report it once against that source, with the components as its locations.\n\n## 4. Use domain skills as the sources of truth\n\nLoad every owning skill below and complete each domain review before consolidation. Review in this order so foundational failures are not hidden by polish:\n\n1. `better-accessibility`\n2. `better-layout`\n3. `better-writing`\n4. `better-typography`\n5. `better-colors`\n6. `better-ui`\n\nFrom each, take its principles, its references and its verification checks. Its severity ladder and its format are for standalone use; the ones in this file replace them.\n\nIf an owning skill is unavailable, mark that domain `Not reviewed`, name it and continue with the rest. Do not recreate its rules from memory, substitute a neighbour or claim holistic coverage.\n\nWhen two skills appear to cover one issue, assign it to the owner of the underlying rule and note secondary effects in the **Why** cell.\n\n## 5. Verify what can be verified\n\nRun the safe, relevant checks the project offers. Inspect the rendered interface when runtime behavior or visual judgment matters, and report the exact command or interaction and its result. A check you cannot run is **Not verified**, never a finding.\n\n## Require evidence\n\nEvery finding cites `path/to/file:line` and shows the current implementation. When runtime behavior determines the result, source alone cannot support a visual finding and a screenshot alone cannot support a code finding.\n\n## Rank by user impact\n\nUse one shared severity scale:\n\n- `HIGH`: blocks a task, misleads the user, hides content or controls, causes data-loss risk or creates a repeated systemic failure.\n- `MEDIUM`: meaningfully harms comprehension, efficiency, adaptability or consistency.\n- `LOW`: isolated polish with limited task impact.\n\nWithin a severity, rank by how many places the finding reaches and how much one fix buys. A token or shared-component fix outranks the same symptom in one leaf.\n\n**Escalation triggers.** Once the owning skill confirms one of these, it is `HIGH` on sight, never averaged down because the surface is minor:\n\n- An interactive control with no accessible name.\n- A keyboard-reachable control with no visible focus indicator.\n- A control or path reachable by pointer but not by keyboard.\n- Motion or auto-playing content that ignores `prefers-reduced-motion`.\n- Content or a control clipped, overlapped or unreachable at 320px width or 200% zoom.\n- Body or control text whose rendered contrast pair fails its required ratio.\n- State or meaning carried by color alone.\n- A destructive action with no confirmation, undo or distinct treatment.\n- Truncated content with no way to reach the full value.\n- Content or a control reachable only past a scroll edge or behind a disclosure that has no visible cue.\n- An error that names no way to recover from it.\n- A semantic color used against its meaning, such as the danger hue on a non-destructive action.\n- A state change carried by motion alone, with no color, icon or label left behind when the animation does not run.\n\nTriggers rank above every other finding. When more fire than the cap allows, list them first and say how many the cap excluded. A cap may shorten a report; it may never be why a blocker went unreported.\n\nThese set severity, not new rules. The owning skill decides whether the symptom is present; this list decides what it costs.\n\n## Prefer the cheaper fix\n\nSeverity says how bad a finding is; this says which fix to propose. When more than one would work, take the earliest that does:\n\n1. **Delete.** A separator that space would carry, an animation on a high-frequency interaction, an ARIA attribute a native element makes redundant, a ramp nothing imports.\n2. **Use the platform.** The native element, the native control or the browser's own focus ring, in place of a custom rebuild.\n3. **Reuse what the project has.** An existing token, spacing step or motion curve, before any new value.\n4. **Correct the value.** The wrong easing, radius, gap or contrast pair, using the exact value the owning skill gives.\n5. **Add.** A new token, a wrapper, a media query, an ARIA attribute the platform cannot supply.\n\nWhen the code under review adds what **Delete** would fix, that is a finding, and its **After** is the deletion.\n\n## Consolidate systemic findings\n\nOne root cause is one finding, with every confirmed location in the same row. Report at most 15 findings. Never pad toward the cap; a short review or no findings is a valid result.\n\n## Review without mutating by default\n\nTreat a review request as read-only. Do not edit source unless the user also asks you to implement the findings. When they do, keep the consolidated report as the change scope and re-run the relevant verification afterward.\n\n## Before you finish\n\n| Mistake | Fix |\n| --- | --- |\n| A separate findings section per domain | Merge them into one table ranked by severity, then reach |\n| A rendering claim whose only evidence is source | Inspect the rendered state, or mark it **Not verified** |\n| A missing accessible name or focus ring rated `MEDIUM` because the surface is minor | Triggers are `HIGH` on sight |\n| A coverage row whose evidence cell names no file, component or check | Inspect that domain, or mark it `Not reviewed` with the reason |\n| A domain marked `Clear` although its skill never loaded | Mark it `Not reviewed` and name the skill |\n| The same symptom in several rows, one per component | One row against the shared token or component, listing every location |\n| An **After** that adds a wrapper, token or ARIA attribute | Check whether a deletion or the native element fixes it first |\n| A fix written in a library or styling system the project does not use | Rewrite it in the project's own idiom |\n\n## Review output format\n\nThe format lives in [review-format.md](review-format.md): scope and coverage, the findings table, verification and the verdict. A review is not finished until its findings are reported there."
+    },
+    "whenToUse": [
+      "需要应用这个 Skill 的方法时",
+      "希望把方法转换为可复用案例时"
+    ],
+    "workflow": [
+      "理解用户目标",
+      "按 Skill 方法完成任务",
+      "检查并交付结果"
+    ],
+    "outputs": [
+      "结构化方法说明",
+      "可复制的案例 Prompt"
+    ],
+    "dependencies": [],
+    "riskNotes": [],
+    "cases": [
+      {
+        "id": "better-interface-better-interface-1",
+        "title": "better-interface 案例 1",
+        "summary": "使用原 Skill 的核心工作流解决一个具体问题。",
+        "input": "描述你的目标、对象和限制条件。",
+        "prompt": "请使用 better-interface 的方法完成这个任务，并展示关键步骤与最终结果。",
+        "output": "结构化结果与下一步建议",
+        "executionMode": "structured"
+      },
+      {
+        "id": "better-interface-better-interface-2",
+        "title": "better-interface 案例 2",
+        "summary": "使用原 Skill 的核心工作流解决一个具体问题。",
+        "input": "描述你的目标、对象和限制条件。",
+        "prompt": "请使用 better-interface 的方法完成这个任务，并展示关键步骤与最终结果。",
+        "output": "结构化结果与下一步建议",
+        "executionMode": "structured"
+      }
+    ],
+    "source": {
+      "repository": "jakubkrehel/skills",
+      "skillPath": "skills/better-interface/SKILL.md",
+      "githubUrl": "https://github.com/jakubkrehel/skills",
+      "skillsShUrl": "https://skills.sh/jakubkrehel/skills/better-interface",
+      "license": "MIT",
+      "commit": "1eb03d2b145df1c6cd84ab54a337600a2a379017",
+      "installs": 32726,
+      "contentHash": "915ed5dc1442d9b78782900ff8b62160133362a2fe23998917814bfb6422869e"
     }
   }
 ]
