@@ -44,6 +44,10 @@
     "message": "404 Not Found: https://raw.githubusercontent.com/scottwater/skills/HEAD/skills/gpt-image-prompts/SKILL.md"
   },
   {
+    "source": "hassancs91/claude-youtube-editor@make-tsx",
+    "message": "SKILL.md changed or content missing but AI_GATEWAY_API_KEY is unavailable for Chinese re-enrichment"
+  },
+  {
     "source": "sugarforever/boring-video-studio@to-storyboard",
     "message": "404 Not Found: https://raw.githubusercontent.com/sugarforever/boring-video-studio/HEAD/skills/to-storyboard/SKILL.md"
   },
@@ -65,6 +69,10 @@
   },
   {
     "source": "coreyhaines31/marketingskills@site-architecture",
+    "message": "SKILL.md changed or content missing but AI_GATEWAY_API_KEY is unavailable for Chinese re-enrichment"
+  },
+  {
+    "source": "nextlevelbuilder/ui-ux-pro-max-skill@ui-ux-pro-max",
     "message": "SKILL.md changed or content missing but AI_GATEWAY_API_KEY is unavailable for Chinese re-enrichment"
   },
   {
@@ -150,9 +158,5 @@
   {
     "source": "layerai/skills@layer-art-direction",
     "message": "404 Not Found: https://raw.githubusercontent.com/layerai/skills/HEAD/skills/layer-art-direction/SKILL.md"
-  },
-  {
-    "source": "skills-shell/superpowers@competitor-teardown",
-    "message": "包含需要账号、密钥、付费额度或安装命令的可执行依赖"
   }
 ]

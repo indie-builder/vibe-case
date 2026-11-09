@@ -869,6 +869,18 @@
       "skillId": "better-interface",
       "skillPath": "skills/better-interface/SKILL.md",
       "skillsShUrl": "https://skills.sh/jakubkrehel/skills/better-interface"
+    },
+    {
+      "repository": "aaron-he-zhu/aaron-marketing-skills",
+      "skillId": "launch-asset-packager",
+      "skillPath": "launch/assemble/launch-asset-packager/SKILL.md",
+      "skillsShUrl": "https://skills.sh/aaron-he-zhu/aaron-marketing-skills/launch-asset-packager"
+    },
+    {
+      "repository": "hmzbo/animation-skills",
+      "skillId": "remotion",
+      "skillPath": "skills/source-available/remotion/SKILL.md",
+      "skillsShUrl": "https://skills.sh/hmzbo/animation-skills/remotion"
     }
   ]
 }
