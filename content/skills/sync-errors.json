@@ -57,7 +57,7 @@
   },
   {
     "source": "yonatangross/orchestkit@animation-motion-design",
-    "message": "SKILL.md changed or content missing but AI_GATEWAY_API_KEY is unavailable for Chinese re-enrichment"
+    "message": "404 Not Found: https://raw.githubusercontent.com/yonatangross/orchestkit/HEAD/plugins/ork/skills/animation-motion-design/SKILL.md"
   },
   {
     "source": "robjsliwa/skills@beat-grill",
@@ -90,6 +90,10 @@
   {
     "source": "leonxlnx/taste-skill@stitch-design-taste",
     "message": "404 Not Found: https://raw.githubusercontent.com/leonxlnx/taste-skill/HEAD/skills/stitch-skill/SKILL.md"
+  },
+  {
+    "source": "emilkowalski/skills@apple-design",
+    "message": "SKILL.md changed or content missing but AI_GATEWAY_API_KEY is unavailable for Chinese re-enrichment"
   },
   {
     "source": "designed-by-ai/skills@design-mobile-apps",
@@ -128,6 +132,10 @@
     "message": "SKILL.md changed or content missing but AI_GATEWAY_API_KEY is unavailable for Chinese re-enrichment"
   },
   {
+    "source": "emilkowalski/skills@animation-vocabulary",
+    "message": "SKILL.md changed or content missing but AI_GATEWAY_API_KEY is unavailable for Chinese re-enrichment"
+  },
+  {
     "source": "expo/skills@expo-design-system",
     "message": "SKILL.md changed or content missing but AI_GATEWAY_API_KEY is unavailable for Chinese re-enrichment"
   },
@@ -158,5 +166,9 @@
   {
     "source": "layerai/skills@layer-art-direction",
     "message": "404 Not Found: https://raw.githubusercontent.com/layerai/skills/HEAD/skills/layer-art-direction/SKILL.md"
+  },
+  {
+    "source": "ukvalley/video-editing-skills@video-editor-pro",
+    "message": "声明依赖被排除的产品或平台：capcut"
   }
 ]

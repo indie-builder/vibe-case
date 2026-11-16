@@ -146,7 +146,7 @@
       "skillsShUrl": "https://skills.sh/zhouwei713/gpt-image-2-prompting-skill/gpt-image-2-prompting",
       "license": "MIT",
       "commit": "80da4b0364833c1177c525a6f2f9ab4e44e1b8fd",
-      "installs": 87,
+      "installs": 89,
       "contentHash": "0e9471a82acff5d97df1c7e4b796825b751b61cb686c090f4d94e290f2bd3b33"
     }
   },
@@ -366,7 +366,7 @@
       "skillsShUrl": "https://skills.sh/owl-listener/designer-skills/visual-hierarchy",
       "license": "MIT",
       "commit": "5d255536fd7a909d6e40b5a59d0b97e4bda3502a",
-      "installs": 2783,
+      "installs": 2916,
       "contentHash": "ac1d1d993f4ea681a09a158d65f935acc4b0ffe41fef1e358c3952c524725205"
     }
   },
@@ -439,7 +439,7 @@
       "skillsShUrl": "https://skills.sh/owl-listener/designer-skills/journey-map",
       "license": "MIT",
       "commit": "5d255536fd7a909d6e40b5a59d0b97e4bda3502a",
-      "installs": 2369,
+      "installs": 2480,
       "contentHash": "8462a826ddc0ae73cc43e7dbcfe8f9e243a37158ae9e0804b587a1b6eb85d43f"
     }
   },
@@ -586,7 +586,7 @@
       "skillsShUrl": "https://skills.sh/product-on-purpose/pm-skills/develop-design-rationale",
       "license": "Apache-2.0",
       "commit": "152b175181a7ccba13a46fb1bc6cbcf662ef1dc2",
-      "installs": 791,
+      "installs": 815,
       "contentHash": "853395279e4da6fc4fbbb305544be7b28f65cfb7c24f1b6d558ec07610e99f88"
     }
   },
@@ -661,7 +661,7 @@
       "skillsShUrl": "https://skills.sh/kylezantos/design-motion-principles/design-motion-principles",
       "license": "MIT",
       "commit": "7803a7ccd656281447cf11b9fcc228163bc2e896",
-      "installs": 13769,
+      "installs": 14412,
       "contentHash": "599f42dbf011df38f3fcaf1497533af447d91cf97443b92439455af103c25b2e"
     }
   },
@@ -734,7 +734,7 @@
       "skillsShUrl": "https://skills.sh/iart-ai/motion-design-skills/beat-sync-editing",
       "license": "MIT",
       "commit": "3110f145d92bfbb0d3da88940de6c50225b79bf7",
-      "installs": 4231,
+      "installs": 5096,
       "contentHash": "92118cd6a5821974aa084a9838f263b46ee65fa1f48aaded8e676861f8c2de28"
     }
   },
@@ -909,7 +909,7 @@
       "skillsShUrl": "https://skills.sh/agentara/skills/video-poster-design",
       "license": "MIT",
       "commit": "fbf6496604ff393c8919911ef9596cc2bfaf59b1",
-      "installs": 260,
+      "installs": 267,
       "contentHash": "4441cdbac4128fb00d8201fa9086e7eb100685e7b5dbc992de6d094947ce8370"
     }
   },
@@ -1079,7 +1079,7 @@
       "skillsShUrl": "https://skills.sh/owl-listener/designer-skills/critique-visual-hierarchy",
       "license": "MIT",
       "commit": "5d255536fd7a909d6e40b5a59d0b97e4bda3502a",
-      "installs": 2301,
+      "installs": 2440,
       "contentHash": "e9c210156b5cd6c049922c0ca2ab65dbed96bc3c2d2bfaa0b4b1ea47c89ec4b1"
     }
   },
@@ -2228,7 +2228,7 @@
       "skillsShUrl": "https://skills.sh/phuryn/pm-skills/customer-journey-map",
       "license": "MIT",
       "commit": "a372bee16dc2275e26078ca70a2eb7614ea316f7",
-      "installs": 3235,
+      "installs": 3321,
       "contentHash": "656c0e16318b3b24870065a8eabb8a116b72e47c167472836ce76ea97ec5c75e"
     }
   },
@@ -3011,7 +3011,7 @@
       "skillsShUrl": "https://skills.sh/dylantarre/animation-principles/web-motion-design",
       "license": "MIT",
       "commit": "747c656abe3b3b155552acb24efa2234aa8027fb",
-      "installs": 1415,
+      "installs": 1470,
       "contentHash": "5fd447db3456a1f986850d9cc6caba0c9c800e8161f57faede53c91fa458b194"
     }
   },
@@ -3151,7 +3151,7 @@
       "skillsShUrl": "https://skills.sh/iart-ai/motion-design-skills/animation-principles",
       "license": "MIT",
       "commit": "3110f145d92bfbb0d3da88940de6c50225b79bf7",
-      "installs": 4299,
+      "installs": 5170,
       "contentHash": "21637766f8ae115f427ab086ec903106b3dfa5eac7fdf05d9926e4b557bff892"
     }
   },
@@ -5095,7 +5095,7 @@
       "skillsShUrl": "https://skills.sh/dammyjay93/interface-design/interface-design",
       "license": "MIT",
       "commit": "890d9295acdaf57891a20dc2499abfb4b8529784",
-      "installs": 32622,
+      "installs": 33537,
       "contentHash": "720b31a31276e899fbe3006a33cbfeaceb77a73ba4c27b80d29afd38c8b7b208"
     }
   },
@@ -5167,7 +5167,7 @@
       "skillsShUrl": "https://skills.sh/wshobson/agents/visual-design-foundations",
       "license": "MIT",
       "commit": "47a5dbc3f9c2661c6afb13638f80d4a4d4449040",
-      "installs": 14119,
+      "installs": 14339,
       "contentHash": "0c6970d14f5d5df55c63d1be995205d140489e2d0c39896657fabee6f6a5df84"
     }
   },
@@ -5239,7 +5239,7 @@
       "skillsShUrl": "https://skills.sh/wondelai/skills/refactoring-ui",
       "license": "MIT",
       "commit": "c172996495bed0fcd26896a9416b2093fd7073f0",
-      "installs": 10058,
+      "installs": 10444,
       "contentHash": "d10d15b81aa00f427811741d83ac2bb918aabfae3d4489c751615bdf85e1674c"
     }
   },
@@ -5313,7 +5313,7 @@
       "skillsShUrl": "https://skills.sh/julianoczkowski/designer-skills/information-architecture",
       "license": "Apache-2.0",
       "commit": "fb1f006ba08fb79b424a14844e288bc7a9ddb8a7",
-      "installs": 6079,
+      "installs": 6236,
       "contentHash": "7aad60e5568df242c31c7355543b61e6b65f4d592a5fa3f27a32760826d309e5"
     }
   },
@@ -6525,7 +6525,7 @@
       "skillsShUrl": "https://skills.sh/nextlevelbuilder/ui-ux-pro-max-skill/design-system",
       "license": "MIT",
       "commit": "91c193ac059b487d13ce535c7015b021eb71c841",
-      "installs": 50040,
+      "installs": 53804,
       "contentHash": "8aa5ff93320559a6e5289d37b6b06b3307737dbfb4a6f3fc44135c705613c511"
     }
   },
@@ -6892,7 +6892,7 @@
       "skillsShUrl": "https://skills.sh/google-labs-code/stitch-skills/taste-design",
       "license": "Apache-2.0",
       "commit": "5532ce08bbc32baa60a906610cabf143a6a26a28",
-      "installs": 20974,
+      "installs": 21437,
       "contentHash": "e425fdb7ab250764f6229c48941f97e20bd6a7ba9e25a628f1e0ebeb008e8bff"
     }
   },
@@ -7036,7 +7036,7 @@
       "skillsShUrl": "https://skills.sh/wondelai/skills/lean-ux",
       "license": "MIT",
       "commit": "0dea03f507c913801c94516e352e6859116a02d5",
-      "installs": 5817,
+      "installs": 5971,
       "contentHash": "4fe0a10132650ad36bc79676b12c8f58b19035a40ac6587c864387d0f808cf04"
     }
   },
@@ -7108,7 +7108,7 @@
       "skillsShUrl": "https://skills.sh/content-designer/ux-writing-skill/ux-writing",
       "license": "MIT",
       "commit": "a9fba5244645fba26361e15eddb65fd1fec2c87f",
-      "installs": 3006,
+      "installs": 3194,
       "contentHash": "67dda2a5ba7e26f69860e1018a37068ca201735ff8ae98199c143138d91b4550"
     }
   },
@@ -7395,7 +7395,7 @@
       "skillsShUrl": "https://skills.sh/davila7/claude-code-templates/ux-researcher-designer",
       "license": "MIT",
       "commit": "af0b99278d2f8b705bdf700f19c3125c05de7ede",
-      "installs": 1347,
+      "installs": 1349,
       "contentHash": "91e8bcdfd205e3bd954632b7095f8b75ba4f96eef9191771c7e9f7ebaee15c07"
     }
   },
@@ -7677,7 +7677,7 @@
       "skillsShUrl": "https://skills.sh/owl-listener/designer-skills/user-flow-diagram",
       "license": "MIT",
       "commit": "5d255536fd7a909d6e40b5a59d0b97e4bda3502a",
-      "installs": 2635,
+      "installs": 2766,
       "contentHash": "8615b5e64647148b01161f736c9c5f44c2f7484d1b2ff5fe328d07ccdf538449"
     }
   },
@@ -7747,7 +7747,7 @@
       "skillsShUrl": "https://skills.sh/owl-listener/designer-skills/experience-map",
       "license": "MIT",
       "commit": "5d255536fd7a909d6e40b5a59d0b97e4bda3502a",
-      "installs": 2293,
+      "installs": 2401,
       "contentHash": "82eaefeace2ad5e5da0848dc25a4d0de3955e72b9e632a48bf2f1609938e7049"
     }
   },
@@ -7889,7 +7889,7 @@
       "skillsShUrl": "https://skills.sh/nextlevelbuilder/ui-ux-pro-max-skill/banner-design",
       "license": "MIT",
       "commit": "d95bdf56698277f3b83d034317984e33e683c66a",
-      "installs": 46674,
+      "installs": 50304,
       "contentHash": "ccb89ddc848f60bfe630cb19dfe3e062df94a029467a9b15259f2761019ac5c4"
     }
   },
@@ -8029,7 +8029,7 @@
       "skillsShUrl": "https://skills.sh/richhemsley3/claude-design-skills/product-designer",
       "license": "MIT",
       "commit": "1185d0d84974eaed6e927b953243c96754de02b6",
-      "installs": 46,
+      "installs": 47,
       "contentHash": "168098b382e4f300e1329811cafdbf642a1b5884105cdd5b4e636aa5d9e8ce25"
     }
   },
@@ -8101,7 +8101,7 @@
       "skillsShUrl": "https://skills.sh/hktitan/duolingo/duo-design",
       "license": "MIT",
       "commit": "22e1cb4e99d3e4814c0ede3466d5c49aba70d806",
-      "installs": 57,
+      "installs": 62,
       "contentHash": "5fa8d48087d5b93ab57eab65b01691512e0ceff4f89a21493c3782f619eb69cf"
     }
   },
@@ -8171,7 +8171,7 @@
       "skillsShUrl": "https://skills.sh/owl-listener/designer-skills/motion-system",
       "license": "MIT",
       "commit": "5d255536fd7a909d6e40b5a59d0b97e4bda3502a",
-      "installs": 2069,
+      "installs": 2177,
       "contentHash": "fda71131019ef7bac3a009c754a8283677b94362fc85f46bc2e1a5ce9a63d51e"
     }
   },
@@ -8241,7 +8241,7 @@
       "skillsShUrl": "https://skills.sh/dylantarre/animation-principles/presentations",
       "license": "MIT",
       "commit": "747c656abe3b3b155552acb24efa2234aa8027fb",
-      "installs": 700,
+      "installs": 735,
       "contentHash": "873fe71fb258d81effffa7332c61896e6a941c2c3c725df0841537c2fb2626b9"
     }
   },
@@ -8389,7 +8389,7 @@
       "skillsShUrl": "https://skills.sh/calesthio/generative-media-skills/editing-montage",
       "license": "MIT",
       "commit": "d5daa8a23514c2e5b0ef1c9ac6874db632fb7ae7",
-      "installs": 326,
+      "installs": 390,
       "contentHash": "c1cc77a249f5607d11ab4b562a3982dfc61583a5f79dfbcc3755550fcc5cfe1a"
     }
   },
@@ -8461,7 +8461,7 @@
       "skillsShUrl": "https://skills.sh/vibegameengine/video-motion-craft/video-motion-craft",
       "license": "MIT",
       "commit": "c17ab30ee376379c84d84315b886ae4282d7a96c",
-      "installs": 45,
+      "installs": 49,
       "contentHash": "8153bcbec5ffce753093fe17932d11ca10417e137cbe095d3fe818fe1d1d25e4"
     }
   },
@@ -8749,7 +8749,7 @@
       "skillsShUrl": "https://skills.sh/onewave-ai/claude-skills/hyperframes-ad-director",
       "license": "MIT",
       "commit": "d3d09f3b8be156acb5650631448c5cd1e4d2bbf4",
-      "installs": 175,
+      "installs": 185,
       "contentHash": "7992d6a155b90a1d10237cdfed94712da6f8010608ad7c6f5621e472eaf08315"
     }
   },
@@ -8968,7 +8968,7 @@
       "skillsShUrl": "https://skills.sh/aicodedecode/awesome-muse-skills/storyboard-artist",
       "license": "MIT",
       "commit": "cd8831171b2716193633c50d3dcd52ec9ef1d0be",
-      "installs": 9,
+      "installs": 12,
       "contentHash": "0f96c8a437715c721034cd04bc763c04723ea6e524daf5a5e7a8beaf3cf86aa7"
     }
   },
@@ -9038,7 +9038,7 @@
       "skillsShUrl": "https://skills.sh/jakubkrehel/skills/better-interface",
       "license": "MIT",
       "commit": "1eb03d2b145df1c6cd84ab54a337600a2a379017",
-      "installs": 35241,
+      "installs": 37542,
       "contentHash": "915ed5dc1442d9b78782900ff8b62160133362a2fe23998917814bfb6422869e"
     }
   },
@@ -9112,7 +9112,7 @@
       "skillsShUrl": "https://skills.sh/aaron-he-zhu/aaron-marketing-skills/launch-asset-packager",
       "license": "Apache-2.0",
       "commit": "0d0dabf0d130cc77f66ff6bdebe698d36060335e",
-      "installs": 1089,
+      "installs": 1116,
       "contentHash": "9e6e888d7378e857561bc6100211c3184d1d59f3606f8c4199084a0f171aac02"
     }
   },
@@ -9184,8 +9184,224 @@
       "skillsShUrl": "https://skills.sh/hmzbo/animation-skills/remotion",
       "license": "MIT",
       "commit": "42dd41ec0b700999d2d013f19affa3c72333f265",
-      "installs": 13,
+      "installs": 24,
       "contentHash": "99e19f7249b6ab42ac038f28f7e13686e122f91c8ab2d54a53701eb49eafc159"
+    }
+  },
+  {
+    "id": "design-review",
+    "slug": "design-review",
+    "status": "active",
+    "category": "visual",
+    "categoryLabel": "视觉设计",
+    "title": {
+      "zhCN": "design-review",
+      "sourceEN": "design-review",
+      "aliases": [
+        "Example prompts",
+        "Process",
+        "Review Checklist",
+        "Visual Hierarchy"
+      ]
+    },
+    "summary": {
+      "zhCN": "这个 Skill 用于：Run a structured design critique against the brief and codebase. Checks visual hierarchy, consistency, responsiveness, accessibility, and aesthetic fidelity. Use when user wants a design review, critique, QA pass, polish pass, or mentions \"review\" after building.",
+      "sourceEN": "Run a structured design critique against the brief and codebase. Checks visual hierarchy, consistency, responsiveness, accessibility, and aesthetic fidelity. Use when user wants a design review, critique, QA pass, polish pass, or mentions \"review\" after building."
+    },
+    "content": {
+      "sourceEN": "This skill runs a structured design review of what has been built, measured against the design brief and the chosen aesthetic philosophy.\n\n> **CRITICAL — Visual Screenshot Capture**\n>\n> You MUST capture screenshots of the running application as part of every design review. Code review alone is insufficient — you need to see what the user sees. Follow the screenshot capture protocol in Step 3 below. This is not optional.\n\n## Example prompts\n\n- \"Review what I just built\"\n- \"Run a design critique on the landing page\"\n- \"Check this against the brief\"\n- \"Here's a screenshot. How does it look?\" [paste screenshot]\n- \"QA pass before I ship this\"\n\n## Process\n\n1. **Read the brief.** Look for the active feature's brief at `.design/<feature-slug>/DESIGN_BRIEF.md`. If multiple feature folders exist under `.design/`, ask the user which feature to review. If no `.design/` folder exists, fall back to `DESIGN_BRIEF.md` in the project root. If neither exists, ask the user what the intended design direction was.\n\n2. **Explore the built code.** Examine every component, page, and style file that was created or modified. Scan specifically for:\n   - All new or modified components and their relationship to pre-existing components\n   - Token/variable usage: are components using shared tokens or hardcoding values?\n   - Duplicate components that should be consolidated\n   - File naming and organization: do new files follow the project's conventions?\n   - Understand what was actually built, not what was planned.\n\n3. **Capture screenshots of the running application.**\n\n   This step is **mandatory**. Do not skip it. Do not rely only on user-provided screenshots.\n\n   ### Screenshot Tool Priority\n\n   Try each option in order. Use the first one that is available:\n   1. **Playwright MCP (preferred).** Check if the `plugin-playwright-playwright` MCP server is available. If it is, use it — it gives you precise control over viewport sizing, full-page captures, and file naming.\n   2. **Cursor IDE Browser (second choice).** If Playwright MCP is not available, use the `cursor-ide-browser` MCP server's `browser_take_screenshot` tool instead. It has the same core capabilities.\n   3. **Ask the user (last resort).** If neither MCP server nor in-app browser is available, you MUST ask the user to provide screenshots manually. Be specific about what you need:\n      - \"I don't have access to a browser tool. To complete the visual review I need screenshots of the running application. Please provide:\"\n      - A full-page screenshot at **desktop** width (1280px)\n      - A full-page screenshot at **tablet** width (768px)\n      - A full-page screenshot at **mobile** width (375px)\n      - Dark mode variants (if applicable)\n      - Any specific component or interactive state you want reviewed\n      - Ask the user to paste/attach the images directly in chat, or to save them into the `screenshots/` folder themselves.\n      - **Do not skip the visual review.** Wait for the user to provide screenshots before proceeding with the checklist.\n\n   ### Screenshot Save Location\n\n   All screenshots MUST be saved to a `screenshots/` subfolder inside the feature's `.design/` directory — the same folder where `DESIGN_BRIEF.md` and other design flow files live.\n\n   Path pattern: `.design/<feature-slug>/screenshots/`\n\n   If the brief lives at `.design/onboarding-flow/DESIGN_BRIEF.md`, screenshots go to `.design/onboarding-flow/screenshots/`. Create the folder if it does not exist.\n\n   If no `.design/` folder exists (legacy project or standalone review), fall back to a `screenshots/` folder in the project root.\n\n   Use descriptive filenames that encode what was captured:\n\n   ```\n   .design/\n   └── onboarding-flow/\n       ├── DESIGN_BRIEF.md\n       ├── DESIGN_REVIEW.md\n       └── screenshots/\n           ├── review-homepage-desktop-1280.png\n           ├── review-homepage-tablet-768.png\n           ├── review-homepage-mobile-375.png\n           ├── review-homepage-dark-mode-desktop-1280.png\n           └── review-card-component-hover.png\n   ```\n\n   ### Screenshot Capture Protocol\n\n   **a. Navigate to the application.** Ask the user for the URL if not obvious from the project (e.g., `http://localhost:3000`). Use `browser_navigate` to open it.\n\n   **b. Capture responsive breakpoints.** At minimum, capture these three viewports for every key page/view:\n\n   | Breakpoint | Width × Height | Filename suffix |\n   | ---------- | -------------- | --------------- |\n   | Mobile     | 375 × 812      | `-mobile-375`   |\n   | Tablet     | 768 × 1024     | `-tablet-768`   |\n   | Desktop    | 1280 × 800     | `-desktop-1280` |\n\n   Use `browser_resize` to set the viewport before each screenshot. Use `browser_take_screenshot` with `fullPage: true` to capture the entire scrollable page, and save with the `filename` parameter pointing to the `screenshots/` folder.\n\n   **Playwright MCP example sequence** (assuming feature slug is `onboarding-flow`):\n\n   ```\n   1. browser_navigate → { url: \"http://localhost:3000\" }\n   2. browser_resize   → { width: 1280, height: 800 }\n   3. browser_take_screenshot → { type: \"png\", filename: \".design/onboarding-flow/screenshots/review-homepage-desktop-1280.png\", fullPage: true }\n   4. browser_resize   → { width: 768, height: 1024 }\n   5. browser_take_screenshot → { type: \"png\", filename: \".design/onboarding-flow/screenshots/review-homepage-tablet-768.png\", fullPage: true }\n   6. browser_resize   → { width: 375, height: 812 }\n   7. browser_take_screenshot → { type: \"png\", filename: \".design/onboarding-flow/screenshots/review-homepage-mobile-375.png\", fullPage: true }\n   ```\n\n   **c. Capture interactive states (when relevant).**\n   - Hover states on buttons, cards, links\n   - Focus states on form fields\n   - Open states on dropdowns, modals, menus\n   - Error/success states on forms\n   - Loading and empty states\n\n   **d. Capture dark mode (if the project supports it).** Toggle dark mode and repeat the responsive breakpoint captures with `-dark-mode` in the filename.\n\n   **e. Capture specific components.** If the review focuses on a particular component, use the `element` and `ref` parameters to screenshot just that element.\n\n   ### Analyze Every Screenshot\n\n   After capturing, visually analyze each screenshot against the design brief. For each screenshot:\n   - Compare against the brief's aesthetic direction\n   - Check visual hierarchy: is the most important element the most prominent?\n   - Check spacing consistency: do margins and padding look even and intentional?\n   - Check color: does the palette match the brief's direction?\n   - Check typography: are font sizes, weights, and spacing visually correct?\n   - Check responsive adaptation: does the layout properly reorganize (not just shrink)?\n   - Note rendering issues that code review alone would miss (font loading failures, broken images, layout overflow, z-index problems, incorrect border-radius, color mismatches)\n\n   Reference specific screenshots by filename in the review output so findings are traceable.\n\n4. **Run the review checklist below.** For each category, note what passes and what needs refinement. Be specific. Reference exact components, files, line numbers, and screenshot filenames.\n\n5. **Produce a prioritized refinement list.** Group issues by severity:\n   - **Must fix**: Broken functionality, accessibility failures, major deviations from the brief.\n   - **Should fix**: Inconsistencies, missing states, responsive issues.\n   - **Could improve**: Polish, animation refinement, typography fine-tuning.\n\n6. Save the review as `DESIGN_REVIEW.md` inside the feature's `.design/<feature-slug>/` folder (next to `DESIGN_BRIEF.md`). If no `.design/` folder exists, save to the project root. Include a \"Screenshots Captured\" section listing all screenshots taken with their paths. Present the review directly as well if the user prefers.\n\n## Review Checklist\n\n### Visual Hierarchy\n\n- Is the most important content the most visually prominent on each page/view?\n- Does the type scale create clear levels of importance (heading, subheading, body, caption)?\n- Do interactive elements (buttons, links, inputs) have enough visual weight to be found without hunting?\n- Is there a clear reading order? Can you trace where the eye goes first, second, third?\n\n### Consistency\n\n- Are spacing values consistent? Check padding and margins against the established scale (4px/8px base or whatever the project uses).\n- Are colors used consistently? Check that the same semantic meaning always maps to the same color (primary actions, errors, success states, disabled states).\n- Are border radii, shadow values, and font sizes reused from a shared set, or are there one-off values?\n- Do similar components look and behave similarly? (e.g., all cards, all form fields, all buttons within a category.)\n\n### Aesthetic Fidelity\n\n- Does the implementation match the named philosophy from the brief?\n- Would someone looking at this immediately recognize the intended aesthetic direction?\n- Are there elements that break the aesthetic (a generic component in an otherwise distinctive interface, a conflicting font, an out-of-place color)?\n- Does the level of detail match the philosophy? (Minimalist designs should not have unnecessary decoration. Maximalist designs should not have empty, unfinished areas.)\n\n### Component Quality\n\n- Do existing components from the codebase appear correctly, or were they reimplemented?\n- Are new components following the same API patterns (props, naming, file organization) as existing ones?\n- Are there duplicate components that should be consolidated?\n\n### States and Interactions\n\n- Do interactive elements have all necessary states: default, hover, focus, active, disabled?\n- Do form fields have states for: empty, filled, error, success, disabled?\n- Are loading states handled? Empty states?\n- Do transitions and animations match the philosophy's motion guidelines?\n- Is there visual feedback for every user action?\n\n### Responsive Behavior\n\n- Does the layout work at mobile (375px), tablet (768px), and desktop (1280px+)?\n- Do components adapt appropriately? (Not just shrink, but reorganize when needed.)\n- Is touch target size adequate on mobile (minimum 44x44px)?\n- Does text remain readable at all breakpoints? No text too small, no lines too wide (max 65-75 characters).\n\n### Accessibility\n\n- Color contrast: Do text/background combinations meet WCAG AA (4.5:1 for body text, 3:1 for large text)?\n- Keyboard navigation: Can every interactive element be reached and activated with keyboard alone?\n- Focus indicators: Are focus rings visible and styled consistently?\n- Semantic HTML: Are headings in order? Are landmarks used (main, nav, header, footer)? Are form labels associated?\n- Screen reader: Do images have alt text? Do icons have labels? Are decorative elements hidden from assistive technology?\n- Motion: Is there a reduced-motion media query for users who need it?\n\n### Typography\n\n- Is the font actually loading? (Check for FOIT/FOUT flash.)\n- Are line lengths comfortable for reading (45-75 characters on body text)?\n- Is line height appropriate (1.4-1.6 for body, tighter for headings)?\n- Is the type scale intentional, or are there arbitrary sizes?\n\n### Dark Mode\n\n- If the project has dark mode tokens, are they applied correctly?\n- Are all color values using CSS variables (not hardcoded hex values that won't switch)?\n- Does the dark palette feel intentional for the chosen philosophy, or is it a simple inversion?\n- Are shadows adjusted for dark mode (darker, more transparent)?\n- Do accent colors maintain sufficient contrast against dark backgrounds?\n- Is there a working toggle mechanism or `prefers-color-scheme` support?\n\n### Mobile-First\n\n- Was the layout built mobile-first (using `min-width` media queries, not `max-width`)?\n- Does the mobile layout work at 375px without horizontal scrolling?\n- Is navigation adapted for mobile (not just a desktop nav that overflows)?\n- Are touch targets at least 44x44px?\n- Is body text at least 16px on mobile?\n\n## Output Format\n\n```markdown\n# Design Review: [Feature/Page Name]\n\nReviewed against: DESIGN_BRIEF.md\nPhilosophy: [named philosophy]\nDate: [date]\n\n## Screenshots Captured\n\n| Screenshot                                   | Breakpoint         | Description     |\n| -------------------------------------------- | ------------------ | --------------- |\n| `screenshots/review-[page]-desktop-1280.png` | Desktop (1280×800) | [what it shows] |\n| `screenshots/review-[page]-tablet-768.png`   | Tablet (768×1024)  | [what it shows] |\n| `screenshots/review-[page]-mobile-375.png`   | Mobile (375×812)   | [what it shows] |\n\n> All screenshots are in `.design/<feature-slug>/screenshots/`.\n\n## Summary\n\n[2-3 sentences on overall quality and the biggest finding.]\n\n## Must Fix\n\n1. **[Issue]**: [Specific description with file/component reference]. See [`screenshots/[relevant-screenshot].png`]. _Fix: [concrete suggestion]._\n\n## Should Fix\n\n1. **[Issue]**: [Description]. See [`screenshots/[relevant-screenshot].png`]. _Fix: [suggestion]._\n\n## Could Improve\n\n1. **[Issue]**: [Description]. _Suggestion: [idea]._\n\n## What Works Well\n\n[Note the strongest aspects of the implementation. This is not padding. Designers need to know what to keep doing.]\n```",
+      "zhCN": "This skill runs a structured design review of what has been built, measured against the design brief and the chosen aesthetic philosophy.\n\n> **CRITICAL — Visual Screenshot Capture**\n>\n> You MUST capture screenshots of the running application as part of every design review. Code review alone is insufficient — you need to see what the user sees. Follow the screenshot capture protocol in Step 3 below. This is not optional.\n\n## Example prompts\n\n- \"Review what I just built\"\n- \"Run a design critique on the landing page\"\n- \"Check this against the brief\"\n- \"Here's a screenshot. How does it look?\" [paste screenshot]\n- \"QA pass before I ship this\"\n\n## Process\n\n1. **Read the brief.** Look for the active feature's brief at `.design/<feature-slug>/DESIGN_BRIEF.md`. If multiple feature folders exist under `.design/`, ask the user which feature to review. If no `.design/` folder exists, fall back to `DESIGN_BRIEF.md` in the project root. If neither exists, ask the user what the intended design direction was.\n\n2. **Explore the built code.** Examine every component, page, and style file that was created or modified. Scan specifically for:\n   - All new or modified components and their relationship to pre-existing components\n   - Token/variable usage: are components using shared tokens or hardcoding values?\n   - Duplicate components that should be consolidated\n   - File naming and organization: do new files follow the project's conventions?\n   - Understand what was actually built, not what was planned.\n\n3. **Capture screenshots of the running application.**\n\n   This step is **mandatory**. Do not skip it. Do not rely only on user-provided screenshots.\n\n   ### Screenshot Tool Priority\n\n   Try each option in order. Use the first one that is available:\n   1. **Playwright MCP (preferred).** Check if the `plugin-playwright-playwright` MCP server is available. If it is, use it — it gives you precise control over viewport sizing, full-page captures, and file naming.\n   2. **Cursor IDE Browser (second choice).** If Playwright MCP is not available, use the `cursor-ide-browser` MCP server's `browser_take_screenshot` tool instead. It has the same core capabilities.\n   3. **Ask the user (last resort).** If neither MCP server nor in-app browser is available, you MUST ask the user to provide screenshots manually. Be specific about what you need:\n      - \"I don't have access to a browser tool. To complete the visual review I need screenshots of the running application. Please provide:\"\n      - A full-page screenshot at **desktop** width (1280px)\n      - A full-page screenshot at **tablet** width (768px)\n      - A full-page screenshot at **mobile** width (375px)\n      - Dark mode variants (if applicable)\n      - Any specific component or interactive state you want reviewed\n      - Ask the user to paste/attach the images directly in chat, or to save them into the `screenshots/` folder themselves.\n      - **Do not skip the visual review.** Wait for the user to provide screenshots before proceeding with the checklist.\n\n   ### Screenshot Save Location\n\n   All screenshots MUST be saved to a `screenshots/` subfolder inside the feature's `.design/` directory — the same folder where `DESIGN_BRIEF.md` and other design flow files live.\n\n   Path pattern: `.design/<feature-slug>/screenshots/`\n\n   If the brief lives at `.design/onboarding-flow/DESIGN_BRIEF.md`, screenshots go to `.design/onboarding-flow/screenshots/`. Create the folder if it does not exist.\n\n   If no `.design/` folder exists (legacy project or standalone review), fall back to a `screenshots/` folder in the project root.\n\n   Use descriptive filenames that encode what was captured:\n\n   ```\n   .design/\n   └── onboarding-flow/\n       ├── DESIGN_BRIEF.md\n       ├── DESIGN_REVIEW.md\n       └── screenshots/\n           ├── review-homepage-desktop-1280.png\n           ├── review-homepage-tablet-768.png\n           ├── review-homepage-mobile-375.png\n           ├── review-homepage-dark-mode-desktop-1280.png\n           └── review-card-component-hover.png\n   ```\n\n   ### Screenshot Capture Protocol\n\n   **a. Navigate to the application.** Ask the user for the URL if not obvious from the project (e.g., `http://localhost:3000`). Use `browser_navigate` to open it.\n\n   **b. Capture responsive breakpoints.** At minimum, capture these three viewports for every key page/view:\n\n   | Breakpoint | Width × Height | Filename suffix |\n   | ---------- | -------------- | --------------- |\n   | Mobile     | 375 × 812      | `-mobile-375`   |\n   | Tablet     | 768 × 1024     | `-tablet-768`   |\n   | Desktop    | 1280 × 800     | `-desktop-1280` |\n\n   Use `browser_resize` to set the viewport before each screenshot. Use `browser_take_screenshot` with `fullPage: true` to capture the entire scrollable page, and save with the `filename` parameter pointing to the `screenshots/` folder.\n\n   **Playwright MCP example sequence** (assuming feature slug is `onboarding-flow`):\n\n   ```\n   1. browser_navigate → { url: \"http://localhost:3000\" }\n   2. browser_resize   → { width: 1280, height: 800 }\n   3. browser_take_screenshot → { type: \"png\", filename: \".design/onboarding-flow/screenshots/review-homepage-desktop-1280.png\", fullPage: true }\n   4. browser_resize   → { width: 768, height: 1024 }\n   5. browser_take_screenshot → { type: \"png\", filename: \".design/onboarding-flow/screenshots/review-homepage-tablet-768.png\", fullPage: true }\n   6. browser_resize   → { width: 375, height: 812 }\n   7. browser_take_screenshot → { type: \"png\", filename: \".design/onboarding-flow/screenshots/review-homepage-mobile-375.png\", fullPage: true }\n   ```\n\n   **c. Capture interactive states (when relevant).**\n   - Hover states on buttons, cards, links\n   - Focus states on form fields\n   - Open states on dropdowns, modals, menus\n   - Error/success states on forms\n   - Loading and empty states\n\n   **d. Capture dark mode (if the project supports it).** Toggle dark mode and repeat the responsive breakpoint captures with `-dark-mode` in the filename.\n\n   **e. Capture specific components.** If the review focuses on a particular component, use the `element` and `ref` parameters to screenshot just that element.\n\n   ### Analyze Every Screenshot\n\n   After capturing, visually analyze each screenshot against the design brief. For each screenshot:\n   - Compare against the brief's aesthetic direction\n   - Check visual hierarchy: is the most important element the most prominent?\n   - Check spacing consistency: do margins and padding look even and intentional?\n   - Check color: does the palette match the brief's direction?\n   - Check typography: are font sizes, weights, and spacing visually correct?\n   - Check responsive adaptation: does the layout properly reorganize (not just shrink)?\n   - Note rendering issues that code review alone would miss (font loading failures, broken images, layout overflow, z-index problems, incorrect border-radius, color mismatches)\n\n   Reference specific screenshots by filename in the review output so findings are traceable.\n\n4. **Run the review checklist below.** For each category, note what passes and what needs refinement. Be specific. Reference exact components, files, line numbers, and screenshot filenames.\n\n5. **Produce a prioritized refinement list.** Group issues by severity:\n   - **Must fix**: Broken functionality, accessibility failures, major deviations from the brief.\n   - **Should fix**: Inconsistencies, missing states, responsive issues.\n   - **Could improve**: Polish, animation refinement, typography fine-tuning.\n\n6. Save the review as `DESIGN_REVIEW.md` inside the feature's `.design/<feature-slug>/` folder (next to `DESIGN_BRIEF.md`). If no `.design/` folder exists, save to the project root. Include a \"Screenshots Captured\" section listing all screenshots taken with their paths. Present the review directly as well if the user prefers.\n\n## Review Checklist\n\n### Visual Hierarchy\n\n- Is the most important content the most visually prominent on each page/view?\n- Does the type scale create clear levels of importance (heading, subheading, body, caption)?\n- Do interactive elements (buttons, links, inputs) have enough visual weight to be found without hunting?\n- Is there a clear reading order? Can you trace where the eye goes first, second, third?\n\n### Consistency\n\n- Are spacing values consistent? Check padding and margins against the established scale (4px/8px base or whatever the project uses).\n- Are colors used consistently? Check that the same semantic meaning always maps to the same color (primary actions, errors, success states, disabled states).\n- Are border radii, shadow values, and font sizes reused from a shared set, or are there one-off values?\n- Do similar components look and behave similarly? (e.g., all cards, all form fields, all buttons within a category.)\n\n### Aesthetic Fidelity\n\n- Does the implementation match the named philosophy from the brief?\n- Would someone looking at this immediately recognize the intended aesthetic direction?\n- Are there elements that break the aesthetic (a generic component in an otherwise distinctive interface, a conflicting font, an out-of-place color)?\n- Does the level of detail match the philosophy? (Minimalist designs should not have unnecessary decoration. Maximalist designs should not have empty, unfinished areas.)\n\n### Component Quality\n\n- Do existing components from the codebase appear correctly, or were they reimplemented?\n- Are new components following the same API patterns (props, naming, file organization) as existing ones?\n- Are there duplicate components that should be consolidated?\n\n### States and Interactions\n\n- Do interactive elements have all necessary states: default, hover, focus, active, disabled?\n- Do form fields have states for: empty, filled, error, success, disabled?\n- Are loading states handled? Empty states?\n- Do transitions and animations match the philosophy's motion guidelines?\n- Is there visual feedback for every user action?\n\n### Responsive Behavior\n\n- Does the layout work at mobile (375px), tablet (768px), and desktop (1280px+)?\n- Do components adapt appropriately? (Not just shrink, but reorganize when needed.)\n- Is touch target size adequate on mobile (minimum 44x44px)?\n- Does text remain readable at all breakpoints? No text too small, no lines too wide (max 65-75 characters).\n\n### Accessibility\n\n- Color contrast: Do text/background combinations meet WCAG AA (4.5:1 for body text, 3:1 for large text)?\n- Keyboard navigation: Can every interactive element be reached and activated with keyboard alone?\n- Focus indicators: Are focus rings visible and styled consistently?\n- Semantic HTML: Are headings in order? Are landmarks used (main, nav, header, footer)? Are form labels associated?\n- Screen reader: Do images have alt text? Do icons have labels? Are decorative elements hidden from assistive technology?\n- Motion: Is there a reduced-motion media query for users who need it?\n\n### Typography\n\n- Is the font actually loading? (Check for FOIT/FOUT flash.)\n- Are line lengths comfortable for reading (45-75 characters on body text)?\n- Is line height appropriate (1.4-1.6 for body, tighter for headings)?\n- Is the type scale intentional, or are there arbitrary sizes?\n\n### Dark Mode\n\n- If the project has dark mode tokens, are they applied correctly?\n- Are all color values using CSS variables (not hardcoded hex values that won't switch)?\n- Does the dark palette feel intentional for the chosen philosophy, or is it a simple inversion?\n- Are shadows adjusted for dark mode (darker, more transparent)?\n- Do accent colors maintain sufficient contrast against dark backgrounds?\n- Is there a working toggle mechanism or `prefers-color-scheme` support?\n\n### Mobile-First\n\n- Was the layout built mobile-first (using `min-width` media queries, not `max-width`)?\n- Does the mobile layout work at 375px without horizontal scrolling?\n- Is navigation adapted for mobile (not just a desktop nav that overflows)?\n- Are touch targets at least 44x44px?\n- Is body text at least 16px on mobile?\n\n## Output Format\n\n```markdown\n# Design Review: [Feature/Page Name]\n\nReviewed against: DESIGN_BRIEF.md\nPhilosophy: [named philosophy]\nDate: [date]\n\n## Screenshots Captured\n\n| Screenshot                                   | Breakpoint         | Description     |\n| -------------------------------------------- | ------------------ | --------------- |\n| `screenshots/review-[page]-desktop-1280.png` | Desktop (1280×800) | [what it shows] |\n| `screenshots/review-[page]-tablet-768.png`   | Tablet (768×1024)  | [what it shows] |\n| `screenshots/review-[page]-mobile-375.png`   | Mobile (375×812)   | [what it shows] |\n\n> All screenshots are in `.design/<feature-slug>/screenshots/`.\n\n## Summary\n\n[2-3 sentences on overall quality and the biggest finding.]\n\n## Must Fix\n\n1. **[Issue]**: [Specific description with file/component reference]. See [`screenshots/[relevant-screenshot].png`]. _Fix: [concrete suggestion]._\n\n## Should Fix\n\n1. **[Issue]**: [Description]. See [`screenshots/[relevant-screenshot].png`]. _Fix: [suggestion]._\n\n## Could Improve\n\n1. **[Issue]**: [Description]. _Suggestion: [idea]._\n\n## What Works Well\n\n[Note the strongest aspects of the implementation. This is not padding. Designers need to know what to keep doing.]\n```"
+    },
+    "whenToUse": [
+      "需要应用这个 Skill 的方法时",
+      "希望把方法转换为可复用案例时"
+    ],
+    "workflow": [
+      "R：ead the brief.** Look for the active feature's brief at `.design/<feature-slug>/DESIGN_BRIEF.md`. If multiple feature folders exist under `.design/`, ask the user which feature to review. If no `.design/` folder exists, fall back to `DESIGN_BRIEF.md` in the project root. If neither exists, ask the user what the intended design direction was.",
+      "E：xplore the built code.** Examine every component, page, and style file that was created or modified. Scan specifically for:",
+      "- All new or modified components and their relationship to pre-existing components",
+      "- Token/variable usage: are components using shared tokens or hardcoding values?",
+      "- Duplicate components that should be consolidated",
+      "- File naming and organization: do new files follow the project's conventions?",
+      "- Understand what was actually built, not what was planned."
+    ],
+    "outputs": [
+      "结构化方法说明",
+      "可复制的案例 Prompt"
+    ],
+    "dependencies": [],
+    "riskNotes": [],
+    "cases": [
+      {
+        "id": "design-review-design-review-1",
+        "title": "design-review 案例 1",
+        "summary": "使用原 Skill 的核心工作流解决一个具体问题。",
+        "input": "描述你的目标、对象和限制条件。",
+        "prompt": "请使用 design-review 的方法完成这个任务，并展示关键步骤与最终结果。",
+        "output": "结构化结果与下一步建议",
+        "executionMode": "structured"
+      },
+      {
+        "id": "design-review-design-review-2",
+        "title": "design-review 案例 2",
+        "summary": "使用原 Skill 的核心工作流解决一个具体问题。",
+        "input": "描述你的目标、对象和限制条件。",
+        "prompt": "请使用 design-review 的方法完成这个任务，并展示关键步骤与最终结果。",
+        "output": "结构化结果与下一步建议",
+        "executionMode": "structured"
+      }
+    ],
+    "source": {
+      "repository": "julianoczkowski/designer-skills",
+      "skillPath": "design-review/SKILL.md",
+      "githubUrl": "https://github.com/julianoczkowski/designer-skills",
+      "skillsShUrl": "https://skills.sh/julianoczkowski/designer-skills/design-review",
+      "license": "Apache-2.0",
+      "commit": "b56809d6f7780368a598c1078cbabdfa683aba88",
+      "installs": 6000,
+      "contentHash": "009a4312e410d76d35c01ce61996ca2ac3908434d5bed85ae7333be8c0dd7589"
+    }
+  },
+  {
+    "id": "cinematic-reel",
+    "slug": "cinematic-reel",
+    "status": "active",
+    "category": "visual",
+    "categoryLabel": "视觉设计",
+    "title": {
+      "zhCN": "cinematic-reel",
+      "sourceEN": "cinematic-reel",
+      "aliases": [
+        "Cinematic Reel Editor",
+        "0. Hard rules",
+        "1. Check prerequisites",
+        "2. Folder layout"
+      ]
+    },
+    "summary": {
+      "zhCN": "这个 Skill 用于：Edit raw camera footage into a cinematic, beat-synced vertical reel (Instagram Reels / YouTube Shorts) using FFmpeg — e.g. car delivery, event, product or travel reels. Use when the user asks for a cinematic reel, car delivery reel, beat-sync edit or B-roll montage from their clips.",
+      "sourceEN": "Edit raw camera footage into a cinematic, beat-synced vertical reel (Instagram Reels / YouTube Shorts) using FFmpeg — e.g. car delivery, event, product or travel reels. Use when the user asks for a cinematic reel, car delivery reel, beat-sync edit or B-roll montage from their clips."
+    },
+    "content": {
+      "sourceEN": "# Cinematic Reel Editor\n\nTurn a folder of raw clips + a music track into a 15–45 s, 9:16, beat-synced cinematic reel. All editing is done with FFmpeg from the command line. The plan lives in an editable edit list (`edl.json`) so any change can be re-rendered without starting over.\n\n## 0. Hard rules\n- NEVER modify or delete anything in `raw/`. Write all outputs to `work/` and `out/`.\n- Music must be supplied by the user (licensed / royalty-free). If `music/` is empty, ask for a track — do not download copyrighted music.\n- Show the user the shot plan (step 4) and get a go-ahead before the final render.\n- Prefer hard cuts on beats. Use transitions sparingly (max 2–3 per reel).\n\n## 1. Check prerequisites\n```bash\nffmpeg -version && ffprobe -version\npython3 -c \"import librosa, numpy\" || pip install librosa numpy soundfile\n```\nIf FFmpeg is missing, tell the user to install it (Windows: `winget install ffmpeg`, Mac: `brew install ffmpeg`, Linux: `sudo apt install ffmpeg`) and stop.\n\n## 2. Folder layout\n```\nproject/\n  raw/      # camera clips (read-only)\n  music/    # one music track\n  luts/     # optional .cube LUT for color grade\n  work/     # thumbnails, segments, edl.json, beats.json\n  out/      # final renders (reel_v1.mp4, reel_v2.mp4 ...)\n```\n\n## 3. Inventory and look at the footage\nFor every clip, record duration, resolution, fps and orientation:\n```bash\nffprobe -v error -show_entries format=duration:stream=width,height,r_frame_rate,codec_type -of json raw/CLIP.mp4\n```\nMake a contact sheet per clip (one frame every 2 s) and VIEW it with the Read tool so you know what is in each shot:\n```bash\nffmpeg -y -i raw/CLIP.mp4 -vf \"fps=1/2,scale=320:-1,tile=4x3\" -frames:v 1 work/thumbs/CLIP.jpg\n```\nTag each usable moment: shot type (wide / medium / close-up / detail), subject, motion, quality (sharp, stable, well lit), and whether it is slow-mo capable (source ≥ 50 fps).\n\n## 4. Build the story (shot plan)\nStructure every reel as:\n1. **Hook (0–2 s)** — the most striking shot. No logo or text intro.\n2. **Build-up** — details and anticipation (close-ups, slow motion).\n3. **Hero moment** — on the biggest beat / music drop.\n4. **Emotion / payoff** — reactions, people, celebration.\n5. **Outro (last 2–3 s)** — clean wide shot, optional text or logo, music fade.\n\nCar delivery template (adapt to footage): exterior wide → logo close-up → wheel/headlight details → family walking in (slow-mo) → cover reveal (on the drop) → key handover → reactions/smiles → interior + steering → cake / garland / pooja → first drive away (wide, outro).\n\nRules: vary shot sizes (never two wides in a row), keep each shot 0.5–2.5 s, use slow motion only for emotional or reveal shots, cut on motion where possible.\n\n## 5. Beat detection\n```python\n# work/beats.py\nimport librosa, json, sys\ny, sr = librosa.load(sys.argv[1])\ntempo, frames = librosa.beat.beat_track(y=y, sr=sr)\nbeats = librosa.frames_to_time(frames, sr=sr).tolist()\nonset = librosa.onset.onset_strength(y=y, sr=sr)\njson.dump({\"tempo\": float(tempo), \"beats\": beats}, open(\"work/beats.json\", \"w\"), indent=1)\nprint(f\"tempo {float(tempo):.1f} BPM, {len(beats)} beats\")\n```\nCut on beats (every beat for fast sections, every 2nd or 4th beat for slow ones). Find the drop (largest energy jump) and put the hero shot there.\n\n## 6. Write the edit list `work/edl.json`\n```json\n{\n  \"output\": {\"w\": 1080, \"h\": 1920, \"fps\": 30},\n  \"music\": {\"file\": \"music/track.mp3\", \"start\": 12.0, \"fade_out\": 1.5},\n  \"grade\": {\"lut\": \"luts/teal_orange.cube\", \"vignette\": true},\n  \"shots\": [\n    {\"id\": 1, \"src\": \"raw/C0001.mp4\", \"in\": 4.20, \"dur\": 1.40, \"speed\": 1.0, \"crop_x\": \"center\", \"note\": \"hook – car wide\"},\n    {\"id\": 2, \"src\": \"raw/C0007.mp4\", \"in\": 10.0, \"dur\": 1.00, \"speed\": 0.5, \"crop_x\": \"center\", \"note\": \"wheel slow-mo\"}\n  ],\n  \"transitions\": [{\"after_shot\": 4, \"type\": \"fade\", \"dur\": 0.3}],\n  \"text\": [{\"text\": \"Welcome Home\", \"start\": 18.0, \"end\": 21.0}]\n}\n```\n`dur` is the length on the timeline. With `speed` 0.5 the source range used is `dur × speed` seconds. Show the user this plan as a simple table (shot, time, description) before rendering.\n\n## 7. Render each shot as a uniform segment\nEvery segment must have identical resolution, fps, pixel format and no audio, so they join cleanly:\n```bash\n# landscape source → 9:16 crop, speed, grade\nffmpeg -y -ss IN -t SRC_DUR -i raw/CLIP.mp4 -an -vf \"\\\nsetpts=PTS/SPEED,\\\nscale=-2:1920,crop=1080:1920,\\\nfps=30,\\\nlut3d=luts/teal_orange.cube,\\\neq=contrast=1.06:saturation=1.10,\\\nvignette=PI/5,\\\nformat=yuv420p\" \\\n-c:v libx264 -crf 16 -preset medium work/seg_01.mp4\n```\n- `SRC_DUR = dur × speed`. For slow motion use a high-fps source; avoid `minterpolate` unless asked (slow and artifacts).\n- Vertical source: use `scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920`.\n- No LUT available: use `eq=contrast=1.08:saturation=1.15:gamma=0.98` plus `curves=preset=increase_contrast` for a cinematic look.\n- Optional cinematic bars are NOT used in 9:16 reels.\n\n## 8. Join segments\nNo transitions — concat demuxer:\n```bash\nprintf \"file 'seg_%02d.mp4'\\n\" 1 2 3 ... > work/list.txt\nffmpeg -y -f concat -safe 0 -i work/list.txt -c copy work/video.mp4\n```\nWith a transition between two segments use `xfade` (offset = length of first clip − transition duration):\n```bash\nffmpeg -y -i work/seg_04.mp4 -i work/seg_05.mp4 -filter_complex \\\n\"[0][1]xfade=transition=fade:duration=0.3:offset=1.2,format=yuv420p\" work/seg_04_05.mp4\n```\nEach transition shortens the timeline by its duration — re-check beat alignment.\n\n## 9. Music, text, final export\n```bash\nffmpeg -y -i work/video.mp4 -ss MUSIC_START -i music/track.mp3 -filter_complex \"\\\n[1:a]afade=t=in:d=0.3,afade=t=out:st=FADE_START:d=1.5,loudnorm=I=-14:TP=-1:LRA=11[a];\\\n[0:v]drawtext=fontfile=FONT.ttf:text='Welcome Home':fontsize=72:fontcolor=white:\\\nx=(w-text_w)/2:y=h*0.72:enable='between(t,18,21)':alpha='if(lt(t,18.4),(t-18)/0.4,1)'[v]\" \\\n-map \"[v]\" -map \"[a]\" -shortest \\\n-c:v libx264 -crf 18 -preset slow -profile:v high -pix_fmt yuv420p -r 30 \\\n-c:a aac -b:a 192k -movflags +faststart out/reel_v1.mp4\n```\nFind a font file on the machine for `drawtext` (or ask). Keep text minimal, inside the safe area (avoid the top 15% and bottom 25%, where Instagram UI sits).\n\n## 10. Quality check (always)\n- `ffprobe out/reel_vN.mp4` → 1080×1920, 30 fps, H.264, AAC, duration as planned.\n- Contact sheet of the final reel (`fps=2,scale=270:-1,tile=6x5`) and view it: no black frames, no wrong crops (heads cut off), consistent color.\n- Check loudness and that the hero shot lands on the drop.\n- Report to the user: duration, shot count, file path, and anything you were unsure about.\n\n## 11. Revisions\nNever start over. Edit `work/edl.json` (swap a shot, change `in`/`dur`, speed, text, grade), re-render only the changed segments, re-join and export as the next version (`reel_v2.mp4`). Keep old versions so the user can compare.",
+      "zhCN": "# Cinematic Reel Editor\n\nTurn a folder of raw clips + a music track into a 15–45 s, 9:16, beat-synced cinematic reel. All editing is done with FFmpeg from the command line. The plan lives in an editable edit list (`edl.json`) so any change can be re-rendered without starting over.\n\n## 0. Hard rules\n- NEVER modify or delete anything in `raw/`. Write all outputs to `work/` and `out/`.\n- Music must be supplied by the user (licensed / royalty-free). If `music/` is empty, ask for a track — do not download copyrighted music.\n- Show the user the shot plan (step 4) and get a go-ahead before the final render.\n- Prefer hard cuts on beats. Use transitions sparingly (max 2–3 per reel).\n\n## 1. Check prerequisites\n```bash\nffmpeg -version && ffprobe -version\npython3 -c \"import librosa, numpy\" || pip install librosa numpy soundfile\n```\nIf FFmpeg is missing, tell the user to install it (Windows: `winget install ffmpeg`, Mac: `brew install ffmpeg`, Linux: `sudo apt install ffmpeg`) and stop.\n\n## 2. Folder layout\n```\nproject/\n  raw/      # camera clips (read-only)\n  music/    # one music track\n  luts/     # optional .cube LUT for color grade\n  work/     # thumbnails, segments, edl.json, beats.json\n  out/      # final renders (reel_v1.mp4, reel_v2.mp4 ...)\n```\n\n## 3. Inventory and look at the footage\nFor every clip, record duration, resolution, fps and orientation:\n```bash\nffprobe -v error -show_entries format=duration:stream=width,height,r_frame_rate,codec_type -of json raw/CLIP.mp4\n```\nMake a contact sheet per clip (one frame every 2 s) and VIEW it with the Read tool so you know what is in each shot:\n```bash\nffmpeg -y -i raw/CLIP.mp4 -vf \"fps=1/2,scale=320:-1,tile=4x3\" -frames:v 1 work/thumbs/CLIP.jpg\n```\nTag each usable moment: shot type (wide / medium / close-up / detail), subject, motion, quality (sharp, stable, well lit), and whether it is slow-mo capable (source ≥ 50 fps).\n\n## 4. Build the story (shot plan)\nStructure every reel as:\n1. **Hook (0–2 s)** — the most striking shot. No logo or text intro.\n2. **Build-up** — details and anticipation (close-ups, slow motion).\n3. **Hero moment** — on the biggest beat / music drop.\n4. **Emotion / payoff** — reactions, people, celebration.\n5. **Outro (last 2–3 s)** — clean wide shot, optional text or logo, music fade.\n\nCar delivery template (adapt to footage): exterior wide → logo close-up → wheel/headlight details → family walking in (slow-mo) → cover reveal (on the drop) → key handover → reactions/smiles → interior + steering → cake / garland / pooja → first drive away (wide, outro).\n\nRules: vary shot sizes (never two wides in a row), keep each shot 0.5–2.5 s, use slow motion only for emotional or reveal shots, cut on motion where possible.\n\n## 5. Beat detection\n```python\n# work/beats.py\nimport librosa, json, sys\ny, sr = librosa.load(sys.argv[1])\ntempo, frames = librosa.beat.beat_track(y=y, sr=sr)\nbeats = librosa.frames_to_time(frames, sr=sr).tolist()\nonset = librosa.onset.onset_strength(y=y, sr=sr)\njson.dump({\"tempo\": float(tempo), \"beats\": beats}, open(\"work/beats.json\", \"w\"), indent=1)\nprint(f\"tempo {float(tempo):.1f} BPM, {len(beats)} beats\")\n```\nCut on beats (every beat for fast sections, every 2nd or 4th beat for slow ones). Find the drop (largest energy jump) and put the hero shot there.\n\n## 6. Write the edit list `work/edl.json`\n```json\n{\n  \"output\": {\"w\": 1080, \"h\": 1920, \"fps\": 30},\n  \"music\": {\"file\": \"music/track.mp3\", \"start\": 12.0, \"fade_out\": 1.5},\n  \"grade\": {\"lut\": \"luts/teal_orange.cube\", \"vignette\": true},\n  \"shots\": [\n    {\"id\": 1, \"src\": \"raw/C0001.mp4\", \"in\": 4.20, \"dur\": 1.40, \"speed\": 1.0, \"crop_x\": \"center\", \"note\": \"hook – car wide\"},\n    {\"id\": 2, \"src\": \"raw/C0007.mp4\", \"in\": 10.0, \"dur\": 1.00, \"speed\": 0.5, \"crop_x\": \"center\", \"note\": \"wheel slow-mo\"}\n  ],\n  \"transitions\": [{\"after_shot\": 4, \"type\": \"fade\", \"dur\": 0.3}],\n  \"text\": [{\"text\": \"Welcome Home\", \"start\": 18.0, \"end\": 21.0}]\n}\n```\n`dur` is the length on the timeline. With `speed` 0.5 the source range used is `dur × speed` seconds. Show the user this plan as a simple table (shot, time, description) before rendering.\n\n## 7. Render each shot as a uniform segment\nEvery segment must have identical resolution, fps, pixel format and no audio, so they join cleanly:\n```bash\n# landscape source → 9:16 crop, speed, grade\nffmpeg -y -ss IN -t SRC_DUR -i raw/CLIP.mp4 -an -vf \"\\\nsetpts=PTS/SPEED,\\\nscale=-2:1920,crop=1080:1920,\\\nfps=30,\\\nlut3d=luts/teal_orange.cube,\\\neq=contrast=1.06:saturation=1.10,\\\nvignette=PI/5,\\\nformat=yuv420p\" \\\n-c:v libx264 -crf 16 -preset medium work/seg_01.mp4\n```\n- `SRC_DUR = dur × speed`. For slow motion use a high-fps source; avoid `minterpolate` unless asked (slow and artifacts).\n- Vertical source: use `scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920`.\n- No LUT available: use `eq=contrast=1.08:saturation=1.15:gamma=0.98` plus `curves=preset=increase_contrast` for a cinematic look.\n- Optional cinematic bars are NOT used in 9:16 reels.\n\n## 8. Join segments\nNo transitions — concat demuxer:\n```bash\nprintf \"file 'seg_%02d.mp4'\\n\" 1 2 3 ... > work/list.txt\nffmpeg -y -f concat -safe 0 -i work/list.txt -c copy work/video.mp4\n```\nWith a transition between two segments use `xfade` (offset = length of first clip − transition duration):\n```bash\nffmpeg -y -i work/seg_04.mp4 -i work/seg_05.mp4 -filter_complex \\\n\"[0][1]xfade=transition=fade:duration=0.3:offset=1.2,format=yuv420p\" work/seg_04_05.mp4\n```\nEach transition shortens the timeline by its duration — re-check beat alignment.\n\n## 9. Music, text, final export\n```bash\nffmpeg -y -i work/video.mp4 -ss MUSIC_START -i music/track.mp3 -filter_complex \"\\\n[1:a]afade=t=in:d=0.3,afade=t=out:st=FADE_START:d=1.5,loudnorm=I=-14:TP=-1:LRA=11[a];\\\n[0:v]drawtext=fontfile=FONT.ttf:text='Welcome Home':fontsize=72:fontcolor=white:\\\nx=(w-text_w)/2:y=h*0.72:enable='between(t,18,21)':alpha='if(lt(t,18.4),(t-18)/0.4,1)'[v]\" \\\n-map \"[v]\" -map \"[a]\" -shortest \\\n-c:v libx264 -crf 18 -preset slow -profile:v high -pix_fmt yuv420p -r 30 \\\n-c:a aac -b:a 192k -movflags +faststart out/reel_v1.mp4\n```\nFind a font file on the machine for `drawtext` (or ask). Keep text minimal, inside the safe area (avoid the top 15% and bottom 25%, where Instagram UI sits).\n\n## 10. Quality check (always)\n- `ffprobe out/reel_vN.mp4` → 1080×1920, 30 fps, H.264, AAC, duration as planned.\n- Contact sheet of the final reel (`fps=2,scale=270:-1,tile=6x5`) and view it: no black frames, no wrong crops (heads cut off), consistent color.\n- Check loudness and that the hero shot lands on the drop.\n- Report to the user: duration, shot count, file path, and anything you were unsure about.\n\n## 11. Revisions\nNever start over. Edit `work/edl.json` (swap a shot, change `in`/`dur`, speed, text, grade), re-render only the changed segments, re-join and export as the next version (`reel_v2.mp4`). Keep old versions so the user can compare."
+    },
+    "whenToUse": [
+      "需要应用这个 Skill 的方法时",
+      "希望把方法转换为可复用案例时"
+    ],
+    "workflow": [
+      "理解用户目标",
+      "按 Skill 方法完成任务",
+      "检查并交付结果"
+    ],
+    "outputs": [
+      "结构化方法说明",
+      "可复制的案例 Prompt"
+    ],
+    "dependencies": [],
+    "riskNotes": [
+      "原 Skill 包含 Shell 或命令执行说明；站内仅解析内容，不执行原始命令。"
+    ],
+    "cases": [
+      {
+        "id": "cinematic-reel-cinematic-reel-1",
+        "title": "cinematic-reel 案例 1",
+        "summary": "使用原 Skill 的核心工作流解决一个具体问题。",
+        "input": "描述你的目标、对象和限制条件。",
+        "prompt": "请使用 cinematic-reel 的方法完成这个任务，并展示关键步骤与最终结果。",
+        "output": "结构化结果与下一步建议",
+        "executionMode": "structured"
+      },
+      {
+        "id": "cinematic-reel-cinematic-reel-2",
+        "title": "cinematic-reel 案例 2",
+        "summary": "使用原 Skill 的核心工作流解决一个具体问题。",
+        "input": "描述你的目标、对象和限制条件。",
+        "prompt": "请使用 cinematic-reel 的方法完成这个任务，并展示关键步骤与最终结果。",
+        "output": "结构化结果与下一步建议",
+        "executionMode": "structured"
+      }
+    ],
+    "source": {
+      "repository": "ukvalley/video-editing-skills",
+      "skillPath": "skills/cinematic-reel/SKILL.md",
+      "githubUrl": "https://github.com/ukvalley/video-editing-skills",
+      "skillsShUrl": "https://skills.sh/ukvalley/video-editing-skills/cinematic-reel",
+      "license": "Apache-2.0",
+      "commit": "3e5cb2e6f3aa39cf62ca53a11cfe33f967e93813",
+      "installs": 13,
+      "contentHash": "28a20baf1b66ca8ad154733527d23aa05cd3b4eb9ead9a2f6ce11e037039fabe"
+    }
+  },
+  {
+    "id": "video-storyboard",
+    "slug": "video-storyboard",
+    "status": "active",
+    "category": "visual",
+    "categoryLabel": "视觉设计",
+    "title": {
+      "zhCN": "video-storyboard",
+      "sourceEN": "video-storyboard",
+      "aliases": [
+        "Video Storyboard",
+        "Operating procedure",
+        "Step 1 - Lock the one-line objective and the platform",
+        "Step 2 - Lay the beat sheet (the five-beat spine)"
+      ]
+    },
+    "summary": {
+      "zhCN": "这个 Skill 用于：Plan a product demo, feature announcement, or launch video as a beat sheet and shot list BEFORE animating - hook in the first 3s, problem, reveal, proof, CTA - with target duration and pacing per scene type, output as a JSON scene plan that remotion-compose consumes directly. Use when someone says \"storyboard my demo\", \"plan the video\", \"what scenes do I need\", \"plan my launch video\", \"map out the demo\", or \"break this feature into scenes\" before any code. Do NOT use when the request is the animation mechanics - writing the .tsx, using interpolate/spring, registering the Composition - that is remotion-compose; do NOT use for the easing and choreography craft of a single scene - use motion-design-principles instead.",
+      "sourceEN": "Plan a product demo, feature announcement, or launch video as a beat sheet and shot list BEFORE animating - hook in the first 3s, problem, reveal, proof, CTA - with target duration and pacing per scene type, output as a JSON scene plan that remotion-compose consumes directly. Use when someone says \"storyboard my demo\", \"plan the video\", \"what scenes do I need\", \"plan my launch video\", \"map out the demo\", or \"break this feature into scenes\" before any code. Do NOT use when the request is the animation mechanics - writing the .tsx, using interpolate/spring, registering the Composition - that is remotion-compose; do NOT use for the easing and choreography craft of a single scene - use motion-design-principles instead."
+    },
+    "content": {
+      "sourceEN": "# Video Storyboard\n\nDo this BEFORE a single frame is animated. A demo video lives or dies on its plan: the wrong order, a missing hook, or a 40-second runtime kills it no matter how clean the motion is. You are the craft layer that decides *what scenes exist, in what order, for how long, and what each one says* - then hands a concrete scene plan to the mechanics pack (`remotion-setup`, `remotion-compose`, `remotion-render`) to actually build.\n\nFire eagerly on planning intent: \"storyboard my demo,\" \"plan the video,\" \"what scenes do I need,\" \"map out the launch video,\" \"break this feature into scenes.\" If the user jumps straight to \"animate this,\" still run the beat sheet first - a storyboard takes two minutes and saves a re-render.\n\nWork one example throughout: a 30-second launch video for an AI code-review tool called **Sentinel** that flags risky diffs before merge.\n\n## Operating procedure\n\nRun these in order. Do not write copy before the beats are fixed, and do not set durations before the beats exist - pacing is a function of structure, not the other way around.\n\n### Step 1 - Lock the one-line objective and the platform\n\nBefore beats, pin two things:\n\n1. **The single takeaway.** One sentence the viewer must remember: *\"Sentinel catches the bug your reviewer missed.\"* If you cannot say it in one line, the video has no spine. Everything downstream serves this line.\n2. **Platform and aspect ratio.** Landscape 16:9 (1920×1080) for a site hero or YouTube; vertical 9:16 (1080×1920) for social/Shorts; square 1:1 for feed. This sets the canvas `remotion-compose` will author and caps the runtime - social wants 15-30s, a hero loop 20-40s, a feature walkthrough up to 60s.\n\n### Step 2 - Lay the beat sheet (the five-beat spine)\n\nEvery demo, announcement, and launch video is a version of these five beats. Drop a beat only with a reason; never reorder past the hook.\n\n1. **Hook (first 3 seconds).** The most important 3 seconds in the video - viewers decide to keep watching here. Open on the result, the tension, or a bold claim, NOT your logo. \"Your reviewer just approved a bug\" beats \"Introducing Sentinel.\" The logo can ride in the corner; it is not the hook.\n2. **Problem.** Name the pain the viewer already feels, concretely. \"Risky diffs slip through review at 5pm on a Friday.\" One beat, one pain.\n3. **Reveal.** Introduce the product as the turn. This is where the name and the core mechanic land. Show the thing doing the thing.\n4. **Proof.** Make the claim believable - a real before/after, a real number, a real screen. This is the beat most videos skip and the one that converts. Use real product data, never invented metrics.\n5. **CTA.** One action, one URL. \"Try Sentinel free → sentinel.dev.\" Never two asks.\n\nFor a longer walkthrough, the Reveal and Proof beats *repeat per feature* (reveal feature 1 → proof, reveal feature 2 → proof). The hook, problem, and CTA stay single.\n\n### Step 3 - Assign a scene type and target duration to each beat\n\nEach beat becomes one or more scenes. Scene type drives pacing - text needs reading time, a UI demo needs dwell time, a logo is fast. Use these targets (at 30fps; `durationInFrames = seconds × fps`):\n\n| Scene type        | Target duration | Why |\n|-------------------|-----------------|-----|\n| Hook / title card | 2.5-3.5s        | Long enough to read one line, short enough to keep the open tight |\n| Text statement    | 2.5-4s          | ~2.5 words/sec reading speed; a 7-word line needs ~3s on screen |\n| UI / product demo | 4-6s            | The eye needs dwell time to parse a screen and the motion within it |\n| Proof / data      | 3-5s            | A number or before/after needs a beat to register |\n| Logo / CTA outro  | 2.5-4s          | Read the URL, let it breathe, end |\n\nPacing rule: the **hook is the fastest cut, the proof is the slowest.** If the total runs long, cut a scene - do not speed every scene up. A rushed demo reads as nervous.\n\n### Step 4 - Write the shot list (copy + visual per scene)\n\nFor each scene, fix four fields: the beat it serves, the scene type, the on-screen copy (the *real* words - ask the user, never invent claims), and a one-line visual description that tells `remotion-compose` what to render. This is the deliverable. The visual line is a brief, not code: \"terminal types out a git diff, one risky line highlights red\" - `remotion-compose` decides the `interpolate`/`spring` mechanics.\n\n### Step 5 - Emit the JSON scene plan\n\nRun the generator below to turn the shot list into a structured `scene-plan.json`. This is the artifact that hands off: `remotion-compose` reads it as the scene plan (one `<Sequence>` per scene, `from`/`durationInFrames` already computed), and the per-scene `motion` hint is where a `motion-design-principles` or `motion-color-and-light` decision plugs in. Save it next to the project so the mechanics pack can pick it up.\n\n### Step 6 - Hand off\n\nGive the user the beat sheet, the shot-list table, and the JSON. Then hand off explicitly: *\"Here's the scene plan. `remotion-setup` if the project isn't scaffolded yet, then `remotion-compose` will turn this JSON into the composition and `remotion-render` will export it. Want me to adjust pacing or copy before we animate?\"* If the video is specifically a product demo and you want a director's eye on what to *show* on screen per scene, pair with `product-demo-director`. Kinetic title treatments go to `kinetic-typography`; the sound bed and beat-synced cuts go to `sound-and-music-sync`; a vertical re-cut for social goes to `social-video-formatter`.\n\n## Quality bar\n\nA storyboard is A+ only when all hold:\n\n- The hook lands in the first 3 seconds and is NOT the logo - it opens on result, tension, or claim.\n- All five beats are present, or each missing beat has a stated reason (a teaser may legitimately drop Proof).\n- Every scene has a real-words copy line and a concrete visual brief - no \"some UI here,\" no invented metrics.\n- Total runtime fits the platform ceiling, and the durations follow the scene-type table (hook fast, proof slow), not a flat cut every 3s.\n- The CTA is a single action with a single URL.\n- The JSON validates and its summed durations equal the composition total `remotion-compose` will register - a mismatch is the #1 render surprise.\n\n## Do NOT\n\n- Do NOT open on a logo or a slow fade-in title - you lose the viewer before the hook.\n- Do NOT invent numbers, testimonials, or product claims for the Proof beat; ask for real data or cut the beat.\n- Do NOT write the `.tsx`, choose `interpolate` ranges, or set spring `damping` here - that is `remotion-compose`. This skill outputs a plan, not code.\n- Do NOT pace every scene the same; a flat 3s cut makes the demo feel like a slideshow.\n- Do NOT stack two CTAs or two URLs; one ask converts, two split attention.\n- Do NOT let the runtime drift past the platform ceiling to fit more - cut a scene instead.\n\n## Generator\n\nSelf-contained Node script. Save as `scene_plan.js`, edit the `beats` array for the video in question, and run `node scene_plan.js > scene-plan.json`. No dependencies. It computes frame offsets, validates the total, and emits the plan `remotion-compose` consumes.\n\n```javascript\n// Storyboard -> scene plan. Edit `meta` and `beats`, then:\n//   node scene_plan.js > scene-plan.json\nconst meta = {\n  title: 'Sentinel Launch',\n  fps: 30,\n  width: 1920,   // 1080 for 9:16 vertical, 1080 square\n  height: 1080,  // 1920 for 9:16 vertical, 1080 square\n}\n\n// One row per scene. `seconds` follows the scene-type table.\n// `motion` is a hint for motion-design-principles / motion-color-and-light;\n// it is a brief, not code.\nconst beats = [\n  { beat: 'hook',    type: 'title',   seconds: 3.0, copy: 'Your reviewer just approved a bug.', visual: 'Dark screen, line of code types in; one line snaps red.', motion: 'snappy, low damping on the red flag' },\n  { beat: 'problem', type: 'text',    seconds: 3.5, copy: 'Risky diffs slip through review at 5pm on a Friday.', visual: 'Calendar/clock motif, a PR marked merged.', motion: 'calm fade, no overshoot' },\n  { beat: 'reveal',  type: 'ui',      seconds: 5.0, copy: 'Sentinel reviews every diff before merge.', visual: 'Sentinel scans the same diff, surfaces the risky line with a reason.', motion: 'scan sweep, then settle' },\n  { beat: 'proof',   type: 'proof',   seconds: 4.5, copy: 'Caught on real PRs. Before it shipped.', visual: 'Before/after: red flag -> fixed diff, real screenshot.', motion: 'slow cross-dissolve, hold' },\n  { beat: 'cta',     type: 'cta',     seconds: 3.0, copy: 'Try Sentinel free -> sentinel.dev', visual: 'Logo + URL on brand color.', motion: 'gentle pop, end clean' },\n]\n\nconst fps = meta.fps\nlet from = 0\nconst scenes = beats.map((b, i) => {\n  const durationInFrames = Math.round(b.seconds * fps)\n  const scene = {\n    id: `${i + 1}-${b.beat}`,\n    beat: b.beat,\n    type: b.type,\n    from,\n    durationInFrames,\n    seconds: b.seconds,\n    copy: b.copy,\n    visual: b.visual,\n    motion: b.motion,\n  }\n  from += durationInFrames\n  return scene\n})\n\nconst durationInFrames = from\nconst totalSeconds = durationInFrames / fps\nconst hook = scenes[0]\nconst warnings = []\nif (hook.beat !== 'hook') warnings.push('First scene is not the hook.')\nif (hook.seconds > 3.5) warnings.push('Hook is longer than 3.5s - tighten the open.')\nif (scenes.filter((s) => s.beat === 'cta').length > 1) warnings.push('More than one CTA.')\nif (!scenes.some((s) => s.beat === 'proof')) warnings.push('No proof beat - claim may not convert.')\nif (totalSeconds > 60) warnings.push(`Runtime ${totalSeconds}s exceeds 60s ceiling - cut a scene.`)\n\nconst plan = {\n  composition: {\n    id: meta.title.replace(/[^A-Za-z0-9]/g, ''),\n    fps,\n    width: meta.width,\n    height: meta.height,\n    durationInFrames, // remotion-compose registers exactly this on the <Composition>\n  },\n  scenes,\n  meta: { totalSeconds, sceneCount: scenes.length, warnings },\n}\n\nprocess.stdout.write(JSON.stringify(plan, null, 2) + '\\n')\nif (warnings.length) console.error('WARNINGS:\\n  - ' + warnings.join('\\n  - '))\n```\n\n### Worked example output\n\nWith the `beats` above the script writes `scene-plan.json`:\n\n```json\n{\n  \"composition\": {\n    \"id\": \"SentinelLaunch\",\n    \"fps\": 30,\n    \"width\": 1920,\n    \"height\": 1080,\n    \"durationInFrames\": 570\n  },\n  \"scenes\": [\n    { \"id\": \"1-hook\",    \"beat\": \"hook\",    \"type\": \"title\", \"from\": 0,   \"durationInFrames\": 90,  \"seconds\": 3.0, \"copy\": \"Your reviewer just approved a bug.\", \"visual\": \"Dark screen, line of code types in; one line snaps red.\", \"motion\": \"snappy, low damping on the red flag\" },\n    { \"id\": \"2-problem\", \"beat\": \"problem\", \"type\": \"text\",  \"from\": 90,  \"durationInFrames\": 105, \"seconds\": 3.5, \"copy\": \"Risky diffs slip through review at 5pm on a Friday.\", \"visual\": \"Calendar/clock motif, a PR marked merged.\", \"motion\": \"calm fade, no overshoot\" },\n    { \"id\": \"3-reveal\",  \"beat\": \"reveal\",  \"type\": \"ui\",    \"from\": 195, \"durationInFrames\": 150, \"seconds\": 5.0, \"copy\": \"Sentinel reviews every diff before merge.\", \"visual\": \"Sentinel scans the same diff, surfaces the risky line with a reason.\", \"motion\": \"scan sweep, then settle\" },\n    { \"id\": \"4-proof\",   \"beat\": \"proof\",   \"type\": \"proof\", \"from\": 345, \"durationInFrames\": 135, \"seconds\": 4.5, \"copy\": \"Caught on real PRs. Before it shipped.\", \"visual\": \"Before/after: red flag -> fixed diff, real screenshot.\", \"motion\": \"slow cross-dissolve, hold\" },\n    { \"id\": \"5-cta\",     \"beat\": \"cta\",     \"type\": \"cta\",   \"from\": 480, \"durationInFrames\": 90,  \"seconds\": 3.0, \"copy\": \"Try Sentinel free -> sentinel.dev\", \"visual\": \"Logo + URL on brand color.\", \"motion\": \"gentle pop, end clean\" }\n  ],\n  \"meta\": { \"totalSeconds\": 19, \"sceneCount\": 5, \"warnings\": [] }\n}\n```\n\nRead it: 5 scenes, 570 frames = 19s at 30fps, well under the social ceiling. The hook is 3s and opens on tension, not a logo. The proof beat (4.5s) is the slowest cut; the hook and CTA (3s) are the tightest. No warnings, so it is ready for `remotion-compose` - which registers a `<Composition durationInFrames={570}>` and one `<Sequence from={…} durationInFrames={…}>` per scene, reading `from` and `durationInFrames` straight off this file.\n\n## Template: shot-list\n\nUse this when you want the human-readable table alongside the JSON. Replace the FILL fields with the real video.\n\n```\nVIDEO STORYBOARD. [FILL: video name]. [FILL: platform / aspect ratio]\nObjective (one line):  [FILL: the single takeaway]\nTarget runtime:        [FILL: 15-30s social / 20-40s hero / up to 60s walkthrough]\n\nBEAT      SCENE TYPE   DURATION   ON-SCREEN COPY (real words)        VISUAL BRIEF\nHook      title        [FILL]s    [FILL: result/tension/claim]      [FILL]\nProblem   text         [FILL]s    [FILL: one concrete pain]         [FILL]\nReveal    ui           [FILL]s    [FILL: product + core mechanic]   [FILL]\nProof     proof        [FILL]s    [FILL: real number / before-after][FILL]\nCTA       cta          [FILL]s    [FILL: one action + one URL]      [FILL]\n  (repeat Reveal + Proof per feature for a walkthrough)\n\nTOTAL:    [FILL]s   (must equal the JSON composition.durationInFrames / fps)\nHANDOFF:  scene-plan.json -> remotion-compose\n```\n\n## references/why-the-first-3-seconds\n\nViewers decide whether to keep watching in the first ~3 seconds, so the hook is not the place for your logo or a slow fade. Open on the payoff or the tension: the bug that shipped, the number that dropped, the claim that stops the scroll. The logo can live in a corner the whole time; making it the opening beat spends your most valuable seconds on the least persuasive content. If you only nail one beat, nail this one.\n\n## references/pacing-by-scene-type\n\nDifferent scenes need different time on screen, and a flat cut every N seconds reads as a slideshow:\n\n- **Title/hook** - fast. One line, snappy entrance, cut before it goes stale.\n- **Text** - give reading time. People read ~2.5 words/sec; a 7-word line needs ~3s, a 12-word line ~5s. Under-timing text is the most common pacing mistake.\n- **UI/product demo** - slowest entrances, longest dwell. The eye has to find the cursor, parse the screen, and follow the motion. Rushing a demo scene wastes the demo.\n- **Proof/data** - hold. A number or before/after needs a beat of stillness to land; motion competing with the reveal undercuts it.\n- **Logo/CTA** - read the URL, breathe, end. Do not cut on the URL before it can be read.\n\nThe whole-video rhythm: fast in (hook), vary the middle by type, slow on the proof, clean end. If the total runs long, cut a scene rather than speeding everything - a rushed demo reads as nervous, and the fix for length is fewer beats, not faster ones.\n\n## references/handoff-to-remotion\n\nThis skill is the craft/taste layer; the `remotion-video-production` pack is the mechanics. The contract between them is `scene-plan.json`:\n\n- `composition.durationInFrames` is exactly what `remotion-compose` registers on the `<Composition>`. Keep the summed scene durations equal to it - a mismatch causes a dead tail or an early cut at render (`remotion-render`'s #1 troubleshooting case).\n- Each scene's `from` and `durationInFrames` map one-to-one to a `<Sequence from={…} durationInFrames={…}>` child.\n- `copy` is the real on-screen words; `visual` is the brief `remotion-compose` turns into components; `motion` is the hint a `motion-design-principles`, `motion-color-and-light`, or `kinetic-typography` decision refines.\n- Per-scene `seconds × fps` must be an integer frame count - keep durations on clean half-second boundaries (`.5s` at 30fps = 15 frames) so nothing rounds oddly.\n\nWhen the plan validates with no warnings, hand off: scaffold with `remotion-setup` if needed, build with `remotion-compose`, export with `remotion-render`, then re-cut for vertical with `social-video-formatter`.",
+      "zhCN": "# Video Storyboard\n\nDo this BEFORE a single frame is animated. A demo video lives or dies on its plan: the wrong order, a missing hook, or a 40-second runtime kills it no matter how clean the motion is. You are the craft layer that decides *what scenes exist, in what order, for how long, and what each one says* - then hands a concrete scene plan to the mechanics pack (`remotion-setup`, `remotion-compose`, `remotion-render`) to actually build.\n\nFire eagerly on planning intent: \"storyboard my demo,\" \"plan the video,\" \"what scenes do I need,\" \"map out the launch video,\" \"break this feature into scenes.\" If the user jumps straight to \"animate this,\" still run the beat sheet first - a storyboard takes two minutes and saves a re-render.\n\nWork one example throughout: a 30-second launch video for an AI code-review tool called **Sentinel** that flags risky diffs before merge.\n\n## Operating procedure\n\nRun these in order. Do not write copy before the beats are fixed, and do not set durations before the beats exist - pacing is a function of structure, not the other way around.\n\n### Step 1 - Lock the one-line objective and the platform\n\nBefore beats, pin two things:\n\n1. **The single takeaway.** One sentence the viewer must remember: *\"Sentinel catches the bug your reviewer missed.\"* If you cannot say it in one line, the video has no spine. Everything downstream serves this line.\n2. **Platform and aspect ratio.** Landscape 16:9 (1920×1080) for a site hero or YouTube; vertical 9:16 (1080×1920) for social/Shorts; square 1:1 for feed. This sets the canvas `remotion-compose` will author and caps the runtime - social wants 15-30s, a hero loop 20-40s, a feature walkthrough up to 60s.\n\n### Step 2 - Lay the beat sheet (the five-beat spine)\n\nEvery demo, announcement, and launch video is a version of these five beats. Drop a beat only with a reason; never reorder past the hook.\n\n1. **Hook (first 3 seconds).** The most important 3 seconds in the video - viewers decide to keep watching here. Open on the result, the tension, or a bold claim, NOT your logo. \"Your reviewer just approved a bug\" beats \"Introducing Sentinel.\" The logo can ride in the corner; it is not the hook.\n2. **Problem.** Name the pain the viewer already feels, concretely. \"Risky diffs slip through review at 5pm on a Friday.\" One beat, one pain.\n3. **Reveal.** Introduce the product as the turn. This is where the name and the core mechanic land. Show the thing doing the thing.\n4. **Proof.** Make the claim believable - a real before/after, a real number, a real screen. This is the beat most videos skip and the one that converts. Use real product data, never invented metrics.\n5. **CTA.** One action, one URL. \"Try Sentinel free → sentinel.dev.\" Never two asks.\n\nFor a longer walkthrough, the Reveal and Proof beats *repeat per feature* (reveal feature 1 → proof, reveal feature 2 → proof). The hook, problem, and CTA stay single.\n\n### Step 3 - Assign a scene type and target duration to each beat\n\nEach beat becomes one or more scenes. Scene type drives pacing - text needs reading time, a UI demo needs dwell time, a logo is fast. Use these targets (at 30fps; `durationInFrames = seconds × fps`):\n\n| Scene type        | Target duration | Why |\n|-------------------|-----------------|-----|\n| Hook / title card | 2.5-3.5s        | Long enough to read one line, short enough to keep the open tight |\n| Text statement    | 2.5-4s          | ~2.5 words/sec reading speed; a 7-word line needs ~3s on screen |\n| UI / product demo | 4-6s            | The eye needs dwell time to parse a screen and the motion within it |\n| Proof / data      | 3-5s            | A number or before/after needs a beat to register |\n| Logo / CTA outro  | 2.5-4s          | Read the URL, let it breathe, end |\n\nPacing rule: the **hook is the fastest cut, the proof is the slowest.** If the total runs long, cut a scene - do not speed every scene up. A rushed demo reads as nervous.\n\n### Step 4 - Write the shot list (copy + visual per scene)\n\nFor each scene, fix four fields: the beat it serves, the scene type, the on-screen copy (the *real* words - ask the user, never invent claims), and a one-line visual description that tells `remotion-compose` what to render. This is the deliverable. The visual line is a brief, not code: \"terminal types out a git diff, one risky line highlights red\" - `remotion-compose` decides the `interpolate`/`spring` mechanics.\n\n### Step 5 - Emit the JSON scene plan\n\nRun the generator below to turn the shot list into a structured `scene-plan.json`. This is the artifact that hands off: `remotion-compose` reads it as the scene plan (one `<Sequence>` per scene, `from`/`durationInFrames` already computed), and the per-scene `motion` hint is where a `motion-design-principles` or `motion-color-and-light` decision plugs in. Save it next to the project so the mechanics pack can pick it up.\n\n### Step 6 - Hand off\n\nGive the user the beat sheet, the shot-list table, and the JSON. Then hand off explicitly: *\"Here's the scene plan. `remotion-setup` if the project isn't scaffolded yet, then `remotion-compose` will turn this JSON into the composition and `remotion-render` will export it. Want me to adjust pacing or copy before we animate?\"* If the video is specifically a product demo and you want a director's eye on what to *show* on screen per scene, pair with `product-demo-director`. Kinetic title treatments go to `kinetic-typography`; the sound bed and beat-synced cuts go to `sound-and-music-sync`; a vertical re-cut for social goes to `social-video-formatter`.\n\n## Quality bar\n\nA storyboard is A+ only when all hold:\n\n- The hook lands in the first 3 seconds and is NOT the logo - it opens on result, tension, or claim.\n- All five beats are present, or each missing beat has a stated reason (a teaser may legitimately drop Proof).\n- Every scene has a real-words copy line and a concrete visual brief - no \"some UI here,\" no invented metrics.\n- Total runtime fits the platform ceiling, and the durations follow the scene-type table (hook fast, proof slow), not a flat cut every 3s.\n- The CTA is a single action with a single URL.\n- The JSON validates and its summed durations equal the composition total `remotion-compose` will register - a mismatch is the #1 render surprise.\n\n## Do NOT\n\n- Do NOT open on a logo or a slow fade-in title - you lose the viewer before the hook.\n- Do NOT invent numbers, testimonials, or product claims for the Proof beat; ask for real data or cut the beat.\n- Do NOT write the `.tsx`, choose `interpolate` ranges, or set spring `damping` here - that is `remotion-compose`. This skill outputs a plan, not code.\n- Do NOT pace every scene the same; a flat 3s cut makes the demo feel like a slideshow.\n- Do NOT stack two CTAs or two URLs; one ask converts, two split attention.\n- Do NOT let the runtime drift past the platform ceiling to fit more - cut a scene instead.\n\n## Generator\n\nSelf-contained Node script. Save as `scene_plan.js`, edit the `beats` array for the video in question, and run `node scene_plan.js > scene-plan.json`. No dependencies. It computes frame offsets, validates the total, and emits the plan `remotion-compose` consumes.\n\n```javascript\n// Storyboard -> scene plan. Edit `meta` and `beats`, then:\n//   node scene_plan.js > scene-plan.json\nconst meta = {\n  title: 'Sentinel Launch',\n  fps: 30,\n  width: 1920,   // 1080 for 9:16 vertical, 1080 square\n  height: 1080,  // 1920 for 9:16 vertical, 1080 square\n}\n\n// One row per scene. `seconds` follows the scene-type table.\n// `motion` is a hint for motion-design-principles / motion-color-and-light;\n// it is a brief, not code.\nconst beats = [\n  { beat: 'hook',    type: 'title',   seconds: 3.0, copy: 'Your reviewer just approved a bug.', visual: 'Dark screen, line of code types in; one line snaps red.', motion: 'snappy, low damping on the red flag' },\n  { beat: 'problem', type: 'text',    seconds: 3.5, copy: 'Risky diffs slip through review at 5pm on a Friday.', visual: 'Calendar/clock motif, a PR marked merged.', motion: 'calm fade, no overshoot' },\n  { beat: 'reveal',  type: 'ui',      seconds: 5.0, copy: 'Sentinel reviews every diff before merge.', visual: 'Sentinel scans the same diff, surfaces the risky line with a reason.', motion: 'scan sweep, then settle' },\n  { beat: 'proof',   type: 'proof',   seconds: 4.5, copy: 'Caught on real PRs. Before it shipped.', visual: 'Before/after: red flag -> fixed diff, real screenshot.', motion: 'slow cross-dissolve, hold' },\n  { beat: 'cta',     type: 'cta',     seconds: 3.0, copy: 'Try Sentinel free -> sentinel.dev', visual: 'Logo + URL on brand color.', motion: 'gentle pop, end clean' },\n]\n\nconst fps = meta.fps\nlet from = 0\nconst scenes = beats.map((b, i) => {\n  const durationInFrames = Math.round(b.seconds * fps)\n  const scene = {\n    id: `${i + 1}-${b.beat}`,\n    beat: b.beat,\n    type: b.type,\n    from,\n    durationInFrames,\n    seconds: b.seconds,\n    copy: b.copy,\n    visual: b.visual,\n    motion: b.motion,\n  }\n  from += durationInFrames\n  return scene\n})\n\nconst durationInFrames = from\nconst totalSeconds = durationInFrames / fps\nconst hook = scenes[0]\nconst warnings = []\nif (hook.beat !== 'hook') warnings.push('First scene is not the hook.')\nif (hook.seconds > 3.5) warnings.push('Hook is longer than 3.5s - tighten the open.')\nif (scenes.filter((s) => s.beat === 'cta').length > 1) warnings.push('More than one CTA.')\nif (!scenes.some((s) => s.beat === 'proof')) warnings.push('No proof beat - claim may not convert.')\nif (totalSeconds > 60) warnings.push(`Runtime ${totalSeconds}s exceeds 60s ceiling - cut a scene.`)\n\nconst plan = {\n  composition: {\n    id: meta.title.replace(/[^A-Za-z0-9]/g, ''),\n    fps,\n    width: meta.width,\n    height: meta.height,\n    durationInFrames, // remotion-compose registers exactly this on the <Composition>\n  },\n  scenes,\n  meta: { totalSeconds, sceneCount: scenes.length, warnings },\n}\n\nprocess.stdout.write(JSON.stringify(plan, null, 2) + '\\n')\nif (warnings.length) console.error('WARNINGS:\\n  - ' + warnings.join('\\n  - '))\n```\n\n### Worked example output\n\nWith the `beats` above the script writes `scene-plan.json`:\n\n```json\n{\n  \"composition\": {\n    \"id\": \"SentinelLaunch\",\n    \"fps\": 30,\n    \"width\": 1920,\n    \"height\": 1080,\n    \"durationInFrames\": 570\n  },\n  \"scenes\": [\n    { \"id\": \"1-hook\",    \"beat\": \"hook\",    \"type\": \"title\", \"from\": 0,   \"durationInFrames\": 90,  \"seconds\": 3.0, \"copy\": \"Your reviewer just approved a bug.\", \"visual\": \"Dark screen, line of code types in; one line snaps red.\", \"motion\": \"snappy, low damping on the red flag\" },\n    { \"id\": \"2-problem\", \"beat\": \"problem\", \"type\": \"text\",  \"from\": 90,  \"durationInFrames\": 105, \"seconds\": 3.5, \"copy\": \"Risky diffs slip through review at 5pm on a Friday.\", \"visual\": \"Calendar/clock motif, a PR marked merged.\", \"motion\": \"calm fade, no overshoot\" },\n    { \"id\": \"3-reveal\",  \"beat\": \"reveal\",  \"type\": \"ui\",    \"from\": 195, \"durationInFrames\": 150, \"seconds\": 5.0, \"copy\": \"Sentinel reviews every diff before merge.\", \"visual\": \"Sentinel scans the same diff, surfaces the risky line with a reason.\", \"motion\": \"scan sweep, then settle\" },\n    { \"id\": \"4-proof\",   \"beat\": \"proof\",   \"type\": \"proof\", \"from\": 345, \"durationInFrames\": 135, \"seconds\": 4.5, \"copy\": \"Caught on real PRs. Before it shipped.\", \"visual\": \"Before/after: red flag -> fixed diff, real screenshot.\", \"motion\": \"slow cross-dissolve, hold\" },\n    { \"id\": \"5-cta\",     \"beat\": \"cta\",     \"type\": \"cta\",   \"from\": 480, \"durationInFrames\": 90,  \"seconds\": 3.0, \"copy\": \"Try Sentinel free -> sentinel.dev\", \"visual\": \"Logo + URL on brand color.\", \"motion\": \"gentle pop, end clean\" }\n  ],\n  \"meta\": { \"totalSeconds\": 19, \"sceneCount\": 5, \"warnings\": [] }\n}\n```\n\nRead it: 5 scenes, 570 frames = 19s at 30fps, well under the social ceiling. The hook is 3s and opens on tension, not a logo. The proof beat (4.5s) is the slowest cut; the hook and CTA (3s) are the tightest. No warnings, so it is ready for `remotion-compose` - which registers a `<Composition durationInFrames={570}>` and one `<Sequence from={…} durationInFrames={…}>` per scene, reading `from` and `durationInFrames` straight off this file.\n\n## Template: shot-list\n\nUse this when you want the human-readable table alongside the JSON. Replace the FILL fields with the real video.\n\n```\nVIDEO STORYBOARD. [FILL: video name]. [FILL: platform / aspect ratio]\nObjective (one line):  [FILL: the single takeaway]\nTarget runtime:        [FILL: 15-30s social / 20-40s hero / up to 60s walkthrough]\n\nBEAT      SCENE TYPE   DURATION   ON-SCREEN COPY (real words)        VISUAL BRIEF\nHook      title        [FILL]s    [FILL: result/tension/claim]      [FILL]\nProblem   text         [FILL]s    [FILL: one concrete pain]         [FILL]\nReveal    ui           [FILL]s    [FILL: product + core mechanic]   [FILL]\nProof     proof        [FILL]s    [FILL: real number / before-after][FILL]\nCTA       cta          [FILL]s    [FILL: one action + one URL]      [FILL]\n  (repeat Reveal + Proof per feature for a walkthrough)\n\nTOTAL:    [FILL]s   (must equal the JSON composition.durationInFrames / fps)\nHANDOFF:  scene-plan.json -> remotion-compose\n```\n\n## references/why-the-first-3-seconds\n\nViewers decide whether to keep watching in the first ~3 seconds, so the hook is not the place for your logo or a slow fade. Open on the payoff or the tension: the bug that shipped, the number that dropped, the claim that stops the scroll. The logo can live in a corner the whole time; making it the opening beat spends your most valuable seconds on the least persuasive content. If you only nail one beat, nail this one.\n\n## references/pacing-by-scene-type\n\nDifferent scenes need different time on screen, and a flat cut every N seconds reads as a slideshow:\n\n- **Title/hook** - fast. One line, snappy entrance, cut before it goes stale.\n- **Text** - give reading time. People read ~2.5 words/sec; a 7-word line needs ~3s, a 12-word line ~5s. Under-timing text is the most common pacing mistake.\n- **UI/product demo** - slowest entrances, longest dwell. The eye has to find the cursor, parse the screen, and follow the motion. Rushing a demo scene wastes the demo.\n- **Proof/data** - hold. A number or before/after needs a beat of stillness to land; motion competing with the reveal undercuts it.\n- **Logo/CTA** - read the URL, breathe, end. Do not cut on the URL before it can be read.\n\nThe whole-video rhythm: fast in (hook), vary the middle by type, slow on the proof, clean end. If the total runs long, cut a scene rather than speeding everything - a rushed demo reads as nervous, and the fix for length is fewer beats, not faster ones.\n\n## references/handoff-to-remotion\n\nThis skill is the craft/taste layer; the `remotion-video-production` pack is the mechanics. The contract between them is `scene-plan.json`:\n\n- `composition.durationInFrames` is exactly what `remotion-compose` registers on the `<Composition>`. Keep the summed scene durations equal to it - a mismatch causes a dead tail or an early cut at render (`remotion-render`'s #1 troubleshooting case).\n- Each scene's `from` and `durationInFrames` map one-to-one to a `<Sequence from={…} durationInFrames={…}>` child.\n- `copy` is the real on-screen words; `visual` is the brief `remotion-compose` turns into components; `motion` is the hint a `motion-design-principles`, `motion-color-and-light`, or `kinetic-typography` decision refines.\n- Per-scene `seconds × fps` must be an integer frame count - keep durations on clean half-second boundaries (`.5s` at 30fps = 15 frames) so nothing rounds oddly.\n\nWhen the plan validates with no warnings, hand off: scaffold with `remotion-setup` if needed, build with `remotion-compose`, export with `remotion-render`, then re-cut for vertical with `social-video-formatter`."
+    },
+    "whenToUse": [
+      "需要应用这个 Skill 的方法时",
+      "希望把方法转换为可复用案例时"
+    ],
+    "workflow": [
+      "理解用户目标",
+      "按 Skill 方法完成任务",
+      "检查并交付结果"
+    ],
+    "outputs": [
+      "结构化方法说明",
+      "可复制的案例 Prompt"
+    ],
+    "dependencies": [],
+    "riskNotes": [],
+    "cases": [
+      {
+        "id": "video-storyboard-video-storyboard-1",
+        "title": "video-storyboard 案例 1",
+        "summary": "使用原 Skill 的核心工作流解决一个具体问题。",
+        "input": "描述你的目标、对象和限制条件。",
+        "prompt": "请使用 video-storyboard 的方法完成这个任务，并展示关键步骤与最终结果。",
+        "output": "结构化结果与下一步建议",
+        "executionMode": "structured"
+      },
+      {
+        "id": "video-storyboard-video-storyboard-2",
+        "title": "video-storyboard 案例 2",
+        "summary": "使用原 Skill 的核心工作流解决一个具体问题。",
+        "input": "描述你的目标、对象和限制条件。",
+        "prompt": "请使用 video-storyboard 的方法完成这个任务，并展示关键步骤与最终结果。",
+        "output": "结构化结果与下一步建议",
+        "executionMode": "structured"
+      }
+    ],
+    "source": {
+      "repository": "skillmedev/motion-video-direction",
+      "skillPath": "skills/video-storyboard/SKILL.md",
+      "githubUrl": "https://github.com/SkillMedev/motion-video-direction",
+      "skillsShUrl": "https://skills.sh/skillmedev/motion-video-direction/video-storyboard",
+      "license": "MIT",
+      "commit": "7b6bc15d11e92177dc5b93f100feae9d1e0f9a89",
+      "installs": 18,
+      "contentHash": "4ee11ef202a7efe6af4c186a37fcbe51861a88588401273bdb79922db553a608"
     }
   }
 ]

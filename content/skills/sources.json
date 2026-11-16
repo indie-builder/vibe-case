@@ -116,6 +116,7 @@
     "suzheng/k2f/k2f-research-poster",
     "szilu/ux-designer-skill/ux-designer",
     "tt-a1i/archify/archify",
+    "ukvalley/video-editing-skills/video-editor-pro",
     "vibe-motion/skills/disney-animation-rule-skill",
     "whetspretz/design-sprinter/storyboarder"
   ],
@@ -881,6 +882,24 @@
       "skillId": "remotion",
       "skillPath": "skills/source-available/remotion/SKILL.md",
       "skillsShUrl": "https://skills.sh/hmzbo/animation-skills/remotion"
+    },
+    {
+      "repository": "julianoczkowski/designer-skills",
+      "skillId": "design-review",
+      "skillPath": "design-review/SKILL.md",
+      "skillsShUrl": "https://skills.sh/julianoczkowski/designer-skills/design-review"
+    },
+    {
+      "repository": "ukvalley/video-editing-skills",
+      "skillId": "cinematic-reel",
+      "skillPath": "skills/cinematic-reel/SKILL.md",
+      "skillsShUrl": "https://skills.sh/ukvalley/video-editing-skills/cinematic-reel"
+    },
+    {
+      "repository": "skillmedev/motion-video-direction",
+      "skillId": "video-storyboard",
+      "skillPath": "skills/video-storyboard/SKILL.md",
+      "skillsShUrl": "https://skills.sh/skillmedev/motion-video-direction/video-storyboard"
     }
   ]
 }
